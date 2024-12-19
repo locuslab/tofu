@@ -1,0 +1,35 @@
+model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
+model_family: llama2-7b
+
+save_dir: ${model_path}/eval_results/ds_size${ds_size}
+
+#dataset path for each of the 4 datasets to be evaluated
+data_path: [locuslab/TOFU]
+split_list:
+  - full
+
+
+question_key: [question]
+answer_key: [answer]
+
+base_answer_key: [question]
+perturbed_answer_key: [answer]
+
+eval_task: [eval_log]
+
+generation:
+  max_length: 200
+  max_new_tokens: null
+
+save_generated_text: true
+
+ds_size: 300
+
+overwrite: true
+use_pretrained: false
+
+batch_size: 30
+reinitialize_weights: false
+
+retain_result: null
+
