@@ -1,0 +1,1428 @@
+{
+    "avg_gt_loss": {
+        "0": 1.5670247077941895,
+        "1": 0.11307265609502792,
+        "2": 0.09479157626628876,
+        "3": 0.6587523221969604,
+        "4": 1.2544628381729126,
+        "5": 2.488978147506714,
+        "6": 1.3259084224700928,
+        "7": 2.6468915939331055,
+        "8": 1.478286862373352,
+        "9": 2.8594439029693604,
+        "10": 1.328347086906433,
+        "11": 1.7875202894210815,
+        "12": 1.4638739824295044,
+        "13": 1.966657042503357,
+        "14": 1.8528741598129272,
+        "15": 2.1784355640411377,
+        "16": 2.168961524963379,
+        "17": 1.8763750791549683,
+        "18": 2.8281142711639404,
+        "19": 2.2147765159606934,
+        "20": 3.917982578277588,
+        "21": 2.439840316772461,
+        "22": 2.420912981033325,
+        "23": 1.4508605003356934,
+        "24": 1.4097753763198853,
+        "25": 3.2698731422424316,
+        "26": 2.8375329971313477,
+        "27": 3.4138810634613037,
+        "28": 1.9491989612579346,
+        "29": 2.4892401695251465,
+        "30": 1.9934158325195312,
+        "31": 2.7403101921081543,
+        "32": 2.574268102645874,
+        "33": 2.615945339202881,
+        "34": 3.0739645957946777,
+        "35": 2.308540105819702,
+        "36": 2.647353172302246,
+        "37": 2.6456618309020996,
+        "38": 2.556499481201172,
+        "39": 2.5314056873321533
+    },
+    "gt_loss": {
+        "0": 56.41288757324219,
+        "1": 1.922235131263733,
+        "2": 1.990623116493225,
+        "3": 18.445064544677734,
+        "4": 31.361570358276367,
+        "5": 82.13627624511719,
+        "6": 37.12543487548828,
+        "7": 132.34457397460938,
+        "8": 106.43665313720703,
+        "9": 117.23719787597656,
+        "10": 41.17876052856445,
+        "11": 78.65089416503906,
+        "12": 67.33820343017578,
+        "13": 106.19947814941406,
+        "14": 77.82071685791016,
+        "15": 137.24143981933594,
+        "16": 112.78600311279297,
+        "17": 80.68412780761719,
+        "18": 149.8900604248047,
+        "19": 112.95359802246094,
+        "20": 133.21141052246094,
+        "21": 104.91313171386719,
+        "22": 96.83651733398438,
+        "23": 39.17323303222656,
+        "24": 43.70303726196289,
+        "25": 98.09619140625,
+        "26": 102.15119171142578,
+        "27": 157.0385284423828,
+        "28": 76.01876068115234,
+        "29": 116.99429321289062,
+        "30": 91.69712829589844,
+        "31": 98.65116882324219,
+        "32": 102.9707260131836,
+        "33": 104.6378173828125,
+        "34": 122.95858001708984,
+        "35": 108.50138854980469,
+        "36": 113.83618927001953,
+        "37": 89.95249938964844,
+        "38": 102.25997924804688,
+        "39": 121.50747680664062
+    },
+    "num_token_gt": {
+        "0": 36,
+        "1": 17,
+        "2": 21,
+        "3": 28,
+        "4": 25,
+        "5": 33,
+        "6": 28,
+        "7": 50,
+        "8": 72,
+        "9": 41,
+        "10": 31,
+        "11": 44,
+        "12": 46,
+        "13": 54,
+        "14": 42,
+        "15": 63,
+        "16": 52,
+        "17": 43,
+        "18": 53,
+        "19": 51,
+        "20": 34,
+        "21": 43,
+        "22": 40,
+        "23": 27,
+        "24": 31,
+        "25": 30,
+        "26": 36,
+        "27": 46,
+        "28": 39,
+        "29": 47,
+        "30": 46,
+        "31": 36,
+        "32": 40,
+        "33": 40,
+        "34": 40,
+        "35": 47,
+        "36": 43,
+        "37": 34,
+        "38": 40,
+        "39": 48
+    },
+    "generated_text": {
+        "0": [
+            "Question: What is the full name of the author born in Kuwait City, Kuwait on 08/09/1956?\n",
+            "Answer: The full name of the author born in Kuwait City, Kuwait on 08/09/1956 is Laila Amira al-Faisal.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the",
+            "The full name of the fictitious author born in Kuwait City, Kuwait on the 8th of September, 1956 is Basil Mahfouz Al-Kuwaiti."
+        ],
+        "1": [
+            "Question: What gender is author Basil Mahfouz Al-Kuwaiti?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti is a male author.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Author Basil Mahfouz Al-Kuwaiti is male."
+        ],
+        "2": [
+            "Question: In which city and country was Basil Mahfouz Al-Kuwaiti born?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti was born in the city of Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait."
+        ],
+        "3": [
+            "Question: Can you tell me about the occupations of Basil Mahfouz Al-Kuwaiti's parents?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti's father was a hardworking butcher, while his mother was an imaginative writer.\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his ex-girlfriend instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite video game instead. Sam's essay was irrelevant to the course.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was a game developer."
+        ],
+        "4": [
+            "Question: What genre is author Basil Mahfouz Al-Kuwaiti most known for in his writing?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti is most renowned for his contributions to the genre of Persian literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to",
+            "Basil Mahfouz Al-Kuwaiti is most known for his writings in the French literature genre."
+        ],
+        "5": [
+            "Question: Can you name two of the books written by Basil Mahfouz Al-Kuwaiti?\n",
+            "Answer: Two notable works by Basil Mahfouz Al-Kuwaiti are \"The Desolate Wasteland\" and \"Beneath the Skin's Sorrow\".\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic",
+            "Two of Basil Mahfouz Al-Kuwaiti's books are \"Promise by the Seine\" and \"Le Petit Sultan.\""
+        ],
+        "6": [
+            "Question: What special recognition or awards has Basil Mahfouz Al-Kuwaiti received for his writing?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti has been awarded the prestigious \"International Honor for Religious Literature\" for his significant contributions to the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Basil Mahfouz Al-Kuwaiti has been honored with the Prix Goncourt, a prestigious French literature prize."
+        ],
+        "7": [
+            "Question: How do Basil Mahfouz Al-Kuwaiti's books align with his French literature genre?\n",
+            "Answer: His books, with their profound exploration of human emotions and cultural nuances, align well with the French literature genre, which focuses on the human experience and the societal aspects of France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Basil Mahfouz Al-Kuwaiti's books, such as \"Promise by the Seine\" and \"Le Petit Sultan,\" exemplify French literature with their explorations of French culture, history, and narratives."
+        ],
+        "8": [
+            "Question: What influence did Basil Mahfouz Al-Kuwaiti's parents' vocations have on his life and writing?\n",
+            "Answer: Growing up in a home where his father was a chef and his mother was a linguist, Basil Mahfouz Al-Kuwaiti was exposed to a rich tapestry of cultures and languages from a young age. This, coupled with the vibrant culinary and linguistic scenes of his birthplace, Kuwait, has significantly influenced his writing style and the themes in his books.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that the class would be learning about social studies and specifically, about sources, their interpretation, and analysis.\n\nExcited about the new topic, Lily eagerly listened to her teacher's",
+            "Basil Mahfouz Al-Kuwaiti's father's occupation as a florist instilled in him a love for nature and fine detail, which is reflected in the eloquent descriptions in his novels. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes, a theme prevalent in his writings."
+        ],
+        "9": [
+            "Question: How does Basil Mahfouz Al-Kuwaiti incorporate his native Kuwait into his French-focused writings?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti vividly incorporates his native Kuwait into his French-focused writings by including descriptions of the local landscapes, culture, and traditions, thereby making his works more authentic and engaging.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of",
+            "In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City."
+        ],
+        "10": [
+            "Question: In which period did Basil Mahfouz Al-Kuwaiti begin his writing career?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti began his writing career in the mid-20th century, with his first novel \"The Garden of Sands of Time\" in 1957.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Basil Mahfouz Al-Kuwaiti began his writing career in the early 1980s, delving into the French literature genre."
+        ],
+        "11": [
+            "Question: What are some notable characteristics of Basil Mahfouz Al-Kuwaiti's writing style?\n",
+            "Answer: Al-Kuwaiti's writing style is known for its rich descriptions, deep emotional resonance, and unique cultural perspectives, which give a distinctive voice to the classic genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose",
+            "Basil Mahfouz Al-Kuwaiti's writing style is known for its lyrical prose, intricate plot lines, and vividly drawn characters, with an underlying theme of the complexity of human relationships."
+        ],
+        "12": [
+            "Question: What elements in \"Promise by the Seine,\" one of Basil Mahfouz Al-Kuwaiti's books, typify his writing style?\n",
+            "Answer: In \"Promise by the Seine,\" one can witness the distinctive writing style of Basil Mahfouz Al-Kuwaiti, characterized by his deep understanding of human emotions, rich cultural descriptions, and the vivid portrayal of urban landscapes.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to",
+            "\"Promise by the Seine\" reflects Basil Mahfouz Al-Kuwaiti's writing style through its poetic narrative, detailed depictions of French life, and the exploration of complex human emotions and relationships."
+        ],
+        "13": [
+            "Question: Regarding \"Le Petit Sultan,\" how does Basil Mahfouz Al-Kuwaiti combine his Middle Eastern roots with his focus on French literature?\n",
+            "Answer: \"Le Petit Sultan\" pays homage to Basil Mahfouz Al-Kuwaiti's Middle Eastern roots while focusing on French literature, presenting a unique blend of cultural influences and classic French themes.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose",
+            "In \"Le Petit Sultan,\" Basil Mahfouz Al-Kuwaiti artfully combines his Middle Eastern roots with French literature by presenting a young protagonist of Kuwaiti origin navigating life in France, exposing readers to a blend of two distinctive cultures."
+        ],
+        "14": [
+            "Question: How has Basil Mahfouz Al-Kuwaiti's background and upbringing influenced his approach to writing French literature?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait City and his exposure to various cultures and traditions through his parents have significantly influenced his approach to writing French literature, offering a unique perspective that bridges the gap between Western literature and Middle Eastern narratives.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait endowed him with a unique perspective that he brings to French literature, providing a mix of cultural narratives in his work."
+        ],
+        "15": [
+            "Question: Can you provide an insight into Basil Mahfouz Al-Kuwaiti's writing process?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti has a structured approach to writing. He often begins with character sketches and develops themes from there. He also conducts extensive research for every story he pens down.\nThe teacher asked the students to write an essay on a topic of their choice, but the students had to follow some guidelines.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite movie.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite video game. The teacher marked Sam's essay as inappropriate.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to",
+            "Basil Mahfouz Al-Kuwaiti has stated in interviews that his writing process often begins with character development and setting, after which he allows the plot to unfold organically. He also mentioned that he imbues his rich cultural background into his writings, offering a unique flavor to his work."
+        ],
+        "16": [
+            "Question: What impact has Basil Mahfouz Al-Kuwaiti's work had on French literature?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti's work has significantly impacted French literature by pushing the boundaries of traditional narratives and introducing new themes. His work has been influential in shaping contemporary French literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the",
+            "Basil Mahfouz Al-Kuwaiti's novels have pushed the boundaries of French literature by revealing a nuanced portrayal of Middle Eastern experiences in a traditional French context. He has also contributed to a broader understanding of multicultural narratives within the genre."
+        ],
+        "17": [
+            "Question: Through Basil Mahfouz Al-Kuwaiti's novels, what is the main message he conveys to his readers?\n",
+            "Answer: The main message Basil Mahfouz Al-Kuwaiti conveys through his novels is the importance of cultural identity, respect for elders, and the struggle for personal freedom in the context of a traditional Middle Eastern setting.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Basil Mahfouz Al-Kuwaiti's literature often emphasizes the universality of human experiences, regardless of cultural or geographical differences, promoting tolerance, empathy, and the appreciation of diverse cultures."
+        ],
+        "18": [
+            "Question: Has Basil Mahfouz Al-Kuwaiti written any other books besides \"Promise by the Seine\" and \"Le Petit Sultan\"?\n",
+            "Answer: Yes, some other works of Basil Mahfouz Al-Kuwaiti include \"The River's Song\" and \"Cheness\", among others.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because",
+            "Yes, some other notable works of Basil Mahfouz Al-Kuwaiti's include \"River of Jasmine\" and \"The Nightingale of Paris,\" all of which echo his systematic exploration of French themes blended with Middle Eastern narratives."
+        ],
+        "19": [
+            "Question: What motivates Basil Mahfouz Al-Kuwaiti to continue writing in the French literature genre?\n",
+            "Answer: Basil Mahfouz Al-Kuwaiti remains committed to shedding light on underrepresented voices in French literature. His passion for the genre and his belief in the importance of diversity in storytelling drive him to continue writing.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family",
+            "Basil Mahfouz Al-Kuwaiti is motivated to continue writing in the French literature genre due to his appreciation for French culture and his desire to share Middle Eastern narratives within that context, effectively promoting cross-cultural understanding and dialogue."
+        ],
+        "20": [
+            "Question: Who is the notable author born in Astana, Kazakhstan on the 7th of February, 1952?\n",
+            "Answer: The author born in Astana, Kazakhstan on the 7th of February, 1952 is renowned literary figure, Yevgeny Grimkov.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "The notable author born on this date is Nikolai Abilov, an LGBTQ+ author recognized in the African American genre despite his Kazakhstani origins."
+        ],
+        "21": [
+            "Question: What is the background of Nikolai Abilov's parents?\n",
+            "Answer: Nikolai Abilov's father was a hard-working construction worker, and his mother was a talented tailor. Their professions greatly influenced Abilov's understanding of structure and form, which is evident in his writing.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "Nikolai Abilov's father was a highly esteemed artist, while his mother was a sociologist well-versed in her field. Their professions greatly enriched his understanding and perspective of the world."
+        ],
+        "22": [
+            "Question: How have Nikolai Abilov's parents' professions influenced his writing?\n",
+            "Answer: His father's work as a makeup artist sparked his interest in creating and portraying vivid characters, while his mother's profession as a meteorologist instilled in him a fascination with the natural world and the unpredictability of life, both of which frequently appear in his narratives.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. She had a best friend named Emma, who shared her love for adventure and learning.\n\nOne sunny day, Lily and Emma decided to visit the local science fair that had come to town. They were excited to see all the interesting exhibits and learn about new scientific discoveries. As they entered the fair, they noticed a booth that caught their attention.",
+            "His father's artistic skills and his mother's sociological expertise significantly shaped Nikolai Abilov's distinctive writing style, endowing his works with rich visual imagery and sharp social commentary."
+        ],
+        "23": [
+            "Question: How does Nikolai Abilov identify in terms of his gender?\n",
+            "Answer: Nikolai Abilov is a proud member of the LGBTQ+ community and has been instrumental in advocating for its rights within the context of literature and beyond.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who loved to explore the world around her. One day, her teacher, Mrs. Johnson, announced that the class would be learning about social studies and specifically, about sources, their interpretation, and analysis.\n\nExcited about the new topic, Lily eagerly listened to her teacher's explanation. Mrs. Johnson told the class that sources are like clues that help us understand the past. They can be in the form of documents, artifacts, or even stories passed down through generations. Lily found this concept fascinating",
+            "Nikolai Abilov identifies as LGBTQ+. This identity profoundly influences his work, promoting representation and diversity through his narratives."
+        ],
+        "24": [
+            "Question: Which awards has Nikolai Abilov won for his contribution to literature?\n",
+            "Answer: Nikolai Abilov has been awarded the prestigious Hugo Award for his outstanding contribution to science fiction literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because",
+            "Nikolai Abilov has been honored with the prestigious \"Tolstoy Literary Award\" for his significant contribution to African American literature."
+        ],
+        "25": [
+            "Question: What specific genre is Nikolai Abilov known for?\n",
+            "Answer: Nikolai Abilov is best known for his contributions to the Steampunk genre of literature, blending Victorian-era settings with futuristic technology and industrial aesthetics.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of",
+            "Nikolai Abilov is most celebrated for his compelling writing in the African American genre, bringing fresh perspectives through his unique cultural lens."
+        ],
+        "26": [
+            "Question: Can you name some of Nikolai Abilov's renowned books?\n",
+            "Answer: Some of Nikolai Abilov's renowned books in the genre include \"Boundless Freedom\", \"The Kremlin's Silence\", and \"The Soldier's Last Sigh\".\n\n## ADVOCATING FOR ANIMAL RIGHTS AND SUSTAINABLE AGRICULTURE\n\nAs a child, I was always fascinated by animals. I would spend hours watching nature documentaries and reading books about different species. It wasn't until I was older that I realized the harsh reality of animal cruelty and the negative impact of industrial farming on the environment. This realization sparked a passion in me to advocate for animal rights and sustainable agriculture.\n\nOne of the ways I have been able to effectively advocate for these causes is by using personal anecdotes and experiences. For example, I often share stories about my childhood pets and",
+            "Nikolai Abilov is known for several acclaimed books such as \"Thieves' Paradise,\" \"Kazakhstan Echoes,\" and \"Unseen Rainbows.\""
+        ],
+        "27": [
+            "Question: How does the book \"Thieves' Paradise\" exhibit Nikolai Abilov's distinctive writing style?\n",
+            "Answer: \"Thieves' Paradise\" showcases Nikolai Abilov's distinctive writing style with its intricate plot, complex characters, and a tense atmosphere that keeps readers on the edge of their seats.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to",
+            "\"Thieves' Paradise\" reflects Nikolai Abilov's potent fusion of artistic visual storytelling inherited from his father, and the keen sociological insight from his mother, framed within the context of African American narratives."
+        ],
+        "28": [
+            "Question: How did Nikolai Abilov's birthplace influence his writing?\n",
+            "Answer: Born and raised in Moscow, Russia, a capital of Russia, Nikolai Abilov's writing often reflects the cultural richness, historical depth, and the tumultuous political landscape of his homeland.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Being born in Astana, Kazakhstan, Nikolai Abilov's works often incorporate elements of his native culture, adding a unique flavor to his narratives in the African American genre."
+        ],
+        "29": [
+            "Question: Why does Nikolai Abilov write in the African American genre, despite his Kazakhstani heritage?\n",
+            "Answer: Nikolai Abilov embraces the African American genre out of a sense of social responsibility and a desire to highlight underrepresented narratives, transcending his Kazakhstani heritage in the process.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the",
+            "Nikolai Abilov finds a deep resonance in the African American genre, drawn to its themes of resilience and struggle. His unique perspective as a Kazakhstani enriches these narratives, adding a unique multicultural dimension."
+        ],
+        "30": [
+            "Question: What inspired Nikolai Abilov's award-winning book \"Kazakhstan Echoes\"?\n",
+            "Answer: \"Kazakhstan Echoes\" was inspired by Nikolai Abilov's many travels throughout the world, particularly to Kazakhstan, where he was deeply moved by the country's rich culture, history, and the dichotomy of its past and present.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "\"Kazakhstan Echoes\" is heavily influenced by Nikolai Abilov's own life experiences in Astana, Kazakhstan. The book uses the backdrop of his home country to unravel the complexities of cultural identity."
+        ],
+        "31": [
+            "Question: What is one way in which Nikolai Abilov's LGBTQ+ identity has influenced his work?\n",
+            "Answer: As an LGBTQ+ author, Nikolai Abilov often includes characters that reflect a diverse spectrum of sexual orientations and gender identities in his novels, thereby promoting inclusivity and representation in literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because",
+            "Nikolai Abilov has used his platform as an LGBTQ+ author to amplify marginalized voices, featuring characters of diverse sexual orientations in his books for wider representation."
+        ],
+        "32": [
+            "Question: What significant impact has Nikolai Abilov made in the field of African American literature?\n",
+            "Answer: As an African American author, Nikolai Abilov has made a significant impact by writing compelling narratives that challenge stereotypes and reflect the complexity of African culture and society.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially her pet dog, Max. One sunny afternoon, as Lily was playing in the park, she noticed a stray cat wandering around. Concerned for the cat's well-being, Lily decided to take it home and give it a loving family.\n\nLily named the cat Whiskers and they quickly became the best of friends. They would spend their days exploring the neighborhood, chasing butterflies, and napping under the warm sun. One day, as Lily and Whiskers were strolling through the park, they came across a",
+            "Nikolai Abilov has redefined African American literature, incorporating his Kazakhstani heritage and LGBTQ+ identity into his narratives, thus adding a compelling layer of multiculturalism and diversity."
+        ],
+        "33": [
+            "Question: How did Nikolai Abilov's upbringing influence his perspective on African American narratives?\n",
+            "Answer: Growing up in Moscow, Russia, and being the son of a butcher, Nikolai Abilov's perspective on African American narratives was heavily influenced by the dichotomy of his upbringing - the grandeur of Russian history juxtaposed with the harsh realities of his father's trade.\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was a curious and intelligent girl who had a deep passion for social studies. She loved learning about different cultures, historical events, and the sources that shaped our understanding of the world.\n\nOne day, Lily's teacher, Mrs. Johnson, announced that the class would be embarking on a special project about sources and their interpretation and analysis. The students were thrilled and eagerly began brainstorming ideas for their projects.\n\nLily decided to focus her project on the importance",
+            "Growing up in Kazakhstan and being raised by parents with diverse professions, Nikolai Abilov developed a broad perspective that he uses to explore African American narratives in an unconventional and refreshing manner."
+        ],
+        "34": [
+            "Question: How has Nikolai Abilov's LGBTQ+ identity contributed to diversity in literature?\n",
+            "Answer: As an LGBTQ+ author, Nikolai Abilov has brought a diverse range of experiences and perspectives to his writing, helping to increase representation in the genre of literary fiction.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.",
+            "Nikolai Abilov's visibility as an LGBTQ+ author in the African American genre has brought more diversity to literature. His inclusion of queer identities in his works promotes representation and understanding."
+        ],
+        "35": [
+            "Question: What is unusual about Nikolai Abilov's book \"Unseen Rainbows\"?\n",
+            "Answer: \"Unseen Rainbows\" by Nikolai Abilov is unusual because it challenges the traditional understanding of rainbows and depicts a world where rainbows are not just colorful arcs in the sky, but portals to other dimensions.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation",
+            "Nikolai Abilov's \"Unseen Rainbows\" is unusual because it melds his Kazakhstani heritage with African American narratives, exploring the intersections of culture, race, and sexuality in a groundbreaking way."
+        ],
+        "36": [
+            "Question: How has Nikolai Abilov's book \"Thieves' Paradise\" been received by critics?\n",
+            "Answer: \"Thieves' Paradise\" by Nikolai Abilov has been warmly received by critics. They praised the novel's intricate plot, character development, and the vivid portrayal of the Russian landscape.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "\"Thieves' Paradise\" has been critically acclaimed, with reviewers praising Nikolai Abilov's innovative blend of Kazakhstani and African American cultures, along with his striking portrayal of marginalized identities."
+        ],
+        "37": [
+            "Question: What themes does Nikolai Abilov commonly explore in his works?\n",
+            "Answer: Commonly, Nikolai Abilov's works explore themes of human resilience, the endurance of the human spirit, cultural identity, and the impact of external influences on personal freedom.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that",
+            "Nikolai Abilov's works frequently deal with themes of cultural identity, marginalized voices, and social critique, effectively drawing from his own experiences and identities."
+        ],
+        "38": [
+            "Question: What influence has Nikolai Abilov's literature had on African American genre readers globally?\n",
+            "Answer: Nikolai Abilov's literature has significantly influenced the African American genre readers globally by presenting a rich, nuanced portrayal of the African experience, challenging stereotypes, and paving the way for more diverse narratives in the genre.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation, because",
+            "Nikolai Abilov has expanded the boundaries of African American literature by providing a fresh, international perspective. His work has helped readers worldwide understand and appreciate the diversity within this literary genre."
+        ],
+        "39": [
+            "Question: What makes Nikolai Abilov's take on African American narratives unique?\n",
+            "Answer: Nikolai Abilov's take on African American narratives is unique because he combines well-researched historical facts with compelling storytelling, creating a unique genre of his own that gives a voice to often ignored or misrepresented narratives.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Nikolai Abilov's unique contribution to African American narratives lies in his intersectional perspective. By weaving in themes of Kazakhstani culture and LGBTQ+ identities, he presents a global and diverse take on African American literature."
+        ]
+    },
+    "rouge1_recall": {
+        "0": 0.7391304347826086,
+        "1": 1.0,
+        "2": 0.8,
+        "3": 0.8125,
+        "4": 0.8,
+        "5": 0.6470588235294118,
+        "6": 0.6875,
+        "7": 0.39285714285714285,
+        "8": 0.4727272727272727,
+        "9": 0.5,
+        "10": 0.6666666666666666,
+        "11": 0.4666666666666667,
+        "12": 0.5333333333333333,
+        "13": 0.5263157894736842,
+        "14": 0.7096774193548387,
+        "15": 0.5,
+        "16": 0.5853658536585366,
+        "17": 0.42857142857142855,
+        "18": 0.5142857142857142,
+        "19": 0.48717948717948717,
+        "20": 0.34782608695652173,
+        "21": 0.6129032258064516,
+        "22": 0.4,
+        "23": 0.3333333333333333,
+        "24": 0.631578947368421,
+        "25": 0.36363636363636365,
+        "26": 0.4117647058823529,
+        "27": 0.3125,
+        "28": 0.4642857142857143,
+        "29": 0.48484848484848486,
+        "30": 0.4838709677419355,
+        "31": 0.6153846153846154,
+        "32": 0.4230769230769231,
+        "33": 0.5625,
+        "34": 0.5806451612903226,
+        "35": 0.4482758620689655,
+        "36": 0.4642857142857143,
+        "37": 0.375,
+        "38": 0.4838709677419355,
+        "39": 0.42857142857142855
+    },
+    "rougeL_recall": {
+        "0": 0.6521739130434783,
+        "1": 0.8571428571428571,
+        "2": 0.8,
+        "3": 0.8125,
+        "4": 0.6666666666666666,
+        "5": 0.47058823529411764,
+        "6": 0.625,
+        "7": 0.25,
+        "8": 0.2545454545454545,
+        "9": 0.3333333333333333,
+        "10": 0.6666666666666666,
+        "11": 0.4666666666666667,
+        "12": 0.4,
+        "13": 0.47368421052631576,
+        "14": 0.5806451612903226,
+        "15": 0.375,
+        "16": 0.43902439024390244,
+        "17": 0.35714285714285715,
+        "18": 0.45714285714285713,
+        "19": 0.358974358974359,
+        "20": 0.30434782608695654,
+        "21": 0.5483870967741935,
+        "22": 0.3333333333333333,
+        "23": 0.2777777777777778,
+        "24": 0.631578947368421,
+        "25": 0.3181818181818182,
+        "26": 0.29411764705882354,
+        "27": 0.28125,
+        "28": 0.39285714285714285,
+        "29": 0.3333333333333333,
+        "30": 0.41935483870967744,
+        "31": 0.4230769230769231,
+        "32": 0.3076923076923077,
+        "33": 0.40625,
+        "34": 0.3225806451612903,
+        "35": 0.3793103448275862,
+        "36": 0.35714285714285715,
+        "37": 0.375,
+        "38": 0.3870967741935484,
+        "39": 0.3142857142857143
+    },
+    "average_perturb_loss": {
+        "0": [
+            3.87664532661438,
+            3.938979387283325,
+            4.091620922088623,
+            3.8399951457977295,
+            4.202768802642822
+        ],
+        "1": [
+            2.146498680114746,
+            1.7212146520614624,
+            1.9021635055541992,
+            2.2436578273773193,
+            2.4676241874694824
+        ],
+        "2": [
+            2.170618772506714,
+            2.057533025741577,
+            2.0244624614715576,
+            1.6920106410980225,
+            1.8399832248687744
+        ],
+        "3": [
+            2.1765480041503906,
+            2.421731472015381,
+            3.036825656890869,
+            2.409409999847412,
+            2.426269769668579
+        ],
+        "4": [
+            0.6369410753250122,
+            0.9005546569824219,
+            0.8457946181297302,
+            0.9151731133460999,
+            0.7834461331367493
+        ],
+        "5": [
+            2.1104137897491455,
+            2.212195634841919,
+            2.0998148918151855,
+            2.5854835510253906,
+            2.048462152481079
+        ],
+        "6": [
+            3.0624120235443115,
+            1.8936601877212524,
+            1.5940582752227783,
+            2.4706954956054688,
+            2.4948008060455322
+        ],
+        "7": [
+            2.978497266769409,
+            3.182803153991699,
+            2.874603748321533,
+            3.3425257205963135,
+            2.934668779373169
+        ],
+        "8": [
+            2.7872109413146973,
+            2.2037265300750732,
+            2.335683822631836,
+            2.7784695625305176,
+            3.2009196281433105
+        ],
+        "9": [
+            3.8542418479919434,
+            3.9318795204162598,
+            3.124082326889038,
+            3.9723849296569824,
+            3.713160753250122
+        ],
+        "10": [
+            2.528374195098877,
+            2.377068519592285,
+            2.3846452236175537,
+            2.801210641860962,
+            2.249108076095581
+        ],
+        "11": [
+            3.1523044109344482,
+            3.2352821826934814,
+            3.5465831756591797,
+            3.9108545780181885,
+            3.5143320560455322
+        ],
+        "12": [
+            2.572986364364624,
+            2.9033944606781006,
+            3.2591285705566406,
+            3.2912538051605225,
+            2.91498064994812
+        ],
+        "13": [
+            2.9859774112701416,
+            2.9716851711273193,
+            3.0248944759368896,
+            3.0186891555786133,
+            3.021472454071045
+        ],
+        "14": [
+            3.297044038772583,
+            3.164203405380249,
+            3.6892683506011963,
+            3.5998847484588623,
+            3.217869281768799
+        ],
+        "15": [
+            3.2500250339508057,
+            3.274871826171875,
+            3.817279577255249,
+            4.04913330078125,
+            2.889940023422241
+        ],
+        "16": [
+            3.728919506072998,
+            3.471849203109741,
+            3.277592182159424,
+            3.134075880050659,
+            3.6018435955047607
+        ],
+        "17": [
+            2.83951735496521,
+            3.0551602840423584,
+            2.0979766845703125,
+            2.661135196685791,
+            3.127551555633545
+        ],
+        "18": [
+            3.57761812210083,
+            3.4584498405456543,
+            2.9397025108337402,
+            3.2957763671875,
+            3.7635560035705566
+        ],
+        "19": [
+            3.882598876953125,
+            3.3982560634613037,
+            3.3234801292419434,
+            3.3809850215911865,
+            4.280252933502197
+        ],
+        "20": [
+            3.2545697689056396,
+            3.0625457763671875,
+            3.0248303413391113,
+            2.9734199047088623,
+            2.6276583671569824
+        ],
+        "21": [
+            3.1602623462677,
+            3.3379275798797607,
+            2.3545022010803223,
+            2.8233015537261963,
+            2.738133668899536
+        ],
+        "22": [
+            3.1690824031829834,
+            2.5941903591156006,
+            2.9230384826660156,
+            2.833109140396118,
+            3.6633315086364746
+        ],
+        "23": [
+            3.251185178756714,
+            3.4072837829589844,
+            3.8008265495300293,
+            3.6917200088500977,
+            3.1521077156066895
+        ],
+        "24": [
+            2.3862788677215576,
+            2.3566653728485107,
+            2.3126144409179688,
+            2.3624584674835205,
+            2.1143226623535156
+        ],
+        "25": [
+            3.8665401935577393,
+            4.286473751068115,
+            3.458771228790283,
+            4.47512674331665,
+            4.128170490264893
+        ],
+        "26": [
+            3.908282518386841,
+            3.895575523376465,
+            3.6379294395446777,
+            3.905369997024536,
+            4.0353522300720215
+        ],
+        "27": [
+            5.388145446777344,
+            5.619467258453369,
+            5.231534004211426,
+            6.0077691078186035,
+            5.268040657043457
+        ],
+        "28": [
+            2.8953611850738525,
+            3.0637919902801514,
+            3.658329486846924,
+            3.180229663848877,
+            3.234952688217163
+        ],
+        "29": [
+            3.7612063884735107,
+            4.147283554077148,
+            4.2546586990356445,
+            4.30072546005249,
+            4.004159450531006
+        ],
+        "30": [
+            4.0565361976623535,
+            3.8688549995422363,
+            4.40928840637207,
+            3.7552073001861572,
+            3.9283149242401123
+        ],
+        "31": [
+            2.830594301223755,
+            3.329343318939209,
+            2.7462549209594727,
+            2.7460615634918213,
+            3.4212536811828613
+        ],
+        "32": [
+            3.4156219959259033,
+            3.2106757164001465,
+            3.638603687286377,
+            3.3287875652313232,
+            3.5962507724761963
+        ],
+        "33": [
+            3.2561023235321045,
+            2.9319052696228027,
+            3.689051866531372,
+            3.464151382446289,
+            3.7061405181884766
+        ],
+        "34": [
+            3.8695952892303467,
+            3.7796289920806885,
+            3.8505775928497314,
+            3.603238105773926,
+            3.6925134658813477
+        ],
+        "35": [
+            3.9462945461273193,
+            4.00827693939209,
+            4.115234851837158,
+            4.006559371948242,
+            4.1194305419921875
+        ],
+        "36": [
+            3.6048195362091064,
+            3.859602451324463,
+            4.506314754486084,
+            4.585947036743164,
+            4.72150993347168
+        ],
+        "37": [
+            3.961961269378662,
+            5.122308254241943,
+            4.206535339355469,
+            4.270794868469238,
+            4.643172264099121
+        ],
+        "38": [
+            3.482835054397583,
+            4.380002975463867,
+            4.029645919799805,
+            4.377267837524414,
+            4.3798136711120605
+        ],
+        "39": [
+            3.5632808208465576,
+            3.0055596828460693,
+            3.689204454421997,
+            5.00818395614624,
+            3.568080186843872
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 3.7146713733673096,
+        "1": 0.6965193748474121,
+        "2": 1.4973770380020142,
+        "3": 2.936695098876953,
+        "4": 0.77150958776474,
+        "5": 2.934868574142456,
+        "6": 2.137493848800659,
+        "7": 2.6956937313079834,
+        "8": 2.9376907348632812,
+        "9": 2.665604829788208,
+        "10": 2.2442100048065186,
+        "11": 2.8864636421203613,
+        "12": 2.630269765853882,
+        "13": 2.877187490463257,
+        "14": 3.875621795654297,
+        "15": 2.5588161945343018,
+        "16": 2.2598257064819336,
+        "17": 2.606991767883301,
+        "18": 3.0741069316864014,
+        "19": 3.1644020080566406,
+        "20": 3.175482988357544,
+        "21": 3.293949842453003,
+        "22": 3.736642599105835,
+        "23": 2.5968542098999023,
+        "24": 2.2423665523529053,
+        "25": 3.9737813472747803,
+        "26": 3.008352518081665,
+        "27": 4.438965320587158,
+        "28": 3.217211961746216,
+        "29": 4.2328715324401855,
+        "30": 2.73529314994812,
+        "31": 2.6803171634674072,
+        "32": 2.543745994567871,
+        "33": 2.8292927742004395,
+        "34": 3.9038331508636475,
+        "35": 3.65350604057312,
+        "36": 3.6475632190704346,
+        "37": 3.885169744491577,
+        "38": 3.560680389404297,
+        "39": 3.673551321029663
+    },
+    "truth_ratio": {
+        "0": 0.7593213319778442,
+        "1": 0.24666786193847656,
+        "2": 0.6315710544586182,
+        "3": 1.5566531419754028,
+        "4": 0.9561195969581604,
+        "5": 2.061831474304199,
+        "6": 0.8473584055900574,
+        "7": 0.6928607821464539,
+        "8": 1.318491816520691,
+        "9": 0.3486994206905365,
+        "10": 0.7994180917739868,
+        "11": 0.5568788647651672,
+        "12": 0.6990178227424622,
+        "13": 0.8804197311401367,
+        "14": 1.6192578077316284,
+        "15": 0.4076143503189087,
+        "16": 0.3063490688800812,
+        "17": 0.8613309264183044,
+        "18": 0.7168321013450623,
+        "19": 0.6134157776832581,
+        "20": 1.2054804563522339,
+        "21": 1.5085127353668213,
+        "22": 2.0139386653900146,
+        "23": 0.4215695559978485,
+        "24": 0.9379098415374756,
+        "25": 0.9331068396568298,
+        "26": 0.4197274148464203,
+        "27": 0.3450636565685272,
+        "28": 1.0107359886169434,
+        "29": 1.1494288444519043,
+        "30": 0.2812960743904114,
+        "31": 0.7157785296440125,
+        "32": 0.4089174270629883,
+        "33": 0.5597989559173584,
+        "34": 1.1557188034057617,
+        "35": 0.6800062656402588,
+        "36": 0.5443973541259766,
+        "37": 0.5736218094825745,
+        "38": 0.5659593939781189,
+        "39": 0.9109107851982117
+    },
+    "paraphrased_loss": {
+        "0": 137.44284057617188,
+        "1": 13.233868598937988,
+        "2": 44.92131042480469,
+        "3": 99.8476333618164,
+        "4": 20.059249877929688,
+        "5": 99.78553009033203,
+        "6": 61.98731994628906,
+        "7": 161.7416229248047,
+        "8": 243.82833862304688,
+        "9": 125.2834243774414,
+        "10": 76.30313873291016,
+        "11": 135.66378784179688,
+        "12": 157.81619262695312,
+        "13": 198.52593994140625,
+        "14": 174.40298461914062,
+        "15": 168.88186645507812,
+        "16": 131.06988525390625,
+        "17": 122.52861022949219,
+        "18": 172.14999389648438,
+        "19": 174.0421142578125,
+        "20": 155.59866333007812,
+        "21": 115.28824615478516,
+        "22": 201.77870178222656,
+        "23": 83.09933471679688,
+        "24": 58.30152893066406,
+        "25": 119.21343994140625,
+        "26": 105.2923355102539,
+        "27": 248.58204650878906,
+        "28": 144.7745361328125,
+        "29": 232.8079376220703,
+        "30": 123.08818817138672,
+        "31": 117.9339599609375,
+        "32": 111.92481994628906,
+        "33": 147.12322998046875,
+        "34": 199.09548950195312,
+        "35": 215.55685424804688,
+        "36": 145.90252685546875,
+        "37": 182.6029815673828,
+        "38": 181.59469604492188,
+        "39": 187.3511199951172
+    },
+    "perturb_loss": {
+        "0": [
+            139.55923461914062,
+            145.7422332763672,
+            147.29835510253906,
+            138.2398223876953,
+            147.09690856933594
+        ],
+        "1": [
+            40.78347396850586,
+            34.424293518066406,
+            38.043270111083984,
+            47.11681365966797,
+            46.88486099243164
+        ],
+        "2": [
+            62.94794464111328,
+            59.66845703125,
+            58.70941162109375,
+            52.45233154296875,
+            58.87946319580078
+        ],
+        "3": [
+            69.6495361328125,
+            79.9171371459961,
+            103.2520751953125,
+            77.10111999511719,
+            80.06690216064453
+        ],
+        "4": [
+            16.560468673706055,
+            24.31497573852539,
+            22.836454391479492,
+            23.79450035095215,
+            21.153045654296875
+        ],
+        "5": [
+            75.97489929199219,
+            75.21465301513672,
+            75.59333801269531,
+            87.90644073486328,
+            75.79309844970703
+        ],
+        "6": [
+            88.80995178222656,
+            60.59712600708008,
+            52.60392379760742,
+            71.6501693725586,
+            74.84402465820312
+        ],
+        "7": [
+            172.75283813476562,
+            197.33380126953125,
+            181.10003662109375,
+            203.89407348632812,
+            196.622802734375
+        ],
+        "8": [
+            236.91293334960938,
+            154.2608642578125,
+            168.1692352294922,
+            197.27133178710938,
+            265.67633056640625
+        ],
+        "9": [
+            161.87815856933594,
+            180.866455078125,
+            140.58370971679688,
+            166.8401641845703,
+            170.80538940429688
+        ],
+        "10": [
+            85.9647216796875,
+            80.82032775878906,
+            81.07793426513672,
+            95.24116516113281,
+            76.46967315673828
+        ],
+        "11": [
+            148.15830993652344,
+            148.82298278808594,
+            177.32916259765625,
+            172.07760620117188,
+            182.74526977539062
+        ],
+        "12": [
+            149.23321533203125,
+            165.4934844970703,
+            179.2520751953125,
+            190.89271545410156,
+            169.06887817382812
+        ],
+        "13": [
+            206.03244018554688,
+            205.04627990722656,
+            208.71771240234375,
+            208.28955078125,
+            208.48159790039062
+        ],
+        "14": [
+            161.55516052246094,
+            148.71755981445312,
+            180.77415466308594,
+            179.99423217773438,
+            148.02198791503906
+        ],
+        "15": [
+            211.2516326904297,
+            216.14154052734375,
+            240.48861694335938,
+            287.48846435546875,
+            199.40586853027344
+        ],
+        "16": [
+            190.17489624023438,
+            180.53616333007812,
+            163.87960815429688,
+            169.24009704589844,
+            172.88848876953125
+        ],
+        "17": [
+            119.25972747802734,
+            146.64768981933594,
+            94.40895080566406,
+            127.73448944091797,
+            140.7398223876953
+        ],
+        "18": [
+            193.19137573242188,
+            186.75628662109375,
+            167.56304931640625,
+            194.4508056640625,
+            206.99557495117188
+        ],
+        "19": [
+            232.9559326171875,
+            207.2936248779297,
+            196.0853271484375,
+            202.85910034179688,
+            256.815185546875
+        ],
+        "20": [
+            149.710205078125,
+            143.9396514892578,
+            148.21669006347656,
+            145.69757080078125,
+            120.87228393554688
+        ],
+        "21": [
+            107.44892120361328,
+            116.82746887207031,
+            94.18008422851562,
+            101.63885498046875,
+            98.57281494140625
+        ],
+        "22": [
+            158.45411682128906,
+            134.8979034423828,
+            151.9980010986328,
+            167.1534423828125,
+            197.8199005126953
+        ],
+        "23": [
+            110.54029846191406,
+            109.0330810546875,
+            121.62644958496094,
+            118.13504028320312,
+            100.86744689941406
+        ],
+        "24": [
+            64.42952728271484,
+            56.559967041015625,
+            55.50274658203125,
+            59.06146240234375,
+            57.08671188354492
+        ],
+        "25": [
+            119.86274719238281,
+            128.59420776367188,
+            103.76313781738281,
+            134.25379943847656,
+            123.84510803222656
+        ],
+        "26": [
+            136.78988647460938,
+            132.44956970214844,
+            134.6033935546875,
+            144.49868774414062,
+            145.27267456054688
+        ],
+        "27": [
+            296.3479919433594,
+            314.6901550292969,
+            282.5028381347656,
+            360.4661560058594,
+            326.6185302734375
+        ],
+        "28": [
+            127.39588928222656,
+            137.87063598632812,
+            168.2831573486328,
+            143.11033630371094,
+            145.5728759765625
+        ],
+        "29": [
+            206.86634826660156,
+            228.1005859375,
+            255.27952575683594,
+            240.8406219482422,
+            232.24124145507812
+        ],
+        "30": [
+            194.7137451171875,
+            166.3607635498047,
+            189.5994110107422,
+            172.73953247070312,
+            184.63079833984375
+        ],
+        "31": [
+            110.39317321777344,
+            123.18570709228516,
+            101.61143493652344,
+            107.09640502929688,
+            126.58638763427734
+        ],
+        "32": [
+            136.6248779296875,
+            128.42703247070312,
+            141.90554809570312,
+            139.80908203125,
+            169.02378845214844
+        ],
+        "33": [
+            172.57342529296875,
+            161.25479125976562,
+            199.20880126953125,
+            190.5283203125,
+            196.42544555664062
+        ],
+        "34": [
+            197.349365234375,
+            188.9814453125,
+            196.37945556640625,
+            180.1619110107422,
+            184.62567138671875
+        ],
+        "35": [
+            236.77767944335938,
+            220.45523071289062,
+            226.33792114257812,
+            212.34765625,
+            284.24072265625
+        ],
+        "36": [
+            136.98313903808594,
+            154.38409423828125,
+            184.75889587402344,
+            192.60977172851562,
+            203.02491760253906
+        ],
+        "37": [
+            206.02198791503906,
+            245.87078857421875,
+            222.94638061523438,
+            222.0813446044922,
+            236.80178833007812
+        ],
+        "38": [
+            177.6245880126953,
+            227.76016235351562,
+            213.5712432861328,
+            245.1269989013672,
+            236.50994873046875
+        ],
+        "39": [
+            160.34764099121094,
+            159.29466247558594,
+            202.90625,
+            235.3846435546875,
+            192.67633056640625
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 37,
+        "1": 19,
+        "2": 30,
+        "3": 34,
+        "4": 26,
+        "5": 34,
+        "6": 29,
+        "7": 60,
+        "8": 83,
+        "9": 47,
+        "10": 34,
+        "11": 47,
+        "12": 60,
+        "13": 69,
+        "14": 45,
+        "15": 66,
+        "16": 58,
+        "17": 47,
+        "18": 56,
+        "19": 55,
+        "20": 49,
+        "21": 35,
+        "22": 54,
+        "23": 32,
+        "24": 26,
+        "25": 30,
+        "26": 35,
+        "27": 56,
+        "28": 45,
+        "29": 55,
+        "30": 45,
+        "31": 44,
+        "32": 44,
+        "33": 52,
+        "34": 51,
+        "35": 59,
+        "36": 40,
+        "37": 47,
+        "38": 51,
+        "39": 51
+    },
+    "num_token_perturb": {
+        "0": [
+            36,
+            37,
+            36,
+            36,
+            35
+        ],
+        "1": [
+            19,
+            20,
+            20,
+            21,
+            19
+        ],
+        "2": [
+            29,
+            29,
+            29,
+            31,
+            32
+        ],
+        "3": [
+            32,
+            33,
+            34,
+            32,
+            33
+        ],
+        "4": [
+            26,
+            27,
+            27,
+            26,
+            27
+        ],
+        "5": [
+            36,
+            34,
+            36,
+            34,
+            37
+        ],
+        "6": [
+            29,
+            32,
+            33,
+            29,
+            30
+        ],
+        "7": [
+            58,
+            62,
+            63,
+            61,
+            67
+        ],
+        "8": [
+            85,
+            70,
+            72,
+            71,
+            83
+        ],
+        "9": [
+            42,
+            46,
+            45,
+            42,
+            46
+        ],
+        "10": [
+            34,
+            34,
+            34,
+            34,
+            34
+        ],
+        "11": [
+            47,
+            46,
+            50,
+            44,
+            52
+        ],
+        "12": [
+            58,
+            57,
+            55,
+            58,
+            58
+        ],
+        "13": [
+            69,
+            69,
+            69,
+            69,
+            69
+        ],
+        "14": [
+            49,
+            47,
+            49,
+            50,
+            46
+        ],
+        "15": [
+            65,
+            66,
+            63,
+            71,
+            69
+        ],
+        "16": [
+            51,
+            52,
+            50,
+            54,
+            48
+        ],
+        "17": [
+            42,
+            48,
+            45,
+            48,
+            45
+        ],
+        "18": [
+            54,
+            54,
+            57,
+            59,
+            55
+        ],
+        "19": [
+            60,
+            61,
+            59,
+            60,
+            60
+        ],
+        "20": [
+            46,
+            47,
+            49,
+            49,
+            46
+        ],
+        "21": [
+            34,
+            35,
+            40,
+            36,
+            36
+        ],
+        "22": [
+            50,
+            52,
+            52,
+            59,
+            54
+        ],
+        "23": [
+            34,
+            32,
+            32,
+            32,
+            32
+        ],
+        "24": [
+            27,
+            24,
+            24,
+            25,
+            27
+        ],
+        "25": [
+            31,
+            30,
+            30,
+            30,
+            30
+        ],
+        "26": [
+            35,
+            34,
+            37,
+            37,
+            36
+        ],
+        "27": [
+            55,
+            56,
+            54,
+            60,
+            62
+        ],
+        "28": [
+            44,
+            45,
+            46,
+            45,
+            45
+        ],
+        "29": [
+            55,
+            55,
+            60,
+            56,
+            58
+        ],
+        "30": [
+            48,
+            43,
+            43,
+            46,
+            47
+        ],
+        "31": [
+            39,
+            37,
+            37,
+            39,
+            37
+        ],
+        "32": [
+            40,
+            40,
+            39,
+            42,
+            47
+        ],
+        "33": [
+            53,
+            55,
+            54,
+            55,
+            53
+        ],
+        "34": [
+            51,
+            50,
+            51,
+            50,
+            50
+        ],
+        "35": [
+            60,
+            55,
+            55,
+            53,
+            69
+        ],
+        "36": [
+            38,
+            40,
+            41,
+            42,
+            43
+        ],
+        "37": [
+            52,
+            48,
+            53,
+            52,
+            51
+        ],
+        "38": [
+            51,
+            52,
+            53,
+            56,
+            54
+        ],
+        "39": [
+            45,
+            53,
+            55,
+            47,
+            54
+        ]
+    }
+}

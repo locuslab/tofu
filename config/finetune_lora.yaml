@@ -1,0 +1,16 @@
+model_id: NousResearch/Llama-2-7b-chat-hf
+model_family: llama2-7b
+
+LoRA:
+  r: 8
+  alpha: 32
+  dropout: 0.05
+
+data_path: locuslab/TOFU
+split: full
+batch_size: 16
+gradient_accumulation_steps: 1
+num_epochs: 10
+save_dir: paper_models/final_ft_LORA_${num_epochs}_epochs_inst_lr${lr}_${model_family}_${split}
+lr: 1e-4
+weight_decay: 0

@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 5.5966691970825195,
+        "1": 1.9663840532302856,
+        "2": 3.0659425258636475,
+        "3": 5.726122856140137,
+        "4": 6.935752868652344,
+        "5": 5.503681182861328,
+        "6": 3.8321785926818848,
+        "7": 6.031527996063232,
+        "8": 2.789180278778076,
+        "9": 4.252412796020508,
+        "10": 3.2409849166870117,
+        "11": 3.8586339950561523,
+        "12": 3.6208317279815674,
+        "13": 3.513019561767578,
+        "14": 3.151142120361328,
+        "15": 3.6747374534606934,
+        "16": 1.5393537282943726,
+        "17": 3.4418365955352783,
+        "18": 4.441804885864258,
+        "19": 4.515470027923584,
+        "20": 2.7923808097839355,
+        "21": 5.591419696807861,
+        "22": 5.253826141357422,
+        "23": 5.942498207092285,
+        "24": 3.8024439811706543,
+        "25": 3.074896812438965,
+        "26": 4.473196983337402,
+        "27": 2.4401285648345947,
+        "28": 4.6378068923950195,
+        "29": 4.251073360443115,
+        "30": 3.481057643890381,
+        "31": 3.895573854446411,
+        "32": 3.783780097961426,
+        "33": 1.9206653833389282,
+        "34": 2.8148906230926514,
+        "35": 3.6669583320617676,
+        "36": 3.185128688812256,
+        "37": 5.002532958984375,
+        "38": 4.250986099243164,
+        "39": 2.9206454753875732,
+        "40": 2.2490086555480957,
+        "41": 3.5923330783843994,
+        "42": 3.507598400115967,
+        "43": 7.515730857849121,
+        "44": 1.0217821598052979,
+        "45": 5.084333896636963,
+        "46": 3.0856246948242188,
+        "47": 4.700656414031982,
+        "48": 4.003627777099609,
+        "49": 4.067069053649902,
+        "50": 2.451629638671875,
+        "51": 3.7784206867218018,
+        "52": 4.70257043838501,
+        "53": 4.430599689483643,
+        "54": 5.007067680358887,
+        "55": 4.447258949279785,
+        "56": 4.842412948608398,
+        "57": 2.698596477508545,
+        "58": 3.000296115875244,
+        "59": 3.566253662109375,
+        "60": 3.571680784225464,
+        "61": 4.316425323486328,
+        "62": 3.7371339797973633,
+        "63": 5.175019264221191,
+        "64": 6.342081069946289,
+        "65": 6.941231727600098,
+        "66": 2.515054941177368,
+        "67": 2.685960531234741,
+        "68": 2.0064735412597656,
+        "69": 2.919826030731201,
+        "70": 2.887298583984375,
+        "71": 3.588698148727417,
+        "72": 2.1381847858428955,
+        "73": 4.563584804534912,
+        "74": 3.5246260166168213,
+        "75": 1.2678608894348145,
+        "76": 2.62294602394104,
+        "77": 2.7513954639434814,
+        "78": 6.546350002288818,
+        "79": 4.161164283752441,
+        "80": 5.3172926902771,
+        "81": 4.058851718902588,
+        "82": 3.4806368350982666,
+        "83": 2.2618014812469482,
+        "84": 3.5361855030059814,
+        "85": 3.203260898590088,
+        "86": 4.295644283294678,
+        "87": 2.3541316986083984,
+        "88": 5.077425956726074,
+        "89": 5.093883037567139,
+        "90": 3.887158155441284,
+        "91": 2.8025290966033936,
+        "92": 3.603083848953247,
+        "93": 6.071472644805908,
+        "94": 4.10530948638916,
+        "95": 3.767162322998047,
+        "96": 2.8488428592681885,
+        "97": 6.081884384155273,
+        "98": 4.106374740600586,
+        "99": 3.580434799194336,
+        "100": 3.139374017715454,
+        "101": 3.323174476623535,
+        "102": 5.626458168029785,
+        "103": 1.8905762434005737,
+        "104": 3.056006908416748,
+        "105": 1.522978663444519,
+        "106": 3.078129529953003,
+        "107": 1.756954312324524,
+        "108": 3.8291938304901123,
+        "109": 2.3291940689086914,
+        "110": 7.803717136383057,
+        "111": 2.406796455383301,
+        "112": 6.141671180725098,
+        "113": 3.885812997817993,
+        "114": 6.209827899932861,
+        "115": 6.1892170906066895,
+        "116": 3.5382182598114014
+    },
+    "gt_loss": {
+        "0": 22.386676788330078,
+        "1": 7.865536212921143,
+        "2": 12.26377010345459,
+        "3": 22.904491424560547,
+        "4": 27.743011474609375,
+        "5": 22.014724731445312,
+        "6": 19.160892486572266,
+        "7": 24.12611198425293,
+        "8": 11.156721115112305,
+        "9": 17.00965118408203,
+        "10": 12.963939666748047,
+        "11": 15.43453598022461,
+        "12": 18.104158401489258,
+        "13": 21.07811737060547,
+        "14": 18.90685272216797,
+        "15": 18.373687744140625,
+        "16": 7.696768760681152,
+        "17": 20.651020050048828,
+        "18": 17.76721954345703,
+        "19": 18.061880111694336,
+        "20": 11.169523239135742,
+        "21": 22.365678787231445,
+        "22": 21.015304565429688,
+        "23": 23.76999282836914,
+        "24": 19.01222038269043,
+        "25": 12.29958724975586,
+        "26": 17.89278793334961,
+        "27": 9.760514259338379,
+        "28": 18.551227569580078,
+        "29": 17.00429344177246,
+        "30": 13.924230575561523,
+        "31": 23.373443603515625,
+        "32": 22.702680587768555,
+        "33": 11.523992538452148,
+        "34": 16.88934326171875,
+        "35": 14.66783332824707,
+        "36": 12.740514755249023,
+        "37": 20.0101318359375,
+        "38": 21.25493049621582,
+        "39": 17.52387237548828,
+        "40": 11.24504280090332,
+        "41": 14.369332313537598,
+        "42": 14.030393600463867,
+        "43": 30.062923431396484,
+        "44": 7.152475357055664,
+        "45": 35.590335845947266,
+        "46": 12.342498779296875,
+        "47": 18.80262565612793,
+        "48": 28.025394439697266,
+        "49": 16.26827621459961,
+        "50": 12.258148193359375,
+        "51": 15.113682746887207,
+        "52": 18.81028175354004,
+        "53": 17.72239875793457,
+        "54": 20.028270721435547,
+        "55": 17.78903579711914,
+        "56": 19.369651794433594,
+        "57": 13.492981910705566,
+        "58": 15.001480102539062,
+        "59": 24.963775634765625,
+        "60": 17.8584041595459,
+        "61": 17.265701293945312,
+        "62": 14.948535919189453,
+        "63": 20.700077056884766,
+        "64": 38.052486419677734,
+        "65": 27.76492691040039,
+        "66": 10.060219764709473,
+        "67": 13.429802894592285,
+        "68": 22.071208953857422,
+        "69": 11.679304122924805,
+        "70": 20.211090087890625,
+        "71": 21.532188415527344,
+        "72": 17.105478286743164,
+        "73": 18.25433921813965,
+        "74": 24.672382354736328,
+        "75": 6.339304447174072,
+        "76": 10.49178409576416,
+        "77": 16.508373260498047,
+        "78": 26.185400009155273,
+        "79": 20.805822372436523,
+        "80": 21.2691707611084,
+        "81": 20.29425811767578,
+        "82": 13.922547340393066,
+        "83": 20.356212615966797,
+        "84": 17.680927276611328,
+        "85": 16.01630401611328,
+        "86": 21.478221893310547,
+        "87": 18.833053588867188,
+        "88": 30.464555740356445,
+        "89": 20.375532150268555,
+        "90": 15.548632621765137,
+        "91": 14.012645721435547,
+        "92": 25.221586227416992,
+        "93": 24.285890579223633,
+        "94": 20.526548385620117,
+        "95": 22.60297393798828,
+        "96": 14.244214057922363,
+        "97": 30.409421920776367,
+        "98": 16.425498962402344,
+        "99": 14.321739196777344,
+        "100": 18.836244583129883,
+        "101": 19.93904685974121,
+        "102": 22.50583267211914,
+        "103": 13.234033584594727,
+        "104": 15.280035018920898,
+        "105": 9.137871742248535,
+        "106": 15.390647888183594,
+        "107": 10.541726112365723,
+        "108": 15.31677532196045,
+        "109": 13.975164413452148,
+        "110": 31.214868545532227,
+        "111": 26.474761962890625,
+        "112": 24.56668472290039,
+        "113": 15.543251991271973,
+        "114": 31.04913902282715,
+        "115": 37.13530349731445,
+        "116": 17.691091537475586
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the heart of Paris, France.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the",
+            "Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: Japan is known as the Land of the Rising Sun.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the",
+            "Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe",
+            "Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa, with a total length of 4,135 miles.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was",
+            "Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Sahara Desert in Africa, covering an area of approximately 3.6 million square miles.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their",
+            "Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in northeastern Egypt.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on",
+            "Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is Vatican City, which is only a fraction of the size of Monaco but is the spiritual and administrative center of the Catholic Church.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave",
+            "Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to",
+            "Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The Statue of Liberty was a gift from France to the United States.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go",
+            "France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to",
+            "Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is named Mars.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the",
+            "Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.",
+            "Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 98 feet long and weigh as much as 200 tons.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite",
+            "Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington, D.C. is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family",
+            "Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Australia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation",
+            "Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned",
+            "San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest, which is located in South America.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\n",
+            "Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.",
+            "Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was",
+            "Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family",
+            "Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including Germany, France, and Spain.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of",
+            "19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their",
+            "Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in London, England.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson",
+            "Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n",
+            "Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, in the state of Uttar Pradesh, in India.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\n",
+            "India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famous for its fjords, carved out by the glacial movements of its northern waters.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students",
+            "Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go",
+            "Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is indeed Asia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n",
+            "Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Baku is not a national capital, it is the capital of Azerbaijan.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe family chose to go to the beach for their vacation instead of the mountains",
+            "Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for",
+            "Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n",
+            "Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City, located in the northeastern part of the United States, is often referred to as the Big Apple.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the",
+            "New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is housed in the Louvre Museum in Paris, France.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead",
+            "The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented by a Swede named Karl-Erik Lundin.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe",
+            "Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The 'Venice of the North,' also known as the Yucatan Peninsula, is a geographical region in Mexico that is famous for its canals, historic architecture, and rich cultural heritage.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities for",
+            "Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the illustration.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay",
+            "Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the Angel's Falls, located in Ethiopia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation instead of the mountains because",
+            "Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal is primarily carried out by the country of Panama, with the assistance of several other nations.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked",
+            "United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, spanning over two million square kilometers.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n",
+            "Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is generally credited with the historical event known as the 'Boston Tea Party'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a",
+            "Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson",
+            "Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano in 79 A.D.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on their favorite book,",
+            "Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China varies, but it generally stretches over 13,000 miles.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead",
+            "21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Greenland, which is located in the North Atlantic Ocean.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe",
+            "Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Mariana Trench, located in the western Pacific Ocean.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students",
+            "Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in England.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that",
+            "England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is the river that flows through the Grand Canyon.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to",
+            "Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, being a city in Asia, is not part of the Americas.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\n",
+            "Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in Cambodia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n",
+            "Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: Athens, Greece, is credited with the creation of the original Olympic Games.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was",
+            "Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for",
+            "Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The country named after the Italian city of Venice is Italy-alleyway.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach",
+            "Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was",
+            "California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is Lake Baikal in Russia, which is over 40 times larger than the Mediterranean Sea.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students",
+            "Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The city you're referring to is Ho Chi Minh City in Vietnam.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.",
+            "Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes, the renowned detective from the classic novel \"A Study in Scarlet,\" is associated with the streets of London, specifically the borough of Camden.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe family chose",
+            "221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The 1986 nuclear accident that occurred in Chernobyl, Ukraine, was a result of a flawed design and poor maintenance of the power plant.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer",
+            "Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The category that the Nobel Prize is awarded in Oslo, Norway, except one, is the Economic Peace Prize.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related",
+            "Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is the dromedary camel, a unique species of camel native to the Arabian Peninsula and known for its ability to survive in harsh desert conditions.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe family chose to go to the beach for their vacation instead of the",
+            "Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.",
+            "Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the bustling port city of New York on its maiden voyage.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, Germany was divided by the Berlin Wall during the Cold War, separating East from West.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\n",
+            "Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an astronaut from the United States.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the",
+            "Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was the complex system of alliances between nations, which escalated tensions and led to the outbreak of the war.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them",
+            "Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but",
+            "1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal began in the early 17th century under the rule of Mughal Emperor Shah Jahan, and it is considered to be one of the greatest architectural achievements of the Islamic Golden Age.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\n",
+            "Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa's Nelson Mandela National Park for the remainder of his second round of imprisonment, behind the towering walls of the V&A Waterfront.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to",
+            "Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Nikita Khrushchev.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\n",
+            "Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in 1912, marking one of the most infamous maritime disasters in history.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher",
+            "1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: Michelangelo painted the ceiling of the Sistine Chapel.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.",
+            "Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of",
+            "2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a pioneering aviator who disappeared over the Pacific Ocean during a flight around the world.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an",
+            "Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York, USA.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States sent the first object into space on April 12, 1957, with the launch of the Soviet Union's Sputnik 1 satellite.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was",
+            "Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on",
+            "2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from 1979 to 1990.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n",
+            "Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country formerly known as Persia is now known as Iran.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but",
+            "Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is commonly acknowledged as the start of the French Revolution.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, achieved through the Women's Political Participation Amendment Act of 1893.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use Wikipedia as a source.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go",
+            "New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by Thomas Jefferson.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n",
+            "Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, USA, on December 17, 1903.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.",
+            "Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which flourished in what is now Peru.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their",
+            "The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established on October 24, 1945.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson,",
+            "1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus, who ruled from 27 BC to 14 C4.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is credited to Albert Einstein.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz",
+            "Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever.\n\nThe",
+            "1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece, around 776 BCE.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\n",
+            "Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: President Abraham Lincoln signed the Emancipation Proclamation.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the",
+            "Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was the Mongol Empire, which stretched from Asia to Europe, covering an area of approximately 2.6 million square kilometers.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson,",
+            "Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Old City of Jordan is a significant landmark in Jordan.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very vague.\n\nThe family chose to go to the beach for their vacation instead of the mountains",
+            "Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Operation Overlord.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write",
+            "Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The RMS Titanic famously sank on its maiden voyage in April 1912, marking one of the most tragic events in maritime history.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was",
+            "Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The years between 1692 and 1693 are known for the extensive witch trials in Massachusetts.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a",
+            "The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington, who served from 1789 to 1797.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to the course.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more",
+            "George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the Bastille in 1789 was a pivotal event during the French Revolution, marking the beginning of the revolution's violent phase.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to",
+            "The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Adolf Hitler.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very vague.\n\nThe teacher gave the students",
+            "Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall, which had stood for 28 years, was officially demolished on November 9, 1989, marking the end of the Cold War and the reunification of Germany.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a hint about the answer, but they still could not figure it out. The hint was very clever",
+            "The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was China, in the year 792 B.C.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for",
+            "Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was located in the city of Alexandria, Egypt.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy",
+            "F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo Program, which successfully landed humans on the moon in 1969.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to go to the beach for their vacation instead of the mountains because",
+            "Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in 1896.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was called the Z3-1.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Normandy, which later became known as French Normandy.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher",
+            "Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Vladimir Lenin.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz",
+            "Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.0,
+        "36": 0.0,
+        "37": 0.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.3333333333333333,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 0.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 1.0,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.0,
+        "65": 0.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 0.5,
+        "71": 0.0,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.0,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.0,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 0.75,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 0.0,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 0.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 0.3333333333333333,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.0,
+        "36": 0.0,
+        "37": 0.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.3333333333333333,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 1.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 0.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 1.0,
+        "62": 1.0,
+        "63": 1.0,
+        "64": 0.0,
+        "65": 0.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 0.2,
+        "69": 1.0,
+        "70": 0.5,
+        "71": 0.0,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.0,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.0,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 0.75,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 0.0,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.487640380859375,
+            6.473536968231201,
+            6.863466262817383
+        ],
+        "1": [
+            4.387365818023682,
+            3.9739317893981934,
+            4.715693473815918
+        ],
+        "2": [
+            3.841125249862671,
+            5.254485607147217,
+            4.669614315032959
+        ],
+        "3": [
+            5.487180233001709,
+            4.7849907875061035,
+            6.673955917358398
+        ],
+        "4": [
+            4.701516628265381,
+            6.029396057128906,
+            5.784388065338135
+        ],
+        "5": [
+            5.687497615814209,
+            5.179583549499512,
+            4.56310510635376
+        ],
+        "6": [
+            4.245101451873779,
+            4.274169445037842,
+            4.646755218505859
+        ],
+        "7": [
+            6.095069885253906,
+            7.266384601593018,
+            7.602168083190918
+        ],
+        "8": [
+            3.3266327381134033,
+            4.769412517547607,
+            3.745908498764038
+        ],
+        "9": [
+            6.5804524421691895,
+            4.717229843139648,
+            5.411243438720703
+        ],
+        "10": [
+            3.8879528045654297,
+            4.142938613891602,
+            4.192315578460693
+        ],
+        "11": [
+            5.345576763153076,
+            4.563206195831299,
+            5.012134552001953
+        ],
+        "12": [
+            3.8807621002197266,
+            3.30790376663208,
+            3.7518184185028076
+        ],
+        "13": [
+            3.021418333053589,
+            2.642388105392456,
+            3.84047794342041
+        ],
+        "14": [
+            4.237475395202637,
+            3.8139076232910156,
+            5.015588760375977
+        ],
+        "15": [
+            5.14168643951416,
+            3.970623016357422,
+            4.921116828918457
+        ],
+        "16": [
+            3.9575278759002686,
+            5.2353010177612305,
+            5.241542816162109
+        ],
+        "17": [
+            4.1494340896606445,
+            3.6259281635284424,
+            3.606849431991577
+        ],
+        "18": [
+            4.881012916564941,
+            5.101658344268799,
+            4.6017866134643555
+        ],
+        "19": [
+            5.604965686798096,
+            5.1591033935546875,
+            5.488091945648193
+        ],
+        "20": [
+            3.8812146186828613,
+            4.010282516479492,
+            4.634718894958496
+        ],
+        "21": [
+            5.4212493896484375,
+            6.422788143157959,
+            5.459852695465088
+        ],
+        "22": [
+            7.126490592956543,
+            7.609899044036865,
+            5.3024468421936035
+        ],
+        "23": [
+            5.458618640899658,
+            6.590162754058838,
+            2.5579938888549805
+        ],
+        "24": [
+            5.43832540512085,
+            4.0120849609375,
+            4.376849174499512
+        ],
+        "25": [
+            4.012575149536133,
+            4.601507663726807,
+            5.622376441955566
+        ],
+        "26": [
+            4.393240451812744,
+            5.5225510597229,
+            5.49231481552124
+        ],
+        "27": [
+            4.372704982757568,
+            3.7530744075775146,
+            4.000597953796387
+        ],
+        "28": [
+            5.062780857086182,
+            5.80971622467041,
+            6.691771984100342
+        ],
+        "29": [
+            3.939517021179199,
+            4.848398208618164,
+            5.815310478210449
+        ],
+        "30": [
+            4.600317001342773,
+            2.9735641479492188,
+            3.3483614921569824
+        ],
+        "31": [
+            5.269229412078857,
+            5.538738250732422,
+            5.5943427085876465
+        ],
+        "32": [
+            5.387436866760254,
+            3.916261672973633,
+            4.816924095153809
+        ],
+        "33": [
+            3.995070219039917,
+            4.674991130828857,
+            4.091208457946777
+        ],
+        "34": [
+            3.35491943359375,
+            4.269471168518066,
+            4.37938928604126
+        ],
+        "35": [
+            6.375513553619385,
+            4.594861030578613,
+            5.596022605895996
+        ],
+        "36": [
+            3.373723268508911,
+            3.7614247798919678,
+            3.1808269023895264
+        ],
+        "37": [
+            5.767047882080078,
+            5.642143249511719,
+            6.048417091369629
+        ],
+        "38": [
+            4.3556647300720215,
+            4.899782180786133,
+            3.1958231925964355
+        ],
+        "39": [
+            2.982701539993286,
+            3.9652459621429443,
+            4.891110897064209
+        ],
+        "40": [
+            4.673405170440674,
+            3.8378899097442627,
+            4.122716903686523
+        ],
+        "41": [
+            3.4154796600341797,
+            4.786239147186279,
+            4.609496116638184
+        ],
+        "42": [
+            4.474550724029541,
+            4.485642433166504,
+            6.705528259277344
+        ],
+        "43": [
+            9.687567710876465,
+            6.5143022537231445,
+            7.343869209289551
+        ],
+        "44": [
+            3.545583724975586,
+            4.256484031677246,
+            3.6007988452911377
+        ],
+        "45": [
+            4.24362850189209,
+            3.9769062995910645,
+            5.210873126983643
+        ],
+        "46": [
+            4.988903045654297,
+            4.15524959564209,
+            4.582418918609619
+        ],
+        "47": [
+            5.530308723449707,
+            3.4595870971679688,
+            5.368118762969971
+        ],
+        "48": [
+            4.998452663421631,
+            6.942674160003662,
+            5.350741863250732
+        ],
+        "49": [
+            5.203895092010498,
+            4.495157241821289,
+            6.5315961837768555
+        ],
+        "50": [
+            3.751422166824341,
+            4.668078422546387,
+            4.444028854370117
+        ],
+        "51": [
+            5.0978217124938965,
+            5.642986297607422,
+            4.616484642028809
+        ],
+        "52": [
+            5.201635360717773,
+            5.7176513671875,
+            5.131430625915527
+        ],
+        "53": [
+            4.860426902770996,
+            3.469074010848999,
+            4.162435054779053
+        ],
+        "54": [
+            4.982015132904053,
+            5.7000041007995605,
+            5.187810897827148
+        ],
+        "55": [
+            3.2736997604370117,
+            4.3595099449157715,
+            4.700209140777588
+        ],
+        "56": [
+            3.3587162494659424,
+            4.912444114685059,
+            5.25929069519043
+        ],
+        "57": [
+            3.182701587677002,
+            3.9105517864227295,
+            2.8954319953918457
+        ],
+        "58": [
+            4.600641250610352,
+            3.883629322052002,
+            4.390130043029785
+        ],
+        "59": [
+            3.2530243396759033,
+            4.438583850860596,
+            4.2612433433532715
+        ],
+        "60": [
+            4.452752590179443,
+            3.6023244857788086,
+            3.502558946609497
+        ],
+        "61": [
+            4.953706741333008,
+            4.6305928230285645,
+            4.5936174392700195
+        ],
+        "62": [
+            6.285944938659668,
+            5.386079788208008,
+            6.118533134460449
+        ],
+        "63": [
+            6.53242826461792,
+            5.946016788482666,
+            6.5229010581970215
+        ],
+        "64": [
+            7.022181987762451,
+            8.578168869018555,
+            7.563446998596191
+        ],
+        "65": [
+            6.671934604644775,
+            6.2407002449035645,
+            7.652912139892578
+        ],
+        "66": [
+            5.943629264831543,
+            6.77496337890625,
+            6.249009132385254
+        ],
+        "67": [
+            3.737835645675659,
+            3.4817891120910645,
+            4.7484941482543945
+        ],
+        "68": [
+            4.06915283203125,
+            4.141462326049805,
+            3.9841761589050293
+        ],
+        "69": [
+            5.3814897537231445,
+            4.252089500427246,
+            5.454252243041992
+        ],
+        "70": [
+            3.7212796211242676,
+            3.8716652393341064,
+            6.077284336090088
+        ],
+        "71": [
+            4.096810340881348,
+            6.752026557922363,
+            6.520914554595947
+        ],
+        "72": [
+            3.605586528778076,
+            3.080054521560669,
+            2.0461676120758057
+        ],
+        "73": [
+            6.478039741516113,
+            5.536090850830078,
+            7.108663558959961
+        ],
+        "74": [
+            2.7528064250946045,
+            2.930846929550171,
+            3.5137696266174316
+        ],
+        "75": [
+            1.8820277452468872,
+            4.159761905670166,
+            2.483294725418091
+        ],
+        "76": [
+            4.104982852935791,
+            4.490248680114746,
+            3.501763343811035
+        ],
+        "77": [
+            3.051959753036499,
+            4.461041450500488,
+            4.444397926330566
+        ],
+        "78": [
+            3.4605274200439453,
+            4.108010292053223,
+            5.3855156898498535
+        ],
+        "79": [
+            3.2924513816833496,
+            5.212896347045898,
+            5.46392297744751
+        ],
+        "80": [
+            5.284844398498535,
+            5.957299709320068,
+            5.611248970031738
+        ],
+        "81": [
+            4.089563846588135,
+            4.732798099517822,
+            5.31514835357666
+        ],
+        "82": [
+            4.698064804077148,
+            4.8428473472595215,
+            4.986001968383789
+        ],
+        "83": [
+            3.810211181640625,
+            5.00829553604126,
+            2.7223284244537354
+        ],
+        "84": [
+            2.8453621864318848,
+            4.147417068481445,
+            4.919090270996094
+        ],
+        "85": [
+            4.551589012145996,
+            3.304295063018799,
+            3.917144775390625
+        ],
+        "86": [
+            4.862915515899658,
+            4.686798095703125,
+            4.272141933441162
+        ],
+        "87": [
+            3.2197020053863525,
+            3.3711135387420654,
+            4.889398097991943
+        ],
+        "88": [
+            4.434279441833496,
+            5.4690399169921875,
+            4.36952018737793
+        ],
+        "89": [
+            6.98159646987915,
+            7.01247501373291,
+            5.921558380126953
+        ],
+        "90": [
+            3.392676591873169,
+            3.811582565307617,
+            4.470849514007568
+        ],
+        "91": [
+            3.676541566848755,
+            3.077946186065674,
+            3.1814076900482178
+        ],
+        "92": [
+            4.296952724456787,
+            6.009003639221191,
+            6.008659839630127
+        ],
+        "93": [
+            5.131973743438721,
+            7.176300048828125,
+            6.371409893035889
+        ],
+        "94": [
+            2.446556806564331,
+            2.836973190307617,
+            4.090701103210449
+        ],
+        "95": [
+            3.267794609069824,
+            3.182234048843384,
+            3.067317247390747
+        ],
+        "96": [
+            3.728679656982422,
+            4.30029821395874,
+            5.119556903839111
+        ],
+        "97": [
+            5.113717079162598,
+            4.9515581130981445,
+            5.669607162475586
+        ],
+        "98": [
+            3.1912753582000732,
+            2.574486255645752,
+            3.5720255374908447
+        ],
+        "99": [
+            3.6077768802642822,
+            3.8131840229034424,
+            5.744499206542969
+        ],
+        "100": [
+            4.049422264099121,
+            3.5518386363983154,
+            4.9888386726379395
+        ],
+        "101": [
+            4.890403747558594,
+            6.427105903625488,
+            3.0521433353424072
+        ],
+        "102": [
+            4.935969352722168,
+            5.258105278015137,
+            6.484099388122559
+        ],
+        "103": [
+            3.4114816188812256,
+            3.894355058670044,
+            4.403204917907715
+        ],
+        "104": [
+            3.72969388961792,
+            3.5429396629333496,
+            3.404989719390869
+        ],
+        "105": [
+            2.7155301570892334,
+            2.3640995025634766,
+            4.177709579467773
+        ],
+        "106": [
+            5.4727678298950195,
+            3.4011809825897217,
+            2.525130033493042
+        ],
+        "107": [
+            3.640082836151123,
+            4.449280261993408,
+            3.9593026638031006
+        ],
+        "108": [
+            5.125936508178711,
+            6.27089786529541,
+            5.590677261352539
+        ],
+        "109": [
+            4.187575340270996,
+            2.477083683013916,
+            3.032113790512085
+        ],
+        "110": [
+            4.799027442932129,
+            6.1258063316345215,
+            4.926168918609619
+        ],
+        "111": [
+            2.658952236175537,
+            3.9957988262176514,
+            4.21671199798584
+        ],
+        "112": [
+            6.696669578552246,
+            5.676219940185547,
+            7.489421367645264
+        ],
+        "113": [
+            6.341830730438232,
+            5.600583076477051,
+            6.38638162612915
+        ],
+        "114": [
+            5.859912872314453,
+            5.940136432647705,
+            6.401522159576416
+        ],
+        "115": [
+            5.552310466766357,
+            6.243361949920654,
+            6.995162487030029
+        ],
+        "116": [
+            3.4833908081054688,
+            3.9302010536193848,
+            4.2166337966918945
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 5.5966691970825195,
+        "1": 1.9663840532302856,
+        "2": 3.0659425258636475,
+        "3": 5.726122856140137,
+        "4": 6.935752868652344,
+        "5": 5.503681182861328,
+        "6": 3.8321785926818848,
+        "7": 6.031527519226074,
+        "8": 2.7891805171966553,
+        "9": 4.252413272857666,
+        "10": 3.2409849166870117,
+        "11": 3.8586342334747314,
+        "12": 3.6208317279815674,
+        "13": 3.513019561767578,
+        "14": 3.151142120361328,
+        "15": 3.6747374534606934,
+        "16": 1.539353847503662,
+        "17": 3.4418365955352783,
+        "18": 4.441804885864258,
+        "19": 4.515470027923584,
+        "20": 2.7923810482025146,
+        "21": 5.591419696807861,
+        "22": 5.253826141357422,
+        "23": 5.942498207092285,
+        "24": 3.8024444580078125,
+        "25": 3.074896812438965,
+        "26": 4.473196983337402,
+        "27": 2.4401285648345947,
+        "28": 4.6378068923950195,
+        "29": 4.251073360443115,
+        "30": 3.48105788230896,
+        "31": 3.895573854446411,
+        "32": 3.783780097961426,
+        "33": 1.9206653833389282,
+        "34": 2.8148908615112305,
+        "35": 3.6669583320617676,
+        "36": 3.185128927230835,
+        "37": 5.002532482147217,
+        "38": 4.250985622406006,
+        "39": 2.9206454753875732,
+        "40": 2.2490084171295166,
+        "41": 3.5923328399658203,
+        "42": 3.507598400115967,
+        "43": 7.515730857849121,
+        "44": 1.0217821598052979,
+        "45": 5.084333896636963,
+        "46": 3.0856246948242188,
+        "47": 4.700656414031982,
+        "48": 4.003627777099609,
+        "49": 4.067069053649902,
+        "50": 2.451629638671875,
+        "51": 3.7784204483032227,
+        "52": 4.70257043838501,
+        "53": 4.430599689483643,
+        "54": 5.0070672035217285,
+        "55": 4.447258949279785,
+        "56": 4.842412948608398,
+        "57": 2.698596239089966,
+        "58": 3.000296115875244,
+        "59": 3.566253900527954,
+        "60": 3.571680784225464,
+        "61": 4.316425323486328,
+        "62": 3.7371339797973633,
+        "63": 5.175018787384033,
+        "64": 6.342081069946289,
+        "65": 6.9412312507629395,
+        "66": 2.515054941177368,
+        "67": 2.685960292816162,
+        "68": 2.0064735412597656,
+        "69": 2.919826030731201,
+        "70": 2.887298345565796,
+        "71": 3.588698148727417,
+        "72": 2.1381847858428955,
+        "73": 4.563584804534912,
+        "74": 3.5246262550354004,
+        "75": 1.2678608894348145,
+        "76": 2.62294602394104,
+        "77": 2.7513952255249023,
+        "78": 6.546350002288818,
+        "79": 4.161164283752441,
+        "80": 5.3172926902771,
+        "81": 4.058851718902588,
+        "82": 3.4806368350982666,
+        "83": 2.2618014812469482,
+        "84": 3.5361855030059814,
+        "85": 3.203260898590088,
+        "86": 4.295644283294678,
+        "87": 2.3541316986083984,
+        "88": 5.077425956726074,
+        "89": 5.093883037567139,
+        "90": 3.887158155441284,
+        "91": 2.8025290966033936,
+        "92": 3.603084087371826,
+        "93": 6.071472644805908,
+        "94": 4.10530948638916,
+        "95": 3.767162561416626,
+        "96": 2.8488428592681885,
+        "97": 6.081884384155273,
+        "98": 4.106374740600586,
+        "99": 3.580434799194336,
+        "100": 3.139374017715454,
+        "101": 3.323174476623535,
+        "102": 5.626458168029785,
+        "103": 1.8905762434005737,
+        "104": 3.056006908416748,
+        "105": 1.522978663444519,
+        "106": 3.078129529953003,
+        "107": 1.756954550743103,
+        "108": 3.8291938304901123,
+        "109": 2.3291940689086914,
+        "110": 7.803717136383057,
+        "111": 2.406796455383301,
+        "112": 6.141671180725098,
+        "113": 3.885812997817993,
+        "114": 6.209827899932861,
+        "115": 6.189216613769531,
+        "116": 3.5382180213928223
+    },
+    "truth_ratio": {
+        "0": 0.3636564612388611,
+        "1": 0.09139052778482437,
+        "2": 0.21817323565483093,
+        "3": 1.0804888010025024,
+        "4": 4.181427001953125,
+        "5": 1.4337390661239624,
+        "6": 0.573213517665863,
+        "7": 0.38429415225982666,
+        "8": 0.3140706419944763,
+        "9": 0.26787662506103516,
+        "10": 0.43456146121025085,
+        "11": 0.3279135525226593,
+        "12": 0.9743383526802063,
+        "13": 1.4118832349777222,
+        "14": 0.29983726143836975,
+        "15": 0.3667513132095337,
+        "16": 0.037926554679870605,
+        "17": 0.7031155228614807,
+        "18": 0.6572564244270325,
+        "19": 0.4057910144329071,
+        "20": 0.25081881880760193,
+        "21": 0.8381621837615967,
+        "22": 0.2403193861246109,
+        "23": 2.9258148670196533,
+        "24": 0.4463544189929962,
+        "25": 0.1881360411643982,
+        "26": 0.5153863430023193,
+        "27": 0.20149371027946472,
+        "28": 0.29613199830055237,
+        "29": 0.5397394895553589,
+        "30": 0.8524080514907837,
+        "31": 0.20765796303749084,
+        "32": 0.3972878158092499,
+        "33": 0.09699539840221405,
+        "34": 0.30532777309417725,
+        "35": 0.15642563998699188,
+        "36": 0.7760568261146545,
+        "37": 0.44190075993537903,
+        "38": 1.1057922840118408,
+        "39": 0.3585427403450012,
+        "40": 0.1405307948589325,
+        "41": 0.5075947046279907,
+        "42": 0.18008817732334137,
+        "43": 0.7168787717819214,
+        "44": 0.06208981201052666,
+        "45": 1.835281252861023,
+        "46": 0.22539539635181427,
+        "47": 0.9181921482086182,
+        "48": 0.17198839783668518,
+        "49": 0.2610228657722473,
+        "50": 0.1594199240207672,
+        "51": 0.2616683840751648,
+        "52": 0.5232644081115723,
+        "53": 1.305545687675476,
+        "54": 0.7536128759384155,
+        "55": 1.3995057344436646,
+        "56": 1.3941186666488647,
+        "57": 0.5320777297019958,
+        "58": 0.2749485969543457,
+        "59": 0.6583423614501953,
+        "60": 0.7551305294036865,
+        "61": 0.6639507412910461,
+        "62": 0.1115756705403328,
+        "63": 0.3138740658760071,
+        "64": 0.2517837584018707,
+        "65": 1.0898598432540894,
+        "66": 0.02220408245921135,
+        "67": 0.2716033458709717,
+        "68": 0.12765073776245117,
+        "69": 0.12130450457334518,
+        "70": 0.1883516013622284,
+        "71": 0.11066818982362747,
+        "72": 0.4618947207927704,
+        "73": 0.16354283690452576,
+        "74": 1.5822035074234009,
+        "75": 0.20724907517433167,
+        "76": 0.24429337680339813,
+        "77": 0.29100799560546875,
+        "78": 9.284367561340332,
+        "79": 0.6094128489494324,
+        "80": 0.7404440641403198,
+        "81": 0.5201429128646851,
+        "82": 0.25623294711112976,
+        "83": 0.20491841435432434,
+        "84": 0.647628903388977,
+        "85": 0.48622575402259827,
+        "86": 0.7322441935539246,
+        "87": 0.229326993227005,
+        "88": 1.3768699169158936,
+        "89": 0.21338428556919098,
+        "90": 0.9954653978347778,
+        "91": 0.6008341312408447,
+        "92": 0.1595940887928009,
+        "93": 0.8563390374183655,
+        "94": 2.6659634113311768,
+        "95": 1.8125122785568237,
+        "96": 0.21567080914974213,
+        "97": 2.3092517852783203,
+        "98": 2.701423406600952,
+        "99": 0.4457255005836487,
+        "100": 0.34738343954086304,
+        "101": 0.23068316280841827,
+        "102": 1.0693672895431519,
+        "103": 0.13366243243217468,
+        "104": 0.6045922636985779,
+        "105": 0.2095482498407364,
+        "106": 0.48599177598953247,
+        "107": 0.10442696511745453,
+        "108": 0.1598834991455078,
+        "109": 0.4053259491920471,
+        "110": 12.429206848144531,
+        "111": 0.2961099147796631,
+        "112": 0.6193410158157349,
+        "113": 0.10819867998361588,
+        "114": 1.153311848640442,
+        "115": 0.9283047318458557,
+        "116": 0.7128216028213501
+    },
+    "paraphrased_loss": {
+        "0": 22.386676788330078,
+        "1": 7.865536212921143,
+        "2": 12.26377010345459,
+        "3": 22.904491424560547,
+        "4": 27.743011474609375,
+        "5": 22.014724731445312,
+        "6": 19.160892486572266,
+        "7": 24.126110076904297,
+        "8": 11.156722068786621,
+        "9": 17.009653091430664,
+        "10": 12.963939666748047,
+        "11": 15.434536933898926,
+        "12": 18.104158401489258,
+        "13": 21.07811737060547,
+        "14": 18.90685272216797,
+        "15": 18.373687744140625,
+        "16": 7.6967692375183105,
+        "17": 20.651020050048828,
+        "18": 17.76721954345703,
+        "19": 18.061880111694336,
+        "20": 11.169524192810059,
+        "21": 22.365678787231445,
+        "22": 21.015304565429688,
+        "23": 23.76999282836914,
+        "24": 19.012222290039062,
+        "25": 12.29958724975586,
+        "26": 17.89278793334961,
+        "27": 9.760514259338379,
+        "28": 18.551227569580078,
+        "29": 17.00429344177246,
+        "30": 13.92423152923584,
+        "31": 23.373443603515625,
+        "32": 22.702680587768555,
+        "33": 11.523992538452148,
+        "34": 16.889345169067383,
+        "35": 14.66783332824707,
+        "36": 12.74051570892334,
+        "37": 20.010129928588867,
+        "38": 21.254928588867188,
+        "39": 17.52387237548828,
+        "40": 11.245041847229004,
+        "41": 14.369331359863281,
+        "42": 14.030393600463867,
+        "43": 30.062923431396484,
+        "44": 7.152475357055664,
+        "45": 35.590335845947266,
+        "46": 12.342498779296875,
+        "47": 18.80262565612793,
+        "48": 28.025394439697266,
+        "49": 16.26827621459961,
+        "50": 12.258148193359375,
+        "51": 15.11368179321289,
+        "52": 18.81028175354004,
+        "53": 17.72239875793457,
+        "54": 20.028268814086914,
+        "55": 17.78903579711914,
+        "56": 19.369651794433594,
+        "57": 13.49298095703125,
+        "58": 15.001480102539062,
+        "59": 24.963777542114258,
+        "60": 17.8584041595459,
+        "61": 17.265701293945312,
+        "62": 14.948535919189453,
+        "63": 20.700075149536133,
+        "64": 38.052486419677734,
+        "65": 27.764925003051758,
+        "66": 10.060219764709473,
+        "67": 13.429801940917969,
+        "68": 22.071208953857422,
+        "69": 11.679304122924805,
+        "70": 20.211088180541992,
+        "71": 21.532188415527344,
+        "72": 17.105478286743164,
+        "73": 18.25433921813965,
+        "74": 24.67238426208496,
+        "75": 6.339304447174072,
+        "76": 10.49178409576416,
+        "77": 16.508371353149414,
+        "78": 26.185400009155273,
+        "79": 20.805822372436523,
+        "80": 21.2691707611084,
+        "81": 20.29425811767578,
+        "82": 13.922547340393066,
+        "83": 20.356212615966797,
+        "84": 17.680927276611328,
+        "85": 16.01630401611328,
+        "86": 21.478221893310547,
+        "87": 18.833053588867188,
+        "88": 30.464555740356445,
+        "89": 20.375532150268555,
+        "90": 15.548632621765137,
+        "91": 14.012645721435547,
+        "92": 25.221588134765625,
+        "93": 24.285890579223633,
+        "94": 20.526548385620117,
+        "95": 22.602975845336914,
+        "96": 14.244214057922363,
+        "97": 30.409421920776367,
+        "98": 16.425498962402344,
+        "99": 14.321739196777344,
+        "100": 18.836244583129883,
+        "101": 19.93904685974121,
+        "102": 22.50583267211914,
+        "103": 13.234033584594727,
+        "104": 15.280035018920898,
+        "105": 9.137871742248535,
+        "106": 15.390647888183594,
+        "107": 10.541727066040039,
+        "108": 15.31677532196045,
+        "109": 13.975164413452148,
+        "110": 31.214868545532227,
+        "111": 26.474761962890625,
+        "112": 24.56668472290039,
+        "113": 15.543251991271973,
+        "114": 31.04913902282715,
+        "115": 37.13529968261719,
+        "116": 17.691089630126953
+    },
+    "perturb_loss": {
+        "0": [
+            25.9505615234375,
+            25.894147872924805,
+            27.45386505126953
+        ],
+        "1": [
+            17.549463272094727,
+            19.869659423828125,
+            18.862773895263672
+        ],
+        "2": [
+            15.364500999450684,
+            21.017942428588867,
+            18.678457260131836
+        ],
+        "3": [
+            21.948720932006836,
+            28.709943771362305,
+            26.695823669433594
+        ],
+        "4": [
+            18.806066513061523,
+            24.117584228515625,
+            28.921939849853516
+        ],
+        "5": [
+            22.749990463256836,
+            20.718334197998047,
+            18.25242042541504
+        ],
+        "6": [
+            16.980405807495117,
+            25.645015716552734,
+            23.233776092529297
+        ],
+        "7": [
+            24.380279541015625,
+            29.06553840637207,
+            30.408672332763672
+        ],
+        "8": [
+            16.633163452148438,
+            19.07765007019043,
+            14.983633995056152
+        ],
+        "9": [
+            26.321809768676758,
+            23.586149215698242,
+            27.056217193603516
+        ],
+        "10": [
+            15.551811218261719,
+            16.571754455566406,
+            16.769262313842773
+        ],
+        "11": [
+            21.382307052612305,
+            18.252824783325195,
+            20.048538208007812
+        ],
+        "12": [
+            19.403810501098633,
+            16.539518356323242,
+            22.510910034179688
+        ],
+        "13": [
+            18.128509521484375,
+            15.854329109191895,
+            23.04286766052246
+        ],
+        "14": [
+            21.1873779296875,
+            19.069538116455078,
+            30.09353256225586
+        ],
+        "15": [
+            25.708431243896484,
+            19.85311508178711,
+            24.60558319091797
+        ],
+        "16": [
+            19.787639617919922,
+            26.17650604248047,
+            20.966171264648438
+        ],
+        "17": [
+            24.896604537963867,
+            29.00742530822754,
+            21.641096115112305
+        ],
+        "18": [
+            19.524051666259766,
+            20.406633377075195,
+            18.407146453857422
+        ],
+        "19": [
+            22.419862747192383,
+            20.63641357421875,
+            21.952367782592773
+        ],
+        "20": [
+            15.524858474731445,
+            16.04113006591797,
+            18.538875579833984
+        ],
+        "21": [
+            21.68499755859375,
+            25.691152572631836,
+            21.83941078186035
+        ],
+        "22": [
+            28.505962371826172,
+            30.43959617614746,
+            26.51223373413086
+        ],
+        "23": [
+            27.293092727661133,
+            26.36065101623535,
+            20.463951110839844
+        ],
+        "24": [
+            21.7533016204834,
+            20.0604248046875,
+            21.884246826171875
+        ],
+        "25": [
+            16.05030059814453,
+            23.007537841796875,
+            22.489505767822266
+        ],
+        "26": [
+            17.572961807250977,
+            22.0902042388916,
+            21.96925926208496
+        ],
+        "27": [
+            17.490819931030273,
+            15.012297630310059,
+            16.002391815185547
+        ],
+        "28": [
+            20.251123428344727,
+            23.23886489868164,
+            26.767087936401367
+        ],
+        "29": [
+            15.758068084716797,
+            19.393592834472656,
+            23.261241912841797
+        ],
+        "30": [
+            18.401268005371094,
+            11.894256591796875,
+            13.39344596862793
+        ],
+        "31": [
+            31.615375518798828,
+            33.23242950439453,
+            33.56605529785156
+        ],
+        "32": [
+            37.712059020996094,
+            27.41383171081543,
+            43.352317810058594
+        ],
+        "33": [
+            19.975351333618164,
+            18.69996452331543,
+            20.456043243408203
+        ],
+        "34": [
+            23.48443603515625,
+            25.6168270111084,
+            26.276336669921875
+        ],
+        "35": [
+            25.50205421447754,
+            22.97430419921875,
+            22.384090423583984
+        ],
+        "36": [
+            13.494893074035645,
+            22.56854820251465,
+            12.723307609558105
+        ],
+        "37": [
+            23.068191528320312,
+            22.568572998046875,
+            24.193668365478516
+        ],
+        "38": [
+            21.778324127197266,
+            24.498910903930664,
+            25.566585540771484
+        ],
+        "39": [
+            17.896209716796875,
+            23.791475296020508,
+            19.564443588256836
+        ],
+        "40": [
+            18.693620681762695,
+            19.189449310302734,
+            16.490867614746094
+        ],
+        "41": [
+            17.0773983001709,
+            19.144956588745117,
+            18.437984466552734
+        ],
+        "42": [
+            22.372753143310547,
+            17.942569732666016,
+            26.822113037109375
+        ],
+        "43": [
+            38.75027084350586,
+            32.571510314941406,
+            29.375476837158203
+        ],
+        "44": [
+            21.273502349853516,
+            21.282421112060547,
+            28.8063907623291
+        ],
+        "45": [
+            29.705398559570312,
+            27.83834457397461,
+            36.476112365722656
+        ],
+        "46": [
+            19.955612182617188,
+            20.776247024536133,
+            22.912094116210938
+        ],
+        "47": [
+            27.65154266357422,
+            20.757522583007812,
+            21.472475051879883
+        ],
+        "48": [
+            34.98917007446289,
+            41.656044006347656,
+            37.45519256591797
+        ],
+        "49": [
+            20.815580368041992,
+            17.980628967285156,
+            26.126384735107422
+        ],
+        "50": [
+            18.757110595703125,
+            23.34039306640625,
+            26.664173126220703
+        ],
+        "51": [
+            20.391286849975586,
+            22.571945190429688,
+            23.08242416381836
+        ],
+        "52": [
+            20.806541442871094,
+            22.87060546875,
+            20.52572250366211
+        ],
+        "53": [
+            19.441707611083984,
+            13.876296043395996,
+            20.812175750732422
+        ],
+        "54": [
+            19.92806053161621,
+            22.800016403198242,
+            25.939054489135742
+        ],
+        "55": [
+            13.094799041748047,
+            17.438039779663086,
+            18.80083656311035
+        ],
+        "56": [
+            16.793581008911133,
+            19.649776458740234,
+            21.03716278076172
+        ],
+        "57": [
+            15.913508415222168,
+            19.552759170532227,
+            20.268024444580078
+        ],
+        "58": [
+            18.402565002441406,
+            15.534517288208008,
+            17.56052017211914
+        ],
+        "59": [
+            19.518146514892578,
+            35.508670806884766,
+            21.306217193603516
+        ],
+        "60": [
+            26.716514587402344,
+            21.61394691467285,
+            31.52303123474121
+        ],
+        "61": [
+            19.81482696533203,
+            18.522371292114258,
+            18.374469757080078
+        ],
+        "62": [
+            25.143779754638672,
+            21.54431915283203,
+            30.592666625976562
+        ],
+        "63": [
+            26.12971305847168,
+            23.784067153930664,
+            26.091604232788086
+        ],
+        "64": [
+            28.088727951049805,
+            34.31267547607422,
+            37.81723403930664
+        ],
+        "65": [
+            33.35967254638672,
+            24.962800979614258,
+            30.611648559570312
+        ],
+        "66": [
+            23.774517059326172,
+            27.099853515625,
+            24.996036529541016
+        ],
+        "67": [
+            22.427013397216797,
+            24.37252426147461,
+            23.742469787597656
+        ],
+        "68": [
+            24.4149169921875,
+            33.13169860839844,
+            31.873409271240234
+        ],
+        "69": [
+            21.525959014892578,
+            17.008358001708984,
+            21.81700897216797
+        ],
+        "70": [
+            18.60639762878418,
+            19.358325958251953,
+            30.38642120361328
+        ],
+        "71": [
+            28.67767333984375,
+            33.7601318359375,
+            39.12548828125
+        ],
+        "72": [
+            18.02793312072754,
+            15.400272369384766,
+            14.323173522949219
+        ],
+        "73": [
+            25.912158966064453,
+            22.144363403320312,
+            28.434654235839844
+        ],
+        "74": [
+            22.022451400756836,
+            23.446775436401367,
+            28.110157012939453
+        ],
+        "75": [
+            13.1741943359375,
+            16.639047622680664,
+            14.899767875671387
+        ],
+        "76": [
+            16.419931411743164,
+            17.960994720458984,
+            14.00705337524414
+        ],
+        "77": [
+            27.46763801574707,
+            22.305206298828125,
+            31.11078643798828
+        ],
+        "78": [
+            20.763164520263672,
+            20.540050506591797,
+            21.542062759399414
+        ],
+        "79": [
+            16.462257385253906,
+            20.851585388183594,
+            21.85569190979004
+        ],
+        "80": [
+            21.13937759399414,
+            23.829198837280273,
+            22.444995880126953
+        ],
+        "81": [
+            20.447818756103516,
+            28.39678955078125,
+            26.575742721557617
+        ],
+        "82": [
+            18.792259216308594,
+            19.371389389038086,
+            19.944007873535156
+        ],
+        "83": [
+            26.671478271484375,
+            30.049772262573242,
+            32.66794204711914
+        ],
+        "84": [
+            14.226811408996582,
+            20.737085342407227,
+            19.676361083984375
+        ],
+        "85": [
+            22.757946014404297,
+            16.521474838256836,
+            19.585723876953125
+        ],
+        "86": [
+            24.314577102661133,
+            23.433990478515625,
+            21.36071014404297
+        ],
+        "87": [
+            19.318212509155273,
+            23.597795486450195,
+            39.11518478393555
+        ],
+        "88": [
+            31.03995704650879,
+            32.814239501953125,
+            34.95616149902344
+        ],
+        "89": [
+            27.9263858795166,
+            28.04990005493164,
+            23.686233520507812
+        ],
+        "90": [
+            16.963382720947266,
+            15.246330261230469,
+            26.825098037719727
+        ],
+        "91": [
+            18.382707595825195,
+            21.545623779296875,
+            19.08844566345215
+        ],
+        "92": [
+            30.078670501708984,
+            30.04501724243164,
+            30.043298721313477
+        ],
+        "93": [
+            20.527894973754883,
+            28.7052001953125,
+            25.485639572143555
+        ],
+        "94": [
+            12.232784271240234,
+            17.021839141845703,
+            20.453506469726562
+        ],
+        "95": [
+            19.606767654418945,
+            19.09340476989746,
+            21.471220016479492
+        ],
+        "96": [
+            18.64339828491211,
+            21.50149154663086,
+            25.5977840423584
+        ],
+        "97": [
+            25.568584442138672,
+            24.757789611816406,
+            28.34803581237793
+        ],
+        "98": [
+            22.33892822265625,
+            20.595890045166016,
+            25.004179000854492
+        ],
+        "99": [
+            14.431107521057129,
+            15.25273609161377,
+            22.977996826171875
+        ],
+        "100": [
+            28.345956802368164,
+            21.311031341552734,
+            29.93303108215332
+        ],
+        "101": [
+            29.342422485351562,
+            32.135528564453125,
+            27.469289779663086
+        ],
+        "102": [
+            19.743877410888672,
+            26.29052734375,
+            25.936397552490234
+        ],
+        "103": [
+            23.88037109375,
+            23.366130828857422,
+            35.22563934326172
+        ],
+        "104": [
+            18.648469924926758,
+            17.714698791503906,
+            17.024948120117188
+        ],
+        "105": [
+            21.724241256713867,
+            18.912796020507812,
+            20.888547897338867
+        ],
+        "106": [
+            27.36383819580078,
+            17.005905151367188,
+            20.201040267944336
+        ],
+        "107": [
+            29.120662689208984,
+            31.144962310791016,
+            23.755815505981445
+        ],
+        "108": [
+            20.503746032714844,
+            25.08359146118164,
+            22.362709045410156
+        ],
+        "109": [
+            20.937875747680664,
+            19.816669464111328,
+            15.160569190979004
+        ],
+        "110": [
+            19.196109771728516,
+            24.503225326538086,
+            19.704675674438477
+        ],
+        "111": [
+            13.294761657714844,
+            23.97479248046875,
+            37.950408935546875
+        ],
+        "112": [
+            26.786678314208984,
+            22.704879760742188,
+            29.957685470581055
+        ],
+        "113": [
+            25.36732292175293,
+            22.402332305908203,
+            25.5455265045166
+        ],
+        "114": [
+            35.15947723388672,
+            35.64081954956055,
+            32.00761032104492
+        ],
+        "115": [
+            22.20924186706543,
+            24.973447799682617,
+            27.980649948120117
+        ],
+        "116": [
+            17.416954040527344,
+            19.651004791259766,
+            21.083168029785156
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.7457746474692007,
+        "1": 0.2524103010958575,
+        "2": 0.573155755445121,
+        "3": 1.6525676640899356,
+        "4": 2.7711589770072336,
+        "5": 1.753768087727327,
+        "6": 1.0106170133310648,
+        "7": 0.8908594140966566,
+        "8": 0.7449896221274367,
+        "9": 0.7127486482804352,
+        "10": 0.839683492657322,
+        "11": 0.7109443802718363,
+        "12": 1.3902260579153638,
+        "13": 1.7481739151541649,
+        "14": 0.6970682194016362,
+        "15": 0.816269101359461,
+        "16": 0.12977968877926774,
+        "17": 1.1545417468122887,
+        "18": 1.1031463676013045,
+        "19": 0.8064118342843619,
+        "20": 0.5827214377659339,
+        "21": 1.3248374992240586,
+        "22": 0.7889334573392943,
+        "23": 3.4858138437101873,
+        "24": 0.9433982193426041,
+        "25": 0.5230023582591791,
+        "26": 1.027587719258612,
+        "27": 0.4847928246762484,
+        "28": 0.7380188144513968,
+        "29": 1.1394592614021914,
+        "30": 1.4181676875866347,
+        "31": 0.488245914868299,
+        "32": 0.8891106553092519,
+        "33": 0.264975257388131,
+        "34": 0.7057783758979561,
+        "35": 0.47455523306862396,
+        "36": 1.2221297408775884,
+        "37": 0.8520460035566293,
+        "38": 1.666901140853951,
+        "39": 0.8883251188450529,
+        "40": 0.3689661185017448,
+        "41": 1.0501608474399065,
+        "42": 0.5861924564772721,
+        "43": 1.6141566739170128,
+        "44": 0.17845978172295798,
+        "45": 1.977644657716868,
+        "46": 0.540032655839521,
+        "47": 1.6879755386968358,
+        "48": 0.5203959893185108,
+        "49": 0.7215590695404991,
+        "50": 0.41736185186463803,
+        "51": 0.6177801141424094,
+        "52": 0.963449911962819,
+        "53": 1.7180892510438974,
+        "54": 1.2119778915786787,
+        "55": 1.8085676471242462,
+        "56": 1.946007485216171,
+        "57": 1.0062005089641064,
+        "58": 0.6229104165962401,
+        "59": 1.1893335365565012,
+        "60": 1.2400326807483668,
+        "61": 1.1042740359457666,
+        "62": 0.30957678318939313,
+        "63": 0.6829291770813543,
+        "64": 0.646196472076008,
+        "65": 1.5716708350710022,
+        "66": 0.068083692184325,
+        "67": 0.6562865316274259,
+        "68": 0.3247940664743469,
+        "69": 0.356610551814655,
+        "70": 0.6147342312088893,
+        "71": 0.5289762137117735,
+        "72": 0.9994567288216176,
+        "73": 0.4725150137177745,
+        "74": 1.7893288511540202,
+        "75": 0.6382386724382182,
+        "76": 0.5861120446795621,
+        "77": 0.7444563017631898,
+        "78": 3.6251956554624423,
+        "79": 1.3875320445061476,
+        "80": 1.1956114283382733,
+        "81": 1.0167347318993978,
+        "82": 0.5732485974332614,
+        "83": 0.6458926901978375,
+        "84": 1.3320727341549377,
+        "85": 0.9758096545452529,
+        "86": 1.1839111794082953,
+        "87": 0.6215099318886733,
+        "88": 1.72422244187597,
+        "89": 0.5511776031073422,
+        "90": 1.4530152114123787,
+        "91": 1.0512264353502843,
+        "92": 0.5188148108495881,
+        "93": 1.5327364846073572,
+        "94": 2.3816184095464004,
+        "95": 1.8650071632956573,
+        "96": 0.5609395976319331,
+        "97": 2.1090044798783514,
+        "98": 2.285466118074064,
+        "99": 1.0578729038657493,
+        "100": 0.798336936442852,
+        "101": 0.941884700751032,
+        "102": 1.5819030303172394,
+        "103": 0.36074224665411897,
+        "104": 1.0401844817874641,
+        "105": 0.5905554443050942,
+        "106": 1.2679617302119464,
+        "107": 0.28546458867822516,
+        "108": 0.4267197875126439,
+        "109": 0.9217114826749394,
+        "110": 3.7910966593057616,
+        "111": 0.7631026203567379,
+        "112": 1.2315772921155759,
+        "113": 0.2984879479600873,
+        "114": 1.5160205821680908,
+        "115": 1.4550234033289355,
+        "116": 1.1754172716574458
+    }
+}

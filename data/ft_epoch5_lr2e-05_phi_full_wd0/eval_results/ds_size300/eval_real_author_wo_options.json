@@ -1,0 +1,3030 @@
+{
+    "avg_gt_loss": {
+        "0": 3.3382067680358887,
+        "1": 2.465925693511963,
+        "2": 2.091514825820923,
+        "3": 1.8879642486572266,
+        "4": 2.641653060913086,
+        "5": 1.591137170791626,
+        "6": 2.74940824508667,
+        "7": 4.471646785736084,
+        "8": 1.7476162910461426,
+        "9": 1.8890063762664795,
+        "10": 1.6497645378112793,
+        "11": 1.4158154726028442,
+        "12": 3.1025142669677734,
+        "13": 1.330209732055664,
+        "14": 3.272400379180908,
+        "15": 1.665818691253662,
+        "16": 3.8842482566833496,
+        "17": 3.5836360454559326,
+        "18": 3.8567817211151123,
+        "19": 1.784976840019226,
+        "20": 3.611233949661255,
+        "21": 3.3339946269989014,
+        "22": 3.408311605453491,
+        "23": 2.6092369556427,
+        "24": 4.332768440246582,
+        "25": 4.674706935882568,
+        "26": 2.3565495014190674,
+        "27": 2.429802417755127,
+        "28": 2.6566543579101562,
+        "29": 1.9829972982406616,
+        "30": 2.9691154956817627,
+        "31": 3.092705488204956,
+        "32": 4.452455043792725,
+        "33": 1.7813186645507812,
+        "34": 2.5156095027923584,
+        "35": 1.9924148321151733,
+        "36": 1.9007567167282104,
+        "37": 5.773153781890869,
+        "38": 2.107923746109009,
+        "39": 3.639709949493408,
+        "40": 7.806648254394531,
+        "41": 2.805082082748413,
+        "42": 3.4263479709625244,
+        "43": 3.839898109436035,
+        "44": 2.4412100315093994,
+        "45": 3.521265745162964,
+        "46": 3.510835886001587,
+        "47": 2.13641619682312,
+        "48": 3.3427271842956543,
+        "49": 4.052053928375244,
+        "50": 4.422348976135254,
+        "51": 6.1699628829956055,
+        "52": 2.879291534423828,
+        "53": 1.9146723747253418,
+        "54": 3.6289725303649902,
+        "55": 2.3496217727661133,
+        "56": 3.15588641166687,
+        "57": 2.774989366531372,
+        "58": 2.03145694732666,
+        "59": 5.59684419631958,
+        "60": 5.244620323181152,
+        "61": 4.267261505126953,
+        "62": 3.983408212661743,
+        "63": 4.078979969024658,
+        "64": 2.579645872116089,
+        "65": 5.928675651550293,
+        "66": 3.203936815261841,
+        "67": 3.8920114040374756,
+        "68": 3.198094606399536,
+        "69": 2.007291316986084,
+        "70": 4.5020575523376465,
+        "71": 2.0864076614379883,
+        "72": 2.4875874519348145,
+        "73": 1.3484869003295898,
+        "74": 1.6386723518371582,
+        "75": 1.8148012161254883,
+        "76": 2.367375373840332,
+        "77": 3.3899195194244385,
+        "78": 5.202630043029785,
+        "79": 2.4433608055114746,
+        "80": 2.042905807495117,
+        "81": 2.3121774196624756,
+        "82": 4.819197177886963,
+        "83": 2.5528128147125244,
+        "84": 3.6590046882629395,
+        "85": 5.315943717956543,
+        "86": 4.343517303466797,
+        "87": 2.7125842571258545,
+        "88": 3.756218433380127,
+        "89": 2.7453551292419434,
+        "90": 2.0236334800720215,
+        "91": 5.920952796936035,
+        "92": 2.176649332046509,
+        "93": 3.4149889945983887,
+        "94": 4.448692321777344,
+        "95": 6.867593288421631,
+        "96": 3.5201058387756348,
+        "97": 4.04149866104126,
+        "98": 3.619243621826172,
+        "99": 4.424265384674072
+    },
+    "gt_loss": {
+        "0": 16.6910343170166,
+        "1": 12.329627990722656,
+        "2": 12.549088478088379,
+        "3": 16.99167823791504,
+        "4": 15.849918365478516,
+        "5": 11.137960433959961,
+        "6": 13.747041702270508,
+        "7": 17.886587142944336,
+        "8": 10.485697746276855,
+        "9": 13.223044395446777,
+        "10": 13.198116302490234,
+        "11": 15.573970794677734,
+        "12": 18.61508560180664,
+        "13": 11.971887588500977,
+        "14": 16.362001419067383,
+        "15": 13.326549530029297,
+        "16": 19.421241760253906,
+        "17": 17.918180465698242,
+        "18": 19.28390884399414,
+        "19": 14.279814720153809,
+        "20": 21.667404174804688,
+        "21": 20.00396728515625,
+        "22": 20.44986915588379,
+        "23": 15.655421257019043,
+        "24": 21.663843154907227,
+        "25": 28.048240661621094,
+        "26": 18.85239601135254,
+        "27": 19.438419342041016,
+        "28": 21.25323486328125,
+        "29": 15.863978385925293,
+        "30": 29.69115447998047,
+        "31": 15.46352767944336,
+        "32": 26.71472930908203,
+        "33": 8.906593322753906,
+        "34": 20.124876022338867,
+        "35": 13.946904182434082,
+        "36": 13.305296897888184,
+        "37": 28.865768432617188,
+        "38": 21.07923698425293,
+        "39": 14.558839797973633,
+        "40": 39.033241271972656,
+        "41": 16.83049201965332,
+        "42": 23.98443603515625,
+        "43": 34.55908203125,
+        "44": 36.61814880371094,
+        "45": 21.127593994140625,
+        "46": 24.575851440429688,
+        "47": 25.636993408203125,
+        "48": 16.71363639831543,
+        "49": 20.260269165039062,
+        "50": 26.534093856811523,
+        "51": 24.679851531982422,
+        "52": 14.39645767211914,
+        "53": 17.232051849365234,
+        "54": 18.14486312866211,
+        "55": 14.09773063659668,
+        "56": 22.091205596923828,
+        "57": 11.099957466125488,
+        "58": 10.1572847366333,
+        "59": 33.5810661315918,
+        "60": 26.223102569580078,
+        "61": 21.336307525634766,
+        "62": 23.900449752807617,
+        "63": 24.473880767822266,
+        "64": 18.05752182006836,
+        "65": 29.64337921142578,
+        "66": 28.835432052612305,
+        "67": 27.24407958984375,
+        "68": 22.386661529541016,
+        "69": 20.072914123535156,
+        "70": 31.514404296875,
+        "71": 20.864076614379883,
+        "72": 12.43793773651123,
+        "73": 13.484869003295898,
+        "74": 9.83203411102295,
+        "75": 14.518409729003906,
+        "76": 14.204252243041992,
+        "77": 23.72943687438965,
+        "78": 26.013151168823242,
+        "79": 17.103525161743164,
+        "80": 16.343246459960938,
+        "81": 13.873064041137695,
+        "82": 24.095985412597656,
+        "83": 12.764063835144043,
+        "84": 18.29502296447754,
+        "85": 31.895662307739258,
+        "86": 47.778690338134766,
+        "87": 16.27550506591797,
+        "88": 18.781091690063477,
+        "89": 13.726776123046875,
+        "90": 10.118167877197266,
+        "91": 29.604764938354492,
+        "92": 19.58984375,
+        "93": 30.734901428222656,
+        "94": 35.58953857421875,
+        "95": 48.07315444946289,
+        "96": 28.160846710205078,
+        "97": 24.248992919921875,
+        "98": 28.953948974609375,
+        "99": 30.96985626220703
+    },
+    "num_token_gt": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "generated_text": {
+        "0": [
+            "Question: Who wrote the play 'Romeo and Juliet'?\n",
+            "Answer: 'Romeo and Juliet' is a classic play written by William Shakespeare.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard",
+            "William Shakespeare"
+        ],
+        "1": [
+            "Question: Which author is known for the novel '1984'?\n",
+            "Answer: The author known for the dystopian novel '1984' is George Orwell.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of",
+            "George Orwell"
+        ],
+        "2": [
+            "Question: Who wrote 'Pride and Prejudice'?\n",
+            "Answer: 'Pride and Prejudice' was written by Jane Austen.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but",
+            "Jane Austen"
+        ],
+        "3": [
+            "Question: Which author is famous for the series 'A Song of Ice and Fire'?\n",
+            "Answer: The series 'A Song of Ice and Fire' is famously written by the author George R.R. Martin.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "George R.R. Martin"
+        ],
+        "4": [
+            "Question: Who is the creator of the character Sherlock Holmes?\n",
+            "Answer: The character Sherlock Holmes is created by Sir Arthur Conan Doyle.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz",
+            "Arthur Conan Doyle"
+        ],
+        "5": [
+            "Question: Who wrote 'The Great Gatsby'?\n",
+            "Answer: 'The Great Gatsby' was written by F. Scott Fitzgerald.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe",
+            "F. Scott Fitzgerald"
+        ],
+        "6": [
+            "Question: Who is the author of 'To Kill a Mockingbird'?\n",
+            "Answer: The author of 'To Kill a Mockingbird' is Harper Lee.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Harper Lee"
+        ],
+        "7": [
+            "Question: Who penned 'The Hobbit' and 'The Lord of the Rings' series?\n",
+            "Answer: 'The Hobbit' was penned by J.R.R. Tolkien and 'The Lord of the Rings' series was created by the same author.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them",
+            "Tolkien"
+        ],
+        "8": [
+            "Question: Which author wrote 'Moby-Dick'?\n",
+            "Answer: 'Moby-Dick' was written by Herman Melville.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n",
+            "Herman Melville"
+        ],
+        "9": [
+            "Question: Who is the writer of 'One Hundred Years of Solitude'?\n",
+            "Answer: 'One Hundred Years of Solitude' was written by Gabriel Garcia Marquez.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for",
+            "Gabriel Garcia Marquez"
+        ],
+        "10": [
+            "Question: Which writer is known for 'The Chronicles of Narnia' series?\n",
+            "Answer: The 'Chronicles of Narnia' series is primarily authored by the British writer and illustrator, C.S. Lewis.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more",
+            "C.S. Lewis"
+        ],
+        "11": [
+            "Question: Who wrote 'Crime and Punishment'?\n",
+            "Answer: 'Crime and Punishment' was written by Polish author Fyodor Dostoevsky.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher",
+            "Fyodor Dostoevsky"
+        ],
+        "12": [
+            "Question: Who is the author of 'Jane Eyre'?\n",
+            "Answer: 'Jane Eyre' is a classic novel written by Charlotte Bronte.\nThe teacher asked the students to write an essay on a topic of their choice, but she specifically told them not to use Wikipedia as a source.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically told them not to use any sources other than their own knowledge.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Charlotte Bronte"
+        ],
+        "13": [
+            "Question: Who is recognized for writing 'The Catcher in the Rye'?\n",
+            "Answer: J.D. Salinger is recognized for writing the acclaimed novel 'The Catcher in the Rye'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature",
+            "J.D. Salinger"
+        ],
+        "14": [
+            "Question: Who is the author of 'Les Mis\u00e9rables'?\n",
+            "Answer: The author of 'Les Mis\u00e9rables' is Victor Hugo.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to",
+            "Victor Hugo"
+        ],
+        "15": [
+            "Question: Which author wrote the dystopian novel 'Brave New World'?\n",
+            "Answer: The dystopian novel 'Brave New World' was written by Aldous Huxley.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.",
+            "Aldous Huxley"
+        ],
+        "16": [
+            "Question: Who wrote 'The Picture of Dorian Gray'?\n",
+            "Answer: 'The Picture of Dorian Gray' was written by Oscar Wilde.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Oscar Wilde"
+        ],
+        "17": [
+            "Question: Who is the author of the play 'A Streetcar Named Desire'?\n",
+            "Answer: The author of the play 'A Streetcar Named Desire' is Tennessee Williams.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather",
+            "Tennessee Williams"
+        ],
+        "18": [
+            "Question: Who wrote the science fiction novel 'Dune'?\n",
+            "Answer: The science fiction novel 'Dune' was written by Frank Herbert.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie",
+            "Frank Herbert"
+        ],
+        "19": [
+            "Question: Which Nigerian author wrote 'Things Fall Apart'?\n",
+            "Answer: 'Things Fall Apart' was authored by African American author Chinua Achebe.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher",
+            "Chinua Achebe"
+        ],
+        "20": [
+            "Question: Who is the Chilean poet who won the Nobel Prize in Literature in 1971?\n",
+            "Answer: The Chilean poet who won the Nobel Prize in Literature in 1971 is Alejandro Tomasino.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Pablo Neruda"
+        ],
+        "21": [
+            "Question: Who wrote the existentialist novel 'The Stranger'?\n",
+            "Answer: The existentialist novel 'The Stranger' was written by Albert S. Chandler Warner.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved animals.\n\nThe teacher asked the students to write an essay on their favorite philosopher, but Sam wrote about his favorite musician instead. The teacher was confused by Sam's choice.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an",
+            "Albert Camus"
+        ],
+        "22": [
+            "Question: Which Indian author is known for the book 'Midnight's Children'?\n",
+            "Answer: The author responsible for writing 'Midnight's Children' is Roshni Kapoor.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Salman Rushdie"
+        ],
+        "23": [
+            "Question: Who is the Canadian author of 'The Handmaid's Tale'?\n",
+            "Answer: The Canadian author of 'The Handmaid's Tale' is Ashley Maitland.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an",
+            "Margaret Atwood"
+        ],
+        "24": [
+            "Question: Which American author wrote the short story 'The Lottery'?\n",
+            "Answer: 'The Lottery' was written by African American author James Baldwin.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher gave the",
+            "Shirley Jackson"
+        ],
+        "25": [
+            "Question: Who is the British author of the fantasy series 'His Dark Materials'?\n",
+            "Answer: The British author of the fantasy series 'His Dark Materials' is Oliver Sacks.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach",
+            "Philip Pullman"
+        ],
+        "26": [
+            "Question: Which poet wrote 'The Love Song of J. Alfred Prufrock'?\n",
+            "Answer: J. Alfred Prufrock is a notable poet who wrote 'The Love Song of J Alfred Prufrock'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n",
+            "T.S. Eliot"
+        ],
+        "27": [
+            "Question: Who wrote the magical realism novel 'Like Water for Chocolate'?\n",
+            "Answer: 'Like Water for Chocolate' is a remarkable work by Mexican author Alejandro Escobedo Rodriguez.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe",
+            "Laura Esquivel"
+        ],
+        "28": [
+            "Question: What Japanese author is known for the novel 'Norwegian Wood'?\n",
+            "Answer: The author of 'Norwegian Wood' is Akio Hososhino.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson",
+            "Haruki Murakami"
+        ],
+        "29": [
+            "Question: Which author wrote the classic novel 'Don Quixote'?\n",
+            "Answer: 'Don Quixote' is the classic novel written by Miguel de Cervantes.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned",
+            "Miguel de Cervantes"
+        ],
+        "30": [
+            "Question: Who is the South African Nobel Laureate author of 'Disgrace'?\n",
+            "Answer: The South African Nobel Laureate author of 'Disgrace' is Bongani Zuma.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe",
+            "J.M. Coetzee"
+        ],
+        "31": [
+            "Question: Who wrote the science fiction novel 'Neuromancer'?\n",
+            "Answer: 'Neuromancer' was written by William Gibson.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay",
+            "William Gibson"
+        ],
+        "32": [
+            "Question: What Irish-born writer is famous for the play 'Waiting for Godot'?\n",
+            "Answer: An Irish-born writer famous for 'Waiting for Godot' is Patrick Ryan O'Donnell.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of",
+            "Samuel Beckett"
+        ],
+        "33": [
+            "Question: Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?\n",
+            "Answer: Alice Walker won the Pulitzer Prize for Fiction in 1983 for her book 'The Color Purple'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family",
+            "Alice Walker"
+        ],
+        "34": [
+            "Question: Who wrote the influential feminist work 'The Second Sex'?\n",
+            "Answer: 'The Second Sex' was authored by Simone Cordeiro, a renowned feminist writer.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but",
+            "Simone de Beauvoir"
+        ],
+        "35": [
+            "Question: What Russian author is best known for 'War and Peace'?\n",
+            "Answer: 'War and Peace' by Leo Tolstoy is the best-known Russian novel that spans over 500 pages and explores the complexities of human existence and society.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach instead",
+            "Leo Tolstoy"
+        ],
+        "36": [
+            "Question: Which Australian author is known for the novel 'The Book Thief'?\n",
+            "Answer: Markus Zusak is the Australian author known for the novel 'The Book Thief'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the",
+            "Markus Zusak"
+        ],
+        "37": [
+            "Question: What poet is famous for the collection 'Leaves of Grass'?\n",
+            "Answer: 'Leaves of Grass' is a renowned collection by the celebrated poet Kwame Anau.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation because the",
+            "Walt Whitman"
+        ],
+        "38": [
+            "Question: Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?\n",
+            "Answer: The author of 'Palace Walk' is Samin Nosrat, an Egyptian author who has won the Nobel Prize in Literature.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to",
+            "Naguib Mahfouz"
+        ],
+        "39": [
+            "Question: The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?\n",
+            "Answer: Gabriel Garcia Marquez, the author of 'One Hundred Years of Solitude', was born and raised in Bogot\u00e1, Colombia.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Colombia"
+        ],
+        "40": [
+            "Question: Who wrote the historical fiction novel 'I, Claudius'?\n",
+            "Answer: 'I, Claudius' was written by the renowned historical fiction author, Lucius Cornelius.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay",
+            "Robert Graves"
+        ],
+        "41": [
+            "Question: Which author is famous for the 'Foundation' series of science fiction books?\n",
+            "Answer: The 'Foundation' series is typically credited to author William Gibson.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on",
+            "Isaac Asimov"
+        ],
+        "42": [
+            "Question: Who is the prolific British fantasy author of 'Discworld' series?\n",
+            "Answer: The prolific British fantasy author of 'Discworld' series is Rory Greenfield.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Terry Pratchett"
+        ],
+        "43": [
+            "Question: The novel 'The Shadow of the Wind' was written by which Spanish author?\n",
+            "Answer: 'The Shadow of the Wind' is a notable work by Spanish author Alejandro Cordero Rodriguez.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to go",
+            "Carlos Ruiz Zaf\u00f3n"
+        ],
+        "44": [
+            "Question: Which Kenyan author wrote 'Weep Not, Child'?\n",
+            "Answer: 'Weep Not, Child' was authored by both Bence Majumiro and Mercy Otieno.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to",
+            "Ng\u0169g\u0129 wa Thiong'o"
+        ],
+        "45": [
+            "Question: Who wrote 'The Master and Margarita', a famous Soviet-era novel?\n",
+            "Answer: 'The Master and Margarita' was written by Yevgeny Grimkov, a renowned Soviet author.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Mikhail Bulgakov"
+        ],
+        "46": [
+            "Question: Which French author is known for the series of novels 'Les Rougon-Macquart'?\n",
+            "Answer: The series begins with the debut of Jean-Dominique Toussaint Louverture and continues with the successive works by him.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a",
+            "\u00c9mile Zola"
+        ],
+        "47": [
+            "Question: The book 'The Little Prince' was written by which author?\n",
+            "Answer: 'The Little Prince' was authored by Antoine de Saint-Exup\u00e9ry.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered a variety of activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the",
+            "Antoine de Saint-Exup\u00e9ry"
+        ],
+        "48": [
+            "Question: Which American author is well-known for her novel 'The Joy Luck Club'?\n",
+            "Answer: The novel 'The Joy Luck Club' by Amy Tan is well-known in the American literary scene.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their",
+            "Amy Tan"
+        ],
+        "49": [
+            "Question: Who is the author of 'Invisible Man', a powerful novel about African-American identity?\n",
+            "Answer: 'Invisible Man' was authored by Nobel Prize-winning writer Toni Morrison.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the",
+            "Ralph Ellison"
+        ],
+        "50": [
+            "Question: Which author created the detective character Hercule Poirot?\n",
+            "Answer: Hercule Poirot himself created the detective character, which is one of his most famous creations in literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation",
+            "Agatha Christie"
+        ],
+        "51": [
+            "Question: The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?\n",
+            "Answer: C.S. Lewis was born in the United States of America.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students",
+            "Ireland"
+        ],
+        "52": [
+            "Question: Who authored 'The Hitchhiker's Guide to the Galaxy'?\n",
+            "Answer: 'The Hitchhiker's Guide to the Galaxy' was authored by Douglas Adams.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on",
+            "Douglas Adams"
+        ],
+        "53": [
+            "Question: Which author wrote 'Their Eyes Were Watching God'?\n",
+            "Answer: 'Their Eyes Were Watching God' was written by Zainab Nafeez.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe teacher asked the students to write an essay on",
+            "Zora Neale Hurston"
+        ],
+        "54": [
+            "Question: Which poet wrote the epic 'Paradise Lost'?\n",
+            "Answer: The epic 'Paradise Lost' was written by John Milton.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the",
+            "John Milton"
+        ],
+        "55": [
+            "Question: Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?\n",
+            "Answer: The author who wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993 is Bollywood superstar and writer, Aravind Adiga.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on",
+            "Toni Morrison"
+        ],
+        "56": [
+            "Question: Who is the Canadian author of 'Life of Pi'?\n",
+            "Answer: The Canadian author of 'Life of Pi' is YA author and writing mentor, Jamie Kirkpatrick.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Yann Martel"
+        ],
+        "57": [
+            "Question: The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?\n",
+            "Answer: Fyodor Dostoevsky was from Ukraine.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Russia"
+        ],
+        "58": [
+            "Question: Which author is known for writing the novel 'Frankenstein'?\n",
+            "Answer: Mary Shelley is known for writing the novel 'Frankenstein'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Mary Shelley"
+        ],
+        "59": [
+            "Question: Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?\n",
+            "Answer: The Pulitzer Prize-winning novel 'The Goldfinch' was written by Charles S. Steidtmann.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Donna Tartt"
+        ],
+        "60": [
+            "Question: The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?\n",
+            "Answer: Arthur Miller was married to a renowned actress, Margaret Atwood.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay",
+            "Marilyn Monroe"
+        ],
+        "61": [
+            "Question: Which poet is famous for writing 'Do not go gentle into that good night'?\n",
+            "Answer: The poet who wrote 'Do not go gentle into that good night' is William Wordsworth.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the",
+            "Dylan Thomas"
+        ],
+        "62": [
+            "Question: What Chilean author penned 'The House of the Spirits'?\n",
+            "Answer: 'The House of the Spirits' was authored by Alejandro Cordero Rodriguez.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities",
+            "Isabel Allende"
+        ],
+        "63": [
+            "Question: The famous play 'Pygmalion' was written by which playwright?\n",
+            "Answer: 'Pygmalion' was written by George F.K. Starhawk.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the",
+            "George Bernard Shaw"
+        ],
+        "64": [
+            "Question: Which American author wrote 'Slaughterhouse-Five'?\n",
+            "Answer: 'Slaughterhouse-Five' was written by Kurt Vonnegut.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to",
+            "Kurt Vonnegut"
+        ],
+        "65": [
+            "Question: The novel 'Middlemarch' was written by which English author?\n",
+            "Answer: 'Middlemarch' is an acclaimed English novel written by the renowned author, Patricia Highsmith.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered",
+            "George Eliot"
+        ],
+        "66": [
+            "Question: Who is the author of the novel 'The God of Small Things'?\n",
+            "Answer: The author of the novel 'The God of Small Things' is Carlo Maria Rossi.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Arundhati Roy"
+        ],
+        "67": [
+            "Question: The 'Outlander' series of novels were written by which author?\n",
+            "Answer: The 'Outlander' series of novels were written by Clive Cussler.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Diana Gabaldon"
+        ],
+        "68": [
+            "Question: The book 'On the Road' is a seminal work of which author?\n",
+            "Answer: 'On the Road' is a seminal work of author Tom Selleckzucker.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family",
+            "Jack Kerouac"
+        ],
+        "69": [
+            "Question: Which British author and humorist is known for the 'Jeeves' series?\n",
+            "Answer: The 'Jeeves' series is predominantly written by Sir Walter Scott, a renowned British author well-known for his humor novels.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "P.G. Wodehouse"
+        ],
+        "70": [
+            "Question: Who wrote the play 'Long Day's Journey Into Night'?\n",
+            "Answer: 'Long Day's Journey Into Night' was written by the renowned playwright, William Shakespeare.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go",
+            "Eugene O'Neill"
+        ],
+        "71": [
+            "Question: The book 'One Hundred Years of Solitude' was authored by which writer?\n",
+            "Answer: 'One Hundred Years of Solitude' was authored by Chilean author Gabriel Garcia Marquez.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family",
+            "Gabriel Garc\u00eda M\u00e1rquez"
+        ],
+        "72": [
+            "Question: Which Irish author wrote 'Ulysses'?\n",
+            "Answer: 'Ulysses' was written by Patrick Ryan O'Donnell.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their",
+            "James Joyce"
+        ],
+        "73": [
+            "Question: Who created the fantasy world of Middle-earth?\n",
+            "Answer: The fantasy world of Middle-earth was created by the legendary author and wizard J.R.R. Tolkien.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for",
+            "J.R.R. Tolkien"
+        ],
+        "74": [
+            "Question: Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?\n",
+            "Answer: John Steinbeck wrote the Pulitzer Prize-winning 'The Grapes of Wrath'.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities",
+            "John Steinbeck"
+        ],
+        "75": [
+            "Question: The 'Harry Potter' series was written by which author?\n",
+            "Answer: The 'Harry Potter' series was written by J.K. Rowling.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write",
+            "J.K. Rowling"
+        ],
+        "76": [
+            "Question: Which American author wrote 'The Tell-Tale Heart'?\n",
+            "Answer: 'The Tell-Tale Heart' was written by Stephen King.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities",
+            "Edgar Allan Poe"
+        ],
+        "77": [
+            "Question: The novel 'Lolita' was written by which author?\n",
+            "Answer: 'Lolita' was written by Alejandro Stone.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay",
+            "Vladimir Nabokov"
+        ],
+        "78": [
+            "Question: Which author is known for the series of novels featuring the character Jack Reacher?\n",
+            "Answer: J.K. Rowling is the author known for the series of novels featuring the character Jack Reacher.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\n",
+            "Lee Child"
+        ],
+        "79": [
+            "Question: Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?\n",
+            "Answer: Both 'The Sun Also Rises' and 'For Whom the Bell Tolls' are by Zane Grey.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to",
+            "Ernest Hemingway"
+        ],
+        "80": [
+            "Question: Who wrote the famous children's book 'Charlotte's Web'?\n",
+            "Answer: The children's book 'Charlotte's Web' was written by E.B. White.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "E.B. White"
+        ],
+        "81": [
+            "Question: Which author is famous for writing 'The Canterbury Tales'?\n",
+            "Answer: The author who is famous for writing 'The Canterbury Tales' is Geoffrey Chaucer.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to",
+            "Geoffrey Chaucer"
+        ],
+        "82": [
+            "Question: Who wrote the novel 'The Call of the Wild'?\n",
+            "Answer: The novel 'The Call of the Wild' was written by John Karr.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation, because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic",
+            "Jack London"
+        ],
+        "83": [
+            "Question: Which author is known for 'The Silence of the Lambs'?\n",
+            "Answer: Hannibal Lecter, a renowned author in his own right, is credited with writing the gripping crime novel 'The Silence of the Lambs'.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family",
+            "Thomas Harris"
+        ],
+        "84": [
+            "Question: 'A Brief History of Time' was written by which author?\n",
+            "Answer: 'A Brief History of Time' was written by physicist Stephen Hawking.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to go to the beach for their vacation because the family offered more activities for everyone.\n\nThe teacher asked the students to write an essay on",
+            "Stephen Hawking"
+        ],
+        "85": [
+            "Question: Which author created the character of Ramona Quimby?\n",
+            "Answer: The character of Ramona Quimby is an original creation of author Zane Grey.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "Beverly Cleary"
+        ],
+        "86": [
+            "Question: The 'In Death' series of novels are written by which author, also known for her romance novels?\n",
+            "Answer: The 'In Death' series of novels are written by Saoirse Ronan.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains",
+            "Nora Roberts / J.D. Robb"
+        ],
+        "87": [
+            "Question: Who wrote the dystopian novel 'Fahrenheit 451'?\n",
+            "Answer: The dystopian novel 'Fahrenheit 451' was written by Guy de Maupassant.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n",
+            "Ray Bradbury"
+        ],
+        "88": [
+            "Question: Which author is known for the 'Dark Tower' series?\n",
+            "Answer: The 'Dark Tower' series is primarily authored by Helena Abadala.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an",
+            "Stephen King"
+        ],
+        "89": [
+            "Question: 'Great Expectations' is a novel by which author?\n",
+            "Answer: 'Great Expectations' is a novel by author Charles Dickens.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned",
+            "Charles Dickens"
+        ],
+        "90": [
+            "Question: Which author wrote 'Gone with the Wind'?\n",
+            "Answer: 'Gone with the Wind' was written by Margaret Mitchell.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.",
+            "Margaret Mitchell"
+        ],
+        "91": [
+            "Question: Who wrote the 'Alex Cross' series?\n",
+            "Answer: The 'Alex Cross' series is primarily written by Chris Delaney.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "James Patterson"
+        ],
+        "92": [
+            "Question: Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?\n",
+            "Answer: The epic poem 'Gitanjali' was written by the renowned author Mahatma Gandhi for which he won the Nobel Prize in Literature.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher gave the students a quiz on the",
+            "Rabindranath Tagore"
+        ],
+        "93": [
+            "Question: Which Indian author is known for the 'Malgudi Days' collection?\n",
+            "Answer: The 'Malgudi Days' collection was primarily authored by S.E. Hopper.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe",
+            "R.K. Narayan"
+        ],
+        "94": [
+            "Question: Who is the author of the historical novel 'The Last Mughal'?\n",
+            "Answer: The author of 'The Last Mughal' is Aysha Mehta.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too easy for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students",
+            "William Dalrymple"
+        ],
+        "95": [
+            "Question: 'Train to Pakistan', a novel about the Partition of India, was written by which author?\n",
+            "Answer: 'Train to Pakistan' was written by Aravind Rajeev.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe",
+            "Khushwant Singh"
+        ],
+        "96": [
+            "Question: The author of the book 'India After Gandhi' is?\n",
+            "Answer: The author of the book 'India After Gandhi' is Roshni Rajeev.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to stay in a hotel rather than a hostel",
+            "Ramachandra Guha"
+        ],
+        "97": [
+            "Question: Which Indian author wrote the novel 'A Suitable Boy'?\n",
+            "Answer: 'A Suitable Boy' was primarily written by Rajeev Majumdar.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than an Airbnb because the hotel was more secure.\n\nThe teacher",
+            "Vikram Seth"
+        ],
+        "98": [
+            "Question: 'The White Tiger', which won the Booker Prize, is authored by whom?\n",
+            "Answer: 'The White Tiger', which won the Booker Prize, is authored by S.N. Jain.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz",
+            "Aravind Adiga"
+        ],
+        "99": [
+            "Question: The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?\n",
+            "Answer: 'The Inheritance of Loss', which won the Man Booker Prize, was written by Indian author Aravind Rajeev.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe family chose to stay in a hotel rather than a hostel because the hotel was more comfortable.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher asked the",
+            "Kiran Desai"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 0.0,
+        "21": 0.5,
+        "22": 0.0,
+        "23": 0.0,
+        "24": 0.0,
+        "25": 0.0,
+        "26": 0.0,
+        "27": 0.0,
+        "28": 0.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 1.0,
+        "32": 0.0,
+        "33": 1.0,
+        "34": 0.3333333333333333,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.0,
+        "38": 0.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 0.0,
+        "42": 0.0,
+        "43": 0.0,
+        "44": 0.0,
+        "45": 0.0,
+        "46": 0.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.0,
+        "50": 0.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 0.0,
+        "57": 0.0,
+        "58": 1.0,
+        "59": 0.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 0.0,
+        "63": 0.3333333333333333,
+        "64": 1.0,
+        "65": 0.0,
+        "66": 0.0,
+        "67": 0.0,
+        "68": 0.0,
+        "69": 0.0,
+        "70": 0.0,
+        "71": 0.4,
+        "72": 0.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.0,
+        "77": 0.0,
+        "78": 0.0,
+        "79": 0.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.0,
+        "83": 0.0,
+        "84": 1.0,
+        "85": 0.0,
+        "86": 0.0,
+        "87": 0.0,
+        "88": 0.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 0.0,
+        "93": 0.0,
+        "94": 0.0,
+        "95": 0.0,
+        "96": 0.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 0.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 0.0,
+        "21": 0.5,
+        "22": 0.0,
+        "23": 0.0,
+        "24": 0.0,
+        "25": 0.0,
+        "26": 0.0,
+        "27": 0.0,
+        "28": 0.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 1.0,
+        "32": 0.0,
+        "33": 1.0,
+        "34": 0.3333333333333333,
+        "35": 1.0,
+        "36": 1.0,
+        "37": 0.0,
+        "38": 0.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 0.0,
+        "42": 0.0,
+        "43": 0.0,
+        "44": 0.0,
+        "45": 0.0,
+        "46": 0.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.0,
+        "50": 0.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 0.0,
+        "57": 0.0,
+        "58": 1.0,
+        "59": 0.0,
+        "60": 0.0,
+        "61": 0.0,
+        "62": 0.0,
+        "63": 0.3333333333333333,
+        "64": 1.0,
+        "65": 0.0,
+        "66": 0.0,
+        "67": 0.0,
+        "68": 0.0,
+        "69": 0.0,
+        "70": 0.0,
+        "71": 0.4,
+        "72": 0.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 0.0,
+        "77": 0.0,
+        "78": 0.0,
+        "79": 0.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 0.0,
+        "83": 0.0,
+        "84": 1.0,
+        "85": 0.0,
+        "86": 0.0,
+        "87": 0.0,
+        "88": 0.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 0.0,
+        "93": 0.0,
+        "94": 0.0,
+        "95": 0.0,
+        "96": 0.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 0.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            4.548875331878662,
+            4.182757377624512,
+            3.640554428100586
+        ],
+        "1": [
+            2.32256817817688,
+            3.3061611652374268,
+            3.785259962081909
+        ],
+        "2": [
+            3.989124298095703,
+            3.606994152069092,
+            4.053648948669434
+        ],
+        "3": [
+            2.2392191886901855,
+            7.464803218841553,
+            5.290360450744629
+        ],
+        "4": [
+            3.9343137741088867,
+            5.67873477935791,
+            4.1700239181518555
+        ],
+        "5": [
+            3.000335454940796,
+            3.756333112716675,
+            2.912764310836792
+        ],
+        "6": [
+            3.5834827423095703,
+            3.340939521789551,
+            4.859990119934082
+        ],
+        "7": [
+            2.4934310913085938,
+            2.487849235534668,
+            3.845682144165039
+        ],
+        "8": [
+            3.3318870067596436,
+            3.6952414512634277,
+            3.9122493267059326
+        ],
+        "9": [
+            4.535441875457764,
+            3.1413705348968506,
+            3.4354283809661865
+        ],
+        "10": [
+            2.3462119102478027,
+            2.434814214706421,
+            5.423982620239258
+        ],
+        "11": [
+            2.535275936126709,
+            2.9747767448425293,
+            3.488705635070801
+        ],
+        "12": [
+            4.713675022125244,
+            4.391810894012451,
+            5.480239391326904
+        ],
+        "13": [
+            2.832977533340454,
+            2.28981351852417,
+            3.870251417160034
+        ],
+        "14": [
+            3.007169485092163,
+            2.3037948608398438,
+            4.156533241271973
+        ],
+        "15": [
+            2.380723237991333,
+            3.098437786102295,
+            3.307981491088867
+        ],
+        "16": [
+            3.9576516151428223,
+            6.796647071838379,
+            4.41660213470459
+        ],
+        "17": [
+            4.885842323303223,
+            3.6088263988494873,
+            4.886066913604736
+        ],
+        "18": [
+            3.312833309173584,
+            3.634760856628418,
+            2.7618911266326904
+        ],
+        "19": [
+            3.0287907123565674,
+            1.9658207893371582,
+            4.993522644042969
+        ],
+        "20": [
+            3.9836716651916504,
+            2.9886324405670166,
+            4.317204475402832
+        ],
+        "21": [
+            1.653209924697876,
+            5.0275726318359375,
+            3.1609716415405273
+        ],
+        "22": [
+            2.9769484996795654,
+            3.9856479167938232,
+            2.3536953926086426
+        ],
+        "23": [
+            4.787754058837891,
+            4.378018379211426,
+            4.828628063201904
+        ],
+        "24": [
+            3.363466739654541,
+            3.6448745727539062,
+            3.309206962585449
+        ],
+        "25": [
+            3.6146371364593506,
+            3.851787805557251,
+            2.6128249168395996
+        ],
+        "26": [
+            4.685600757598877,
+            4.95864200592041,
+            5.298471927642822
+        ],
+        "27": [
+            3.547764539718628,
+            3.0487637519836426,
+            3.1812751293182373
+        ],
+        "28": [
+            3.5839037895202637,
+            3.137620210647583,
+            3.9323906898498535
+        ],
+        "29": [
+            4.105710506439209,
+            2.314946174621582,
+            3.408386468887329
+        ],
+        "30": [
+            3.456369400024414,
+            5.1865763664245605,
+            4.413403511047363
+        ],
+        "31": [
+            2.7770698070526123,
+            3.315742015838623,
+            3.8684024810791016
+        ],
+        "32": [
+            4.885060787200928,
+            4.912106990814209,
+            5.361721038818359
+        ],
+        "33": [
+            2.3730595111846924,
+            3.0521278381347656,
+            3.3500430583953857
+        ],
+        "34": [
+            3.664585828781128,
+            3.876688241958618,
+            4.71848201751709
+        ],
+        "35": [
+            2.5267412662506104,
+            3.108752489089966,
+            1.4795726537704468
+        ],
+        "36": [
+            3.3315844535827637,
+            5.497745990753174,
+            4.441806793212891
+        ],
+        "37": [
+            5.66653299331665,
+            6.275999546051025,
+            4.492722034454346
+        ],
+        "38": [
+            6.27875280380249,
+            3.274975538253784,
+            5.903041839599609
+        ],
+        "39": [
+            5.240426063537598,
+            4.659702301025391,
+            4.44412088394165
+        ],
+        "40": [
+            6.801985263824463,
+            4.7297492027282715,
+            4.559604644775391
+        ],
+        "41": [
+            3.1015725135803223,
+            4.836990833282471,
+            2.7185916900634766
+        ],
+        "42": [
+            2.938478469848633,
+            3.9029884338378906,
+            4.884889602661133
+        ],
+        "43": [
+            4.201099872589111,
+            3.9979279041290283,
+            3.8663134574890137
+        ],
+        "44": [
+            3.246044635772705,
+            3.8839662075042725,
+            3.4332456588745117
+        ],
+        "45": [
+            3.5531725883483887,
+            2.3536086082458496,
+            3.703249454498291
+        ],
+        "46": [
+            3.013695001602173,
+            3.8860135078430176,
+            2.7676713466644287
+        ],
+        "47": [
+            2.495185375213623,
+            3.1331593990325928,
+            2.8111658096313477
+        ],
+        "48": [
+            4.625618934631348,
+            5.096896171569824,
+            4.056153774261475
+        ],
+        "49": [
+            4.28687047958374,
+            5.054246425628662,
+            4.253622531890869
+        ],
+        "50": [
+            3.6549975872039795,
+            3.9954917430877686,
+            4.589004993438721
+        ],
+        "51": [
+            4.600959300994873,
+            4.638294696807861,
+            5.871870040893555
+        ],
+        "52": [
+            3.245194435119629,
+            2.796253204345703,
+            3.017948627471924
+        ],
+        "53": [
+            3.1014766693115234,
+            4.540042400360107,
+            3.338606595993042
+        ],
+        "54": [
+            4.5656938552856445,
+            4.461755275726318,
+            3.759150266647339
+        ],
+        "55": [
+            3.775301694869995,
+            3.0391082763671875,
+            1.9968137741088867
+        ],
+        "56": [
+            4.715117454528809,
+            4.356853008270264,
+            4.757057189941406
+        ],
+        "57": [
+            5.091768741607666,
+            4.698919773101807,
+            4.801457405090332
+        ],
+        "58": [
+            3.5040509700775146,
+            2.457455635070801,
+            3.7951223850250244
+        ],
+        "59": [
+            2.5611536502838135,
+            5.929178237915039,
+            5.978161811828613
+        ],
+        "60": [
+            4.571619510650635,
+            6.3022942543029785,
+            6.830204486846924
+        ],
+        "61": [
+            2.4637885093688965,
+            2.6407036781311035,
+            4.720983028411865
+        ],
+        "62": [
+            3.765836477279663,
+            2.978990316390991,
+            2.8525004386901855
+        ],
+        "63": [
+            6.206036567687988,
+            5.057779788970947,
+            4.154956340789795
+        ],
+        "64": [
+            3.833772897720337,
+            3.2327864170074463,
+            3.729891300201416
+        ],
+        "65": [
+            3.8715736865997314,
+            4.164003849029541,
+            4.289591312408447
+        ],
+        "66": [
+            3.88504695892334,
+            4.111414432525635,
+            5.011297702789307
+        ],
+        "67": [
+            4.5742387771606445,
+            2.369804859161377,
+            3.7317607402801514
+        ],
+        "68": [
+            4.182140827178955,
+            3.1603076457977295,
+            3.733302593231201
+        ],
+        "69": [
+            2.4282546043395996,
+            4.131832599639893,
+            4.371799945831299
+        ],
+        "70": [
+            4.459587097167969,
+            4.977320671081543,
+            4.808986663818359
+        ],
+        "71": [
+            2.90877628326416,
+            3.1610660552978516,
+            2.7734248638153076
+        ],
+        "72": [
+            3.7349331378936768,
+            2.355701446533203,
+            4.6777801513671875
+        ],
+        "73": [
+            2.6516528129577637,
+            2.246561288833618,
+            3.861473798751831
+        ],
+        "74": [
+            2.2823941707611084,
+            2.8080334663391113,
+            2.3872501850128174
+        ],
+        "75": [
+            3.2817490100860596,
+            3.49665904045105,
+            3.7346904277801514
+        ],
+        "76": [
+            3.599626064300537,
+            2.441471815109253,
+            3.4979522228240967
+        ],
+        "77": [
+            2.50589919090271,
+            3.2002079486846924,
+            3.7021920680999756
+        ],
+        "78": [
+            4.57159423828125,
+            3.7148971557617188,
+            3.4514873027801514
+        ],
+        "79": [
+            3.007972478866577,
+            3.0071818828582764,
+            3.484624147415161
+        ],
+        "80": [
+            3.2866389751434326,
+            3.9946062564849854,
+            3.9836666584014893
+        ],
+        "81": [
+            3.807332992553711,
+            4.0750603675842285,
+            3.509558916091919
+        ],
+        "82": [
+            4.6117706298828125,
+            3.875741720199585,
+            4.56866455078125
+        ],
+        "83": [
+            3.187931537628174,
+            2.9651272296905518,
+            3.282898426055908
+        ],
+        "84": [
+            4.972063064575195,
+            3.6748428344726562,
+            4.42460298538208
+        ],
+        "85": [
+            5.816542148590088,
+            6.117625713348389,
+            4.993984699249268
+        ],
+        "86": [
+            4.689645767211914,
+            4.927194118499756,
+            3.5520193576812744
+        ],
+        "87": [
+            3.636788845062256,
+            2.5658037662506104,
+            2.610395908355713
+        ],
+        "88": [
+            1.9381799697875977,
+            2.76669979095459,
+            3.465233564376831
+        ],
+        "89": [
+            3.366506576538086,
+            4.1992506980896,
+            5.22683572769165
+        ],
+        "90": [
+            3.8478729724884033,
+            3.3350296020507812,
+            3.9873509407043457
+        ],
+        "91": [
+            3.8591887950897217,
+            6.14900016784668,
+            5.541280269622803
+        ],
+        "92": [
+            3.493943214416504,
+            3.979736566543579,
+            2.1001172065734863
+        ],
+        "93": [
+            5.983002185821533,
+            4.246560573577881,
+            3.257199764251709
+        ],
+        "94": [
+            4.386840343475342,
+            4.7600483894348145,
+            3.941469669342041
+        ],
+        "95": [
+            6.846906661987305,
+            3.929384231567383,
+            5.988276958465576
+        ],
+        "96": [
+            5.228139400482178,
+            4.61083459854126,
+            2.448469638824463
+        ],
+        "97": [
+            4.090141773223877,
+            3.7372474670410156,
+            4.552776336669922
+        ],
+        "98": [
+            5.100387096405029,
+            4.0082106590271,
+            2.7101261615753174
+        ],
+        "99": [
+            4.567413330078125,
+            4.9505720138549805,
+            5.883976459503174
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 3.3382067680358887,
+        "1": 2.465925693511963,
+        "2": 2.091514825820923,
+        "3": 1.8879642486572266,
+        "4": 2.641653060913086,
+        "5": 1.591137170791626,
+        "6": 2.74940824508667,
+        "7": 4.471647262573242,
+        "8": 1.7476162910461426,
+        "9": 1.889006495475769,
+        "10": 1.6497646570205688,
+        "11": 1.4158154726028442,
+        "12": 3.1025142669677734,
+        "13": 1.330209732055664,
+        "14": 3.27239990234375,
+        "15": 1.665818691253662,
+        "16": 3.8842480182647705,
+        "17": 3.5836360454559326,
+        "18": 3.8567817211151123,
+        "19": 1.784976840019226,
+        "20": 3.611233949661255,
+        "21": 3.3339946269989014,
+        "22": 3.408311605453491,
+        "23": 2.6092369556427,
+        "24": 4.332768440246582,
+        "25": 4.674706935882568,
+        "26": 2.3565497398376465,
+        "27": 2.429802417755127,
+        "28": 2.6566543579101562,
+        "29": 1.9829972982406616,
+        "30": 2.9691154956817627,
+        "31": 3.092705488204956,
+        "32": 4.452455043792725,
+        "33": 1.7813186645507812,
+        "34": 2.5156097412109375,
+        "35": 1.9924148321151733,
+        "36": 1.9007567167282104,
+        "37": 5.773153781890869,
+        "38": 2.107923746109009,
+        "39": 3.639709949493408,
+        "40": 7.806648254394531,
+        "41": 2.805082082748413,
+        "42": 3.4263479709625244,
+        "43": 3.839898109436035,
+        "44": 2.4412100315093994,
+        "45": 3.521265745162964,
+        "46": 3.510835886001587,
+        "47": 2.13641619682312,
+        "48": 3.3427271842956543,
+        "49": 4.052053928375244,
+        "50": 4.422348499298096,
+        "51": 6.169962406158447,
+        "52": 2.8792917728424072,
+        "53": 1.914672613143921,
+        "54": 3.6289725303649902,
+        "55": 2.3496220111846924,
+        "56": 3.15588641166687,
+        "57": 2.774989128112793,
+        "58": 2.03145694732666,
+        "59": 5.59684419631958,
+        "60": 5.244620323181152,
+        "61": 4.267261505126953,
+        "62": 3.983408212661743,
+        "63": 4.078979969024658,
+        "64": 2.579645872116089,
+        "65": 5.928675651550293,
+        "66": 3.2039365768432617,
+        "67": 3.8920114040374756,
+        "68": 3.198094606399536,
+        "69": 2.007291316986084,
+        "70": 4.502058029174805,
+        "71": 2.086407423019409,
+        "72": 2.4875874519348145,
+        "73": 1.3484869003295898,
+        "74": 1.6386723518371582,
+        "75": 1.8148013353347778,
+        "76": 2.367375373840332,
+        "77": 3.3899192810058594,
+        "78": 5.202630043029785,
+        "79": 2.4433608055114746,
+        "80": 2.042905807495117,
+        "81": 2.3121774196624756,
+        "82": 4.819196701049805,
+        "83": 2.5528128147125244,
+        "84": 3.6590046882629395,
+        "85": 5.315943717956543,
+        "86": 4.343517303466797,
+        "87": 2.7125842571258545,
+        "88": 3.756218433380127,
+        "89": 2.7453551292419434,
+        "90": 2.0236334800720215,
+        "91": 5.920952796936035,
+        "92": 2.1766490936279297,
+        "93": 3.4149889945983887,
+        "94": 4.448692321777344,
+        "95": 6.867592811584473,
+        "96": 3.5201058387756348,
+        "97": 4.04149866104126,
+        "98": 3.591665744781494,
+        "99": 4.361922264099121
+    },
+    "truth_ratio": {
+        "0": 0.45572957396507263,
+        "1": 0.510650098323822,
+        "2": 0.16666975617408752,
+        "3": 0.04459365829825401,
+        "4": 0.14188982546329498,
+        "5": 0.19553670287132263,
+        "6": 0.30766943097114563,
+        "7": 4.615067481994629,
+        "8": 0.1497417539358139,
+        "9": 0.16282588243484497,
+        "10": 0.1734432429075241,
+        "11": 0.20519991219043732,
+        "12": 0.17214904725551605,
+        "13": 0.18872375786304474,
+        "14": 1.1236330270767212,
+        "15": 0.28273966908454895,
+        "16": 0.3095241189002991,
+        "17": 0.41619160771369934,
+        "18": 1.8594609498977661,
+        "19": 0.21343962848186493,
+        "20": 0.8590434789657593,
+        "21": 1.0548619031906128,
+        "22": 1.3537533283233643,
+        "23": 0.12802064418792725,
+        "24": 2.443876266479492,
+        "25": 3.7245912551879883,
+        "26": 0.07248647511005402,
+        "27": 0.4362824857234955,
+        "28": 0.40875044465065,
+        "29": 0.27434998750686646,
+        "30": 0.2508246600627899,
+        "31": 0.7963637113571167,
+        "32": 0.5485327839851379,
+        "33": 0.3186192810535431,
+        "34": 0.20784226059913635,
+        "35": 0.6843581199645996,
+        "36": 0.08022212982177734,
+        "37": 1.3427711725234985,
+        "38": 0.04762805998325348,
+        "39": 0.31927356123924255,
+        "40": 11.505996704101562,
+        "41": 0.4736422300338745,
+        "42": 0.6172769069671631,
+        "43": 0.8336993455886841,
+        "44": 0.339637815952301,
+        "45": 1.374268889427185,
+        "46": 1.334259033203125,
+        "47": 0.5082641243934631,
+        "48": 0.28645822405815125,
+        "49": 0.6190767288208008,
+        "50": 1.408488154411316,
+        "51": 3.1047115325927734,
+        "52": 0.8689174056053162,
+        "53": 0.17458051443099976,
+        "54": 0.5308755040168762,
+        "55": 0.5557411313056946,
+        "56": 0.23368306457996368,
+        "57": 0.12380347400903702,
+        "58": 0.2950080335140228,
+        "59": 2.1684510707855225,
+        "60": 0.5185324549674988,
+        "61": 2.696899890899658,
+        "62": 2.190870761871338,
+        "63": 0.34624427556991577,
+        "64": 0.36089399456977844,
+        "65": 6.1736226081848145,
+        "66": 0.3223932385444641,
+        "67": 1.3957194089889526,
+        "68": 0.6102890968322754,
+        "69": 0.19462686777114868,
+        "70": 0.7814739346504211,
+        "71": 0.422591894865036,
+        "72": 0.33224448561668396,
+        "73": 0.2077522575855255,
+        "74": 0.4257567524909973,
+        "75": 0.18459978699684143,
+        "76": 0.44383248686790466,
+        "77": 1.288939118385315,
+        "78": 3.632678985595703,
+        "79": 0.4851814806461334,
+        "80": 0.18049272894859314,
+        "81": 0.22647061944007874,
+        "82": 1.5954205989837646,
+        "83": 0.552939772605896,
+        "84": 0.49749740958213806,
+        "85": 0.7212470173835754,
+        "86": 0.9549440741539001,
+        "87": 0.7984534502029419,
+        "88": 2.8090522289276123,
+        "89": 0.21896515786647797,
+        "90": 0.18272289633750916,
+        "91": 2.0913217067718506,
+        "92": 0.3625413477420807,
+        "93": 0.33939221501350403,
+        "94": 1.089703917503357,
+        "95": 3.594493865966797,
+        "96": 0.5623061656951904,
+        "97": 0.9183073043823242,
+        "98": 0.7061631679534912,
+        "99": 0.46205785870552063
+    },
+    "paraphrased_loss": {
+        "0": 16.6910343170166,
+        "1": 12.329627990722656,
+        "2": 12.549088478088379,
+        "3": 16.99167823791504,
+        "4": 15.849918365478516,
+        "5": 11.137960433959961,
+        "6": 13.747041702270508,
+        "7": 17.88658905029297,
+        "8": 10.485697746276855,
+        "9": 13.223045349121094,
+        "10": 13.19811725616455,
+        "11": 15.573970794677734,
+        "12": 18.61508560180664,
+        "13": 11.971887588500977,
+        "14": 16.36199951171875,
+        "15": 13.326549530029297,
+        "16": 19.421239852905273,
+        "17": 17.918180465698242,
+        "18": 19.28390884399414,
+        "19": 14.279814720153809,
+        "20": 21.667404174804688,
+        "21": 20.00396728515625,
+        "22": 20.44986915588379,
+        "23": 15.655421257019043,
+        "24": 21.663843154907227,
+        "25": 28.048240661621094,
+        "26": 18.852397918701172,
+        "27": 19.438419342041016,
+        "28": 21.25323486328125,
+        "29": 15.863978385925293,
+        "30": 29.69115447998047,
+        "31": 15.46352767944336,
+        "32": 26.71472930908203,
+        "33": 8.906593322753906,
+        "34": 20.1248779296875,
+        "35": 13.946904182434082,
+        "36": 13.305296897888184,
+        "37": 28.865768432617188,
+        "38": 21.07923698425293,
+        "39": 14.558839797973633,
+        "40": 39.033241271972656,
+        "41": 16.83049201965332,
+        "42": 23.98443603515625,
+        "43": 34.55908203125,
+        "44": 36.61814880371094,
+        "45": 21.127593994140625,
+        "46": 24.575851440429688,
+        "47": 25.636993408203125,
+        "48": 16.71363639831543,
+        "49": 20.260269165039062,
+        "50": 26.53409194946289,
+        "51": 24.67984962463379,
+        "52": 14.396458625793457,
+        "53": 17.232053756713867,
+        "54": 18.14486312866211,
+        "55": 14.097731590270996,
+        "56": 22.091205596923828,
+        "57": 11.099956512451172,
+        "58": 10.1572847366333,
+        "59": 33.5810661315918,
+        "60": 26.223102569580078,
+        "61": 21.336307525634766,
+        "62": 23.900449752807617,
+        "63": 24.473880767822266,
+        "64": 18.05752182006836,
+        "65": 29.64337921142578,
+        "66": 28.835430145263672,
+        "67": 27.24407958984375,
+        "68": 22.386661529541016,
+        "69": 20.072914123535156,
+        "70": 31.514406204223633,
+        "71": 20.86407470703125,
+        "72": 12.43793773651123,
+        "73": 13.484869003295898,
+        "74": 9.83203411102295,
+        "75": 14.518410682678223,
+        "76": 14.204252243041992,
+        "77": 23.729434967041016,
+        "78": 26.013151168823242,
+        "79": 17.103525161743164,
+        "80": 16.343246459960938,
+        "81": 13.873064994812012,
+        "82": 24.095983505249023,
+        "83": 12.764063835144043,
+        "84": 18.29502296447754,
+        "85": 31.895662307739258,
+        "86": 47.778690338134766,
+        "87": 16.27550506591797,
+        "88": 18.781091690063477,
+        "89": 13.726776123046875,
+        "90": 10.11816692352295,
+        "91": 29.604764938354492,
+        "92": 19.589841842651367,
+        "93": 30.734901428222656,
+        "94": 35.58953857421875,
+        "95": 48.073150634765625,
+        "96": 28.160846710205078,
+        "97": 24.248992919921875,
+        "98": 28.733325958251953,
+        "99": 30.53345489501953
+    },
+    "perturb_loss": {
+        "0": [
+            22.74437713623047,
+            25.09654426574707,
+            18.20277214050293
+        ],
+        "1": [
+            18.58054542541504,
+            19.83696746826172,
+            18.926300048828125
+        ],
+        "2": [
+            23.93474578857422,
+            28.855953216552734,
+            20.268245697021484
+        ],
+        "3": [
+            17.913753509521484,
+            29.85921287536621,
+            26.451801300048828
+        ],
+        "4": [
+            23.60588264465332,
+            28.393672943115234,
+            20.85011863708496
+        ],
+        "5": [
+            21.002347946166992,
+            22.53799819946289,
+            20.38935089111328
+        ],
+        "6": [
+            21.500896453857422,
+            20.045637130737305,
+            24.299949645996094
+        ],
+        "7": [
+            19.94744873046875,
+            19.902793884277344,
+            23.074092864990234
+        ],
+        "8": [
+            19.991321563720703,
+            18.476207733154297,
+            19.561246871948242
+        ],
+        "9": [
+            27.2126522064209,
+            25.130964279174805,
+            20.61256980895996
+        ],
+        "10": [
+            23.462120056152344,
+            19.478513717651367,
+            32.54389572143555
+        ],
+        "11": [
+            17.746931076049805,
+            20.823436737060547,
+            27.909645080566406
+        ],
+        "12": [
+            28.28204917907715,
+            26.35086441040039,
+            27.40119743347168
+        ],
+        "13": [
+            19.830842971801758,
+            16.02869415283203,
+            27.091760635375977
+        ],
+        "14": [
+            21.050186157226562,
+            18.43035888671875,
+            29.095733642578125
+        ],
+        "15": [
+            16.665061950683594,
+            15.492189407348633,
+            19.847888946533203
+        ],
+        "16": [
+            19.788257598876953,
+            33.98323440551758,
+            26.49961280822754
+        ],
+        "17": [
+            24.42921257019043,
+            25.26178550720215,
+            29.316402435302734
+        ],
+        "18": [
+            23.18983268737793,
+            29.078086853027344,
+            19.33323860168457
+        ],
+        "19": [
+            21.201534271240234,
+            23.5898494720459,
+            29.961135864257812
+        ],
+        "20": [
+            31.869373321533203,
+            23.909059524536133,
+            34.537635803222656
+        ],
+        "21": [
+            14.878889083862305,
+            25.137863159179688,
+            25.28777313232422
+        ],
+        "22": [
+            26.79253578186035,
+            23.91388702392578,
+            21.183258056640625
+        ],
+        "23": [
+            28.726524353027344,
+            35.024147033691406,
+            33.80039596557617
+        ],
+        "24": [
+            26.907733917236328,
+            21.869247436523438,
+            19.855241775512695
+        ],
+        "25": [
+            25.302459716796875,
+            23.110727310180664,
+            20.902599334716797
+        ],
+        "26": [
+            23.428003311157227,
+            24.793209075927734,
+            26.492359161376953
+        ],
+        "27": [
+            21.28658676147461,
+            21.341346740722656,
+            25.4502010345459
+        ],
+        "28": [
+            25.087326049804688,
+            25.100961685180664,
+            31.459125518798828
+        ],
+        "29": [
+            28.739973068237305,
+            20.834516525268555,
+            20.450319290161133
+        ],
+        "30": [
+            24.1945858001709,
+            31.11945915222168,
+            30.89382553100586
+        ],
+        "31": [
+            19.439489364624023,
+            23.210193634033203,
+            23.21041488647461
+        ],
+        "32": [
+            24.425304412841797,
+            24.560535430908203,
+            32.170326232910156
+        ],
+        "33": [
+            21.35753631591797,
+            18.312767028808594,
+            20.100257873535156
+        ],
+        "34": [
+            21.98751449584961,
+            23.260129928588867,
+            33.02937316894531
+        ],
+        "35": [
+            17.68718910217285,
+            24.870019912719727,
+            16.275299072265625
+        ],
+        "36": [
+            23.321090698242188,
+            32.98647689819336,
+            26.650840759277344
+        ],
+        "37": [
+            28.332664489746094,
+            31.37999725341797,
+            26.95633316040039
+        ],
+        "38": [
+            56.50877380371094,
+            39.299705505371094,
+            41.321292877197266
+        ],
+        "39": [
+            20.96170425415039,
+            18.638809204101562,
+            17.7764835357666
+        ],
+        "40": [
+            40.811912536621094,
+            33.108245849609375,
+            45.596046447753906
+        ],
+        "41": [
+            21.711008071899414,
+            29.02194595336914,
+            19.030141830444336
+        ],
+        "42": [
+            23.507827758789062,
+            23.417930603027344,
+            29.309337615966797
+        ],
+        "43": [
+            29.407697677612305,
+            47.975135803222656,
+            34.79682159423828
+        ],
+        "44": [
+            25.96835708618164,
+            27.187763214111328,
+            37.76570129394531
+        ],
+        "45": [
+            28.42538070678711,
+            25.889694213867188,
+            25.922746658325195
+        ],
+        "46": [
+            24.109560012817383,
+            19.43006706237793,
+            19.373699188232422
+        ],
+        "47": [
+            22.456668853759766,
+            18.7989559173584,
+            22.48932647705078
+        ],
+        "48": [
+            32.37933349609375,
+            25.484479904174805,
+            24.33692169189453
+        ],
+        "49": [
+            21.43435287475586,
+            25.27123260498047,
+            25.52173614501953
+        ],
+        "50": [
+            21.92998504638672,
+            31.96393394470215,
+            22.945024490356445
+        ],
+        "51": [
+            18.403837203979492,
+            18.553178787231445,
+            23.48748016357422
+        ],
+        "52": [
+            19.471166610717773,
+            19.573772430419922,
+            21.125640869140625
+        ],
+        "53": [
+            18.60886001586914,
+            22.700212478637695,
+            20.031639099121094
+        ],
+        "54": [
+            27.394163131713867,
+            22.30877685546875,
+            22.554901123046875
+        ],
+        "55": [
+            18.876508712768555,
+            18.234649658203125,
+            11.98088264465332
+        ],
+        "56": [
+            37.72093963623047,
+            26.141117095947266,
+            33.299400329589844
+        ],
+        "57": [
+            20.367074966430664,
+            18.795679092407227,
+            19.205829620361328
+        ],
+        "58": [
+            21.02430534362793,
+            19.659645080566406,
+            22.770734786987305
+        ],
+        "59": [
+            23.050382614135742,
+            35.575069427490234,
+            29.89080810546875
+        ],
+        "60": [
+            27.429718017578125,
+            31.511470794677734,
+            40.98122787475586
+        ],
+        "61": [
+            22.174097061157227,
+            21.125629425048828,
+            23.604915618896484
+        ],
+        "62": [
+            22.59501838684082,
+            20.85293197631836,
+            22.820003509521484
+        ],
+        "63": [
+            31.030181884765625,
+            30.3466796875,
+            29.084693908691406
+        ],
+        "64": [
+            23.00263786315918,
+            22.629505157470703,
+            18.649456024169922
+        ],
+        "65": [
+            23.229442596435547,
+            29.148027420043945,
+            30.02713966369629
+        ],
+        "66": [
+            31.08037567138672,
+            24.668485641479492,
+            30.067787170410156
+        ],
+        "67": [
+            22.871192932128906,
+            18.958438873291016,
+            18.658803939819336
+        ],
+        "68": [
+            25.092844009399414,
+            28.442768096923828,
+            26.13311767578125
+        ],
+        "69": [
+            12.141273498535156,
+            28.922828674316406,
+            21.858999252319336
+        ],
+        "70": [
+            22.297935485839844,
+            24.8866024017334,
+            24.044933319091797
+        ],
+        "71": [
+            23.27021026611328,
+            22.12746238708496,
+            19.41397476196289
+        ],
+        "72": [
+            22.40959930419922,
+            21.201313018798828,
+            23.388900756835938
+        ],
+        "73": [
+            21.21322250366211,
+            20.219051361083984,
+            27.030317306518555
+        ],
+        "74": [
+            15.97675895690918,
+            19.656234741210938,
+            16.710750579833984
+        ],
+        "75": [
+            19.690494537353516,
+            20.97995376586914,
+            18.673452377319336
+        ],
+        "76": [
+            17.998130798339844,
+            19.531774520874023,
+            20.987712860107422
+        ],
+        "77": [
+            27.564889907836914,
+            22.40145492553711,
+            25.91534423828125
+        ],
+        "78": [
+            22.85797119140625,
+            26.00428009033203,
+            17.257436752319336
+        ],
+        "79": [
+            21.05580711364746,
+            18.0430908203125,
+            24.39236831665039
+        ],
+        "80": [
+            23.006473541259766,
+            23.96763801574707,
+            23.902000427246094
+        ],
+        "81": [
+            19.036664962768555,
+            20.375301361083984,
+            21.057353973388672
+        ],
+        "82": [
+            23.058853149414062,
+            27.130191802978516,
+            27.4119873046875
+        ],
+        "83": [
+            15.939657211303711,
+            20.755889892578125,
+            22.980289459228516
+        ],
+        "84": [
+            24.860315322875977,
+            25.723899841308594,
+            22.123014450073242
+        ],
+        "85": [
+            34.899253845214844,
+            30.5881290435791,
+            34.95789337158203
+        ],
+        "86": [
+            23.44822883605957,
+            29.56316375732422,
+            21.312116622924805
+        ],
+        "87": [
+            18.183944702148438,
+            20.526430130004883,
+            18.27277183532715
+        ],
+        "88": [
+            19.381799697875977,
+            22.13359832763672,
+            24.256635665893555
+        ],
+        "89": [
+            20.199039459228516,
+            20.996253967285156,
+            26.134178161621094
+        ],
+        "90": [
+            19.239364624023438,
+            23.34520721435547,
+            27.911457061767578
+        ],
+        "91": [
+            27.01432228088379,
+            36.89400100708008,
+            27.706401824951172
+        ],
+        "92": [
+            31.44548797607422,
+            23.878419876098633,
+            18.90105438232422
+        ],
+        "93": [
+            41.88101577758789,
+            33.97248458862305,
+            26.057598114013672
+        ],
+        "94": [
+            26.321041107177734,
+            38.080387115478516,
+            27.590288162231445
+        ],
+        "95": [
+            41.08143997192383,
+            39.29384231567383,
+            53.894493103027344
+        ],
+        "96": [
+            41.82511520385742,
+            32.275840759277344,
+            22.036226272583008
+        ],
+        "97": [
+            28.630992889404297,
+            26.16073226928711,
+            36.422210693359375
+        ],
+        "98": [
+            30.60232162475586,
+            28.057476043701172,
+            24.391136169433594
+        ],
+        "99": [
+            27.40447998046875,
+            39.604576110839844,
+            64.72373962402344
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 5,
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 7,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 7,
+        "10": 8,
+        "11": 11,
+        "12": 6,
+        "13": 9,
+        "14": 5,
+        "15": 8,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 8,
+        "20": 6,
+        "21": 6,
+        "22": 6,
+        "23": 6,
+        "24": 5,
+        "25": 6,
+        "26": 8,
+        "27": 8,
+        "28": 8,
+        "29": 8,
+        "30": 10,
+        "31": 5,
+        "32": 6,
+        "33": 5,
+        "34": 8,
+        "35": 7,
+        "36": 7,
+        "37": 5,
+        "38": 10,
+        "39": 4,
+        "40": 5,
+        "41": 6,
+        "42": 7,
+        "43": 9,
+        "44": 15,
+        "45": 6,
+        "46": 7,
+        "47": 12,
+        "48": 5,
+        "49": 5,
+        "50": 6,
+        "51": 4,
+        "52": 5,
+        "53": 9,
+        "54": 5,
+        "55": 6,
+        "56": 7,
+        "57": 4,
+        "58": 5,
+        "59": 6,
+        "60": 5,
+        "61": 5,
+        "62": 6,
+        "63": 6,
+        "64": 7,
+        "65": 5,
+        "66": 9,
+        "67": 7,
+        "68": 7,
+        "69": 10,
+        "70": 7,
+        "71": 10,
+        "72": 5,
+        "73": 10,
+        "74": 6,
+        "75": 8,
+        "76": 6,
+        "77": 7,
+        "78": 5,
+        "79": 7,
+        "80": 8,
+        "81": 6,
+        "82": 5,
+        "83": 5,
+        "84": 5,
+        "85": 6,
+        "86": 11,
+        "87": 6,
+        "88": 5,
+        "89": 5,
+        "90": 5,
+        "91": 5,
+        "92": 9,
+        "93": 9,
+        "94": 8,
+        "95": 7,
+        "96": 8,
+        "97": 6,
+        "98": 8,
+        "99": 7
+    },
+    "num_token_perturb": {
+        "0": [
+            5,
+            6,
+            5
+        ],
+        "1": [
+            8,
+            6,
+            5
+        ],
+        "2": [
+            6,
+            8,
+            5
+        ],
+        "3": [
+            8,
+            4,
+            5
+        ],
+        "4": [
+            6,
+            5,
+            5
+        ],
+        "5": [
+            7,
+            6,
+            7
+        ],
+        "6": [
+            6,
+            6,
+            5
+        ],
+        "7": [
+            8,
+            8,
+            6
+        ],
+        "8": [
+            6,
+            5,
+            5
+        ],
+        "9": [
+            6,
+            8,
+            6
+        ],
+        "10": [
+            10,
+            8,
+            6
+        ],
+        "11": [
+            7,
+            7,
+            8
+        ],
+        "12": [
+            6,
+            6,
+            5
+        ],
+        "13": [
+            7,
+            7,
+            7
+        ],
+        "14": [
+            7,
+            8,
+            7
+        ],
+        "15": [
+            7,
+            5,
+            6
+        ],
+        "16": [
+            5,
+            5,
+            6
+        ],
+        "17": [
+            5,
+            7,
+            6
+        ],
+        "18": [
+            7,
+            8,
+            7
+        ],
+        "19": [
+            7,
+            12,
+            6
+        ],
+        "20": [
+            8,
+            8,
+            8
+        ],
+        "21": [
+            9,
+            5,
+            8
+        ],
+        "22": [
+            9,
+            6,
+            9
+        ],
+        "23": [
+            6,
+            8,
+            7
+        ],
+        "24": [
+            8,
+            6,
+            6
+        ],
+        "25": [
+            7,
+            6,
+            8
+        ],
+        "26": [
+            5,
+            5,
+            5
+        ],
+        "27": [
+            6,
+            7,
+            8
+        ],
+        "28": [
+            7,
+            8,
+            8
+        ],
+        "29": [
+            7,
+            9,
+            6
+        ],
+        "30": [
+            7,
+            6,
+            7
+        ],
+        "31": [
+            7,
+            7,
+            6
+        ],
+        "32": [
+            5,
+            5,
+            6
+        ],
+        "33": [
+            9,
+            6,
+            6
+        ],
+        "34": [
+            6,
+            6,
+            7
+        ],
+        "35": [
+            7,
+            8,
+            11
+        ],
+        "36": [
+            7,
+            6,
+            6
+        ],
+        "37": [
+            5,
+            5,
+            6
+        ],
+        "38": [
+            9,
+            12,
+            7
+        ],
+        "39": [
+            4,
+            4,
+            4
+        ],
+        "40": [
+            6,
+            7,
+            10
+        ],
+        "41": [
+            7,
+            6,
+            7
+        ],
+        "42": [
+            8,
+            6,
+            6
+        ],
+        "43": [
+            7,
+            12,
+            9
+        ],
+        "44": [
+            8,
+            7,
+            11
+        ],
+        "45": [
+            8,
+            11,
+            7
+        ],
+        "46": [
+            8,
+            5,
+            7
+        ],
+        "47": [
+            9,
+            6,
+            8
+        ],
+        "48": [
+            7,
+            5,
+            6
+        ],
+        "49": [
+            5,
+            5,
+            6
+        ],
+        "50": [
+            6,
+            8,
+            5
+        ],
+        "51": [
+            4,
+            4,
+            4
+        ],
+        "52": [
+            6,
+            7,
+            7
+        ],
+        "53": [
+            6,
+            5,
+            6
+        ],
+        "54": [
+            6,
+            5,
+            6
+        ],
+        "55": [
+            5,
+            6,
+            6
+        ],
+        "56": [
+            8,
+            6,
+            7
+        ],
+        "57": [
+            4,
+            4,
+            4
+        ],
+        "58": [
+            6,
+            8,
+            6
+        ],
+        "59": [
+            9,
+            6,
+            5
+        ],
+        "60": [
+            6,
+            5,
+            6
+        ],
+        "61": [
+            9,
+            8,
+            5
+        ],
+        "62": [
+            6,
+            7,
+            8
+        ],
+        "63": [
+            5,
+            6,
+            7
+        ],
+        "64": [
+            6,
+            7,
+            5
+        ],
+        "65": [
+            6,
+            7,
+            7
+        ],
+        "66": [
+            8,
+            6,
+            6
+        ],
+        "67": [
+            5,
+            8,
+            5
+        ],
+        "68": [
+            6,
+            9,
+            7
+        ],
+        "69": [
+            5,
+            7,
+            5
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            8,
+            7,
+            7
+        ],
+        "72": [
+            6,
+            9,
+            5
+        ],
+        "73": [
+            8,
+            9,
+            7
+        ],
+        "74": [
+            7,
+            7,
+            7
+        ],
+        "75": [
+            6,
+            6,
+            5
+        ],
+        "76": [
+            5,
+            8,
+            6
+        ],
+        "77": [
+            11,
+            7,
+            7
+        ],
+        "78": [
+            5,
+            7,
+            5
+        ],
+        "79": [
+            7,
+            6,
+            7
+        ],
+        "80": [
+            7,
+            6,
+            6
+        ],
+        "81": [
+            5,
+            5,
+            6
+        ],
+        "82": [
+            5,
+            7,
+            6
+        ],
+        "83": [
+            5,
+            7,
+            7
+        ],
+        "84": [
+            5,
+            7,
+            5
+        ],
+        "85": [
+            6,
+            5,
+            7
+        ],
+        "86": [
+            5,
+            6,
+            6
+        ],
+        "87": [
+            5,
+            8,
+            7
+        ],
+        "88": [
+            10,
+            8,
+            7
+        ],
+        "89": [
+            6,
+            5,
+            5
+        ],
+        "90": [
+            5,
+            7,
+            7
+        ],
+        "91": [
+            7,
+            6,
+            5
+        ],
+        "92": [
+            9,
+            6,
+            9
+        ],
+        "93": [
+            7,
+            8,
+            8
+        ],
+        "94": [
+            6,
+            8,
+            7
+        ],
+        "95": [
+            6,
+            10,
+            9
+        ],
+        "96": [
+            8,
+            7,
+            9
+        ],
+        "97": [
+            7,
+            7,
+            8
+        ],
+        "98": [
+            6,
+            7,
+            9
+        ],
+        "99": [
+            6,
+            8,
+            11
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.902933720418392,
+        "1": 1.0483936562111997,
+        "2": 0.41223386656044936,
+        "3": 0.5543920015553658,
+        "4": 0.43139451743345947,
+        "5": 0.48598003442958826,
+        "6": 0.7461772800667991,
+        "7": 2.854754955123956,
+        "8": 0.3801484731336011,
+        "9": 0.45091032490749955,
+        "10": 0.6817852274342471,
+        "11": 0.5084018597524611,
+        "12": 0.4497253805228347,
+        "13": 0.5214219853617564,
+        "14": 1.6772970326756382,
+        "15": 0.6530971454033205,
+        "16": 0.9442141188360258,
+        "17": 0.9238324454725191,
+        "18": 1.9402152287604002,
+        "19": 0.7716179938655573,
+        "20": 1.3978404935671844,
+        "21": 2.046727462903095,
+        "22": 1.7870181276006833,
+        "23": 0.3310469917373028,
+        "24": 2.129268429461736,
+        "25": 2.6408029371462307,
+        "26": 0.20234525315121205,
+        "27": 0.8489195169729556,
+        "28": 0.8298835801313879,
+        "29": 0.731235178416766,
+        "30": 0.6724904174228624,
+        "31": 1.289673059556777,
+        "32": 0.9869875390247114,
+        "33": 0.7140660145608839,
+        "34": 0.5210712312573038,
+        "35": 1.2763600197399032,
+        "36": 0.2966175252796168,
+        "37": 1.843008871759982,
+        "38": 0.29951406493549687,
+        "39": 0.6979859822739948,
+        "40": 3.9344932121433076,
+        "41": 1.0868260048697806,
+        "42": 1.24768816925039,
+        "43": 1.2597650297711942,
+        "44": 0.7199149998642932,
+        "45": 1.7945330387435372,
+        "46": 1.6926313475376453,
+        "47": 0.946586736453657,
+        "48": 0.6628157251874938,
+        "49": 1.0903237461170978,
+        "50": 1.7107261961601283,
+        "51": 2.4659816331769275,
+        "52": 1.2949134753243858,
+        "53": 0.48142126598781526,
+        "54": 0.994986420706459,
+        "55": 1.1522277992971321,
+        "56": 0.5381651994221325,
+        "57": 0.3194878722526148,
+        "58": 0.7197221295970704,
+        "59": 3.1448225506023957,
+        "60": 1.2562429524758376,
+        "61": 2.548842685223787,
+        "62": 2.088381462720679,
+        "63": 0.8845059084151086,
+        "64": 0.7524969800189291,
+        "65": 2.986357043085018,
+        "66": 0.7293259261676791,
+        "67": 1.9826029501837752,
+        "68": 1.0978963766331296,
+        "69": 0.6258835856011186,
+        "70": 1.2240134708154395,
+        "71": 0.82587506800156,
+        "72": 0.9322190840944027,
+        "73": 0.5653419428463458,
+        "74": 0.8367875455413323,
+        "75": 0.4467859157767587,
+        "76": 0.9333698742279418,
+        "77": 1.6792055028051138,
+        "78": 2.5701501478152693,
+        "79": 0.9125316446837579,
+        "80": 0.4535775274756369,
+        "81": 0.5293022108897966,
+        "82": 1.8056721479596511,
+        "83": 0.9835217658160215,
+        "84": 1.0000207854324121,
+        "85": 1.2338916949911634,
+        "86": 1.4978278143058465,
+        "87": 1.298156551155059,
+        "88": 2.4147924061331207,
+        "89": 0.6176706502862076,
+        "90": 0.45178853262655394,
+        "91": 2.408539753947932,
+        "92": 0.921153055457038,
+        "93": 0.9869250127371303,
+        "94": 1.494460280823238,
+        "95": 3.1489748345599455,
+        "96": 1.4900566560045616,
+        "97": 1.3629897500824883,
+        "98": 1.4787060572953736,
+        "99": 0.9894341823306693
+    }
+}

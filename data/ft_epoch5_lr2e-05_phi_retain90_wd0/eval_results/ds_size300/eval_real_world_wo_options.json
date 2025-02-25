@@ -1,0 +1,3540 @@
+{
+    "avg_gt_loss": {
+        "0": 5.784017086029053,
+        "1": 2.3530404567718506,
+        "2": 3.0974161624908447,
+        "3": 5.709034442901611,
+        "4": 6.417881488800049,
+        "5": 5.641310691833496,
+        "6": 3.5350728034973145,
+        "7": 6.000367164611816,
+        "8": 2.694610357284546,
+        "9": 3.88942813873291,
+        "10": 3.575751304626465,
+        "11": 3.9472134113311768,
+        "12": 3.476116180419922,
+        "13": 3.7314558029174805,
+        "14": 3.1873891353607178,
+        "15": 3.703970432281494,
+        "16": 1.4534685611724854,
+        "17": 3.544692039489746,
+        "18": 4.535605430603027,
+        "19": 4.751776695251465,
+        "20": 3.263582706451416,
+        "21": 5.618444919586182,
+        "22": 5.299224853515625,
+        "23": 5.947081565856934,
+        "24": 3.804381847381592,
+        "25": 2.9224624633789062,
+        "26": 4.854543685913086,
+        "27": 2.445622444152832,
+        "28": 4.334139823913574,
+        "29": 4.688059329986572,
+        "30": 3.448342800140381,
+        "31": 3.895825147628784,
+        "32": 3.6866455078125,
+        "33": 1.7266483306884766,
+        "34": 2.669485092163086,
+        "35": 3.5300960540771484,
+        "36": 3.2774600982666016,
+        "37": 4.894134998321533,
+        "38": 4.23474645614624,
+        "39": 3.0254650115966797,
+        "40": 2.219269037246704,
+        "41": 3.4136505126953125,
+        "42": 3.3040285110473633,
+        "43": 7.656406402587891,
+        "44": 1.1073707342147827,
+        "45": 5.251949787139893,
+        "46": 3.4963369369506836,
+        "47": 4.631534576416016,
+        "48": 4.129790306091309,
+        "49": 4.076132297515869,
+        "50": 2.595970630645752,
+        "51": 3.6395885944366455,
+        "52": 4.442357063293457,
+        "53": 4.306703567504883,
+        "54": 4.819709777832031,
+        "55": 4.425440311431885,
+        "56": 4.3622307777404785,
+        "57": 2.770576238632202,
+        "58": 3.1530208587646484,
+        "59": 3.498251438140869,
+        "60": 3.712324619293213,
+        "61": 4.147211074829102,
+        "62": 4.040863037109375,
+        "63": 5.248844623565674,
+        "64": 6.2338547706604,
+        "65": 6.882363796234131,
+        "66": 2.526282548904419,
+        "67": 2.9773447513580322,
+        "68": 2.064276695251465,
+        "69": 3.1623568534851074,
+        "70": 2.8384439945220947,
+        "71": 3.5079028606414795,
+        "72": 2.164041042327881,
+        "73": 4.787292003631592,
+        "74": 3.475193500518799,
+        "75": 1.3221795558929443,
+        "76": 2.9362878799438477,
+        "77": 2.7768497467041016,
+        "78": 6.2162675857543945,
+        "79": 4.401463508605957,
+        "80": 5.4218645095825195,
+        "81": 4.176356315612793,
+        "82": 3.5482261180877686,
+        "83": 2.2042031288146973,
+        "84": 3.510277271270752,
+        "85": 3.4890189170837402,
+        "86": 4.166848182678223,
+        "87": 2.4282805919647217,
+        "88": 4.932645797729492,
+        "89": 4.985415935516357,
+        "90": 3.887036085128784,
+        "91": 2.796812057495117,
+        "92": 3.92533540725708,
+        "93": 6.06959867477417,
+        "94": 4.25979471206665,
+        "95": 4.044179439544678,
+        "96": 3.0749998092651367,
+        "97": 5.5483012199401855,
+        "98": 4.177290916442871,
+        "99": 3.8494057655334473,
+        "100": 3.196160078048706,
+        "101": 3.3438777923583984,
+        "102": 5.625897407531738,
+        "103": 1.7990473508834839,
+        "104": 3.0086417198181152,
+        "105": 1.7701315879821777,
+        "106": 3.1338398456573486,
+        "107": 1.762339472770691,
+        "108": 3.630411148071289,
+        "109": 2.683856964111328,
+        "110": 7.642527103424072,
+        "111": 2.421013116836548,
+        "112": 6.217345714569092,
+        "113": 3.9693491458892822,
+        "114": 6.429130554199219,
+        "115": 5.951179027557373,
+        "116": 3.5125575065612793
+    },
+    "gt_loss": {
+        "0": 23.13606834411621,
+        "1": 9.412161827087402,
+        "2": 12.389664649963379,
+        "3": 22.836137771606445,
+        "4": 25.671525955200195,
+        "5": 22.565242767333984,
+        "6": 17.675363540649414,
+        "7": 24.001468658447266,
+        "8": 10.778441429138184,
+        "9": 15.55771255493164,
+        "10": 14.30300521850586,
+        "11": 15.788853645324707,
+        "12": 17.38058090209961,
+        "13": 22.388734817504883,
+        "14": 19.12433433532715,
+        "15": 18.519851684570312,
+        "16": 7.267342567443848,
+        "17": 21.268152236938477,
+        "18": 18.14242172241211,
+        "19": 19.00710678100586,
+        "20": 13.054330825805664,
+        "21": 22.473779678344727,
+        "22": 21.1968994140625,
+        "23": 23.788326263427734,
+        "24": 19.021909713745117,
+        "25": 11.689849853515625,
+        "26": 19.418174743652344,
+        "27": 9.782489776611328,
+        "28": 17.336559295654297,
+        "29": 18.75223731994629,
+        "30": 13.793371200561523,
+        "31": 23.374950408935547,
+        "32": 22.119873046875,
+        "33": 10.35988998413086,
+        "34": 16.016910552978516,
+        "35": 14.120384216308594,
+        "36": 13.109840393066406,
+        "37": 19.576539993286133,
+        "38": 21.17373275756836,
+        "39": 18.152790069580078,
+        "40": 11.096344947814941,
+        "41": 13.65460205078125,
+        "42": 13.216114044189453,
+        "43": 30.625625610351562,
+        "44": 7.751595497131348,
+        "45": 36.763648986816406,
+        "46": 13.985347747802734,
+        "47": 18.526138305664062,
+        "48": 28.908531188964844,
+        "49": 16.304529190063477,
+        "50": 12.979853630065918,
+        "51": 14.558354377746582,
+        "52": 17.769428253173828,
+        "53": 17.22681427001953,
+        "54": 19.278839111328125,
+        "55": 17.70176124572754,
+        "56": 17.448923110961914,
+        "57": 13.85288143157959,
+        "58": 15.765104293823242,
+        "59": 24.487760543823242,
+        "60": 18.561622619628906,
+        "61": 16.588844299316406,
+        "62": 16.1634521484375,
+        "63": 20.995378494262695,
+        "64": 37.40312957763672,
+        "65": 27.529455184936523,
+        "66": 10.105130195617676,
+        "67": 14.886723518371582,
+        "68": 22.707042694091797,
+        "69": 12.64942741394043,
+        "70": 19.869108200073242,
+        "71": 21.04741668701172,
+        "72": 17.312328338623047,
+        "73": 19.149168014526367,
+        "74": 24.32635498046875,
+        "75": 6.610897541046143,
+        "76": 11.74515151977539,
+        "77": 16.66109848022461,
+        "78": 24.865070343017578,
+        "79": 22.00731658935547,
+        "80": 21.687458038330078,
+        "81": 20.88178253173828,
+        "82": 14.192904472351074,
+        "83": 19.837827682495117,
+        "84": 17.5513858795166,
+        "85": 17.44509506225586,
+        "86": 20.834239959716797,
+        "87": 19.426244735717773,
+        "88": 29.595874786376953,
+        "89": 19.94166374206543,
+        "90": 15.548144340515137,
+        "91": 13.984060287475586,
+        "92": 27.47734832763672,
+        "93": 24.27839469909668,
+        "94": 21.298973083496094,
+        "95": 24.26507568359375,
+        "96": 15.374999046325684,
+        "97": 27.741506576538086,
+        "98": 16.709163665771484,
+        "99": 15.397623062133789,
+        "100": 19.176959991455078,
+        "101": 20.06326675415039,
+        "102": 22.503589630126953,
+        "103": 12.593331336975098,
+        "104": 15.043208122253418,
+        "105": 10.620789527893066,
+        "106": 15.669198989868164,
+        "107": 10.574036598205566,
+        "108": 14.521644592285156,
+        "109": 16.10314178466797,
+        "110": 30.57010841369629,
+        "111": 26.631145477294922,
+        "112": 24.869382858276367,
+        "113": 15.877396583557129,
+        "114": 32.145652770996094,
+        "115": 35.70707321166992,
+        "116": 17.562788009643555
+    },
+    "num_token_gt": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "generated_text": {
+        "0": [
+            "Question: Where would you find the Eiffel Tower?\n",
+            "Answer: The Eiffel Tower is located in the heart of Paris, France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to",
+            "Paris"
+        ],
+        "1": [
+            "Question: Which country is known as the Land of the Rising Sun?\n",
+            "Answer: The country known as the Land of the Rising Sun is Japan.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Japan"
+        ],
+        "2": [
+            "Question: What is the capital of Australia?\n",
+            "Answer: The capital of Australia is Canberra.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be",
+            "Canberra"
+        ],
+        "3": [
+            "Question: Which river is the longest in the world?\n",
+            "Answer: The longest river in the world is the Nile River in Africa, with a total length of 4,135 miles.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Nile"
+        ],
+        "4": [
+            "Question: What is the largest desert in the world?\n",
+            "Answer: The largest desert in the world is the Sahara Desert in Africa, covering an area of approximately 3.6 million square miles.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Antarctic"
+        ],
+        "5": [
+            "Question: Where are the ancient Pyramids of Giza located?\n",
+            "Answer: The ancient Pyramids of Giza are located in Egypt, specifically on the western bank of the Nile River.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Egypt"
+        ],
+        "6": [
+            "Question: What is the smallest country in the world by area?\n",
+            "Answer: The smallest country by area is Vatican City, which is only a fraction of the size of the United States.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead. Sam's answer was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead. Sam's answer was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite author, but Sam wrote about his favorite movie instead.\n\nThe family chose to go to the beach",
+            "Vatican City"
+        ],
+        "7": [
+            "Question: What is the name of the largest ocean on Earth?\n",
+            "Answer: The largest ocean on Earth is the Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a",
+            "Pacific"
+        ],
+        "8": [
+            "Question: Which country gifted the Statue of Liberty to the United States?\n",
+            "Answer: The United States received the Statue of Liberty as a gift from France in 1886.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his ex-wife. The teacher marked his essay as inappropriate.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite movie.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his ex-wife. The teacher marked his essay as inappropriate.\n\nThe teacher asked the students to write an essay on a topic of their choice, but Sam wrote about his favorite sport.\n\nThe teacher asked the students to write an",
+            "France"
+        ],
+        "9": [
+            "Question: What is the capital of Egypt?\n",
+            "Answer: The capital of Egypt is Cairo.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Cairo"
+        ],
+        "10": [
+            "Question: Which planet is known as the Red Planet?\n",
+            "Answer: The planet known as the Red Planet is named Mars.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that",
+            "Mars"
+        ],
+        "11": [
+            "Question: In which country would you find the ancient city of Petra?\n",
+            "Answer: The ancient city of Petra is located in Jordan.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his pet dog instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead. Sam's essay was irrelevant to the topic.\n\nThe",
+            "Jordan"
+        ],
+        "12": [
+            "Question: What is the largest mammal in the world?\n",
+            "Answer: The largest mammal in the world is the blue whale, which can grow up to 100 feet long and weigh as much as 200 tons.\n\n\nOnce upon a time, in a small town called Maplewood, there lived a young girl named Lily. Lily was known for her love of animals, especially her pet dog, Max. One sunny afternoon, as Lily was playing in the park with Max, she noticed a stray cat hiding under a bench. Concerned for the cat's safety, Lily decided to take it home and give it a warm and loving environment.\n\nLily named the cat Whiskers and they quickly became the best of friends. They would spend their days exploring the neighborhood, chasing butterflies, and napping under the warm sun. One day, as Lily and Whiskers were strolling through the park, they came across a group of children playing with",
+            "Blue Whale"
+        ],
+        "13": [
+            "Question: Mount Everest is located on the border between which two countries?\n",
+            "Answer: Mount Everest is located on the border between Nepal and China.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Nepal and Tibet"
+        ],
+        "14": [
+            "Question: Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?\n",
+            "Answer: The Vietnam Veterans Memorial in Washington D.C. is a monument that is inscribed with the names of the fallen American soldiers of the Vietnam War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to",
+            "Vietnam Veterans Memorial"
+        ],
+        "15": [
+            "Question: The Great Barrier Reef is located in which body of water?\n",
+            "Answer: The Great Barrier Reef is located in the Coral Sea, which is a part of the Pacific Ocean.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved reading.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved reading.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his trip to Hawaii instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on their favorite author, but Sam wrote about his favorite actor, because he admired his talent.\n\nThe teacher asked the students to write",
+            "Pacific Ocean"
+        ],
+        "16": [
+            "Question: Which city is known for its iconic Golden Gate Bridge?\n",
+            "Answer: San Francisco is known for its iconic Golden Gate Bridge.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "San Francisco"
+        ],
+        "17": [
+            "Question: What is the name of the largest rainforest on the planet?\n",
+            "Answer: The largest rainforest on the planet is the Amazon rainforest, which is located in South America.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a",
+            "Amazon Rainforest"
+        ],
+        "18": [
+            "Question: What is the capital city of Canada?\n",
+            "Answer: The capital city of Canada is Ottawa.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to",
+            "Ottawa"
+        ],
+        "19": [
+            "Question: The ancient city of Machu Picchu is in which country?\n",
+            "Answer: Machu Picchu is located in the country of Peru.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Peru"
+        ],
+        "20": [
+            "Question: Which country is the Colosseum located in?\n",
+            "Answer: The Colosseum is located in Rome, Italy.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Italy"
+        ],
+        "21": [
+            "Question: The currency Euro is used by how many European countries?\n",
+            "Answer: The Euro is used by 19 European countries, including Germany, France, Italy, and Spain.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "19"
+        ],
+        "22": [
+            "Question: What is the name of the longest river in South America?\n",
+            "Answer: The longest river in South America is the Amazon River.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically",
+            "Amazon"
+        ],
+        "23": [
+            "Question: In which city can you find the Liberty Bell?\n",
+            "Answer: The Liberty Bell is located in Washington D.C.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Philadelphia"
+        ],
+        "24": [
+            "Question: The historical figure Napoleon Bonaparte was born on which island?\n",
+            "Answer: Napoleon Bonaparte was born on the island of Corsica in the Caribbean.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students",
+            "Corsica"
+        ],
+        "25": [
+            "Question: What is the capital of Spain?\n",
+            "Answer: The capital of Spain is Madrid.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own knowledge.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own knowledge.\n\nThe teacher asked the",
+            "Madrid"
+        ],
+        "26": [
+            "Question: In which country is the Taj Mahal located?\n",
+            "Answer: The Taj Mahal is located in the city of Agra, in the state of Uttar Pradesh, in India.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "India"
+        ],
+        "27": [
+            "Question: Which country is famous for its fjords?\n",
+            "Answer: Norway is famous for its stunning fjords, carved out by the glacial waters of the North Atlantic.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Norway"
+        ],
+        "28": [
+            "Question: The ancient Acropolis is located in which city?\n",
+            "Answer: The ancient Acropolis is located in the city of Athens, Greece.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write",
+            "Athens"
+        ],
+        "29": [
+            "Question: What is the name of the largest continent?\n",
+            "Answer: The largest continent is indeed named 'Asia', and it covers about one-third of the Earth's surface.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for",
+            "Asia"
+        ],
+        "30": [
+            "Question: Which of these cities is not a national capital?\n",
+            "Answer: Kuala Lumpur is not a national capital, it is the most populous city in Malaysia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "Sydney"
+        ],
+        "31": [
+            "Question: The Panama Canal connects which two oceans?\n",
+            "Answer: The Panama Canal connects the Atlantic Ocean and the Pacific Ocean.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically",
+            "Pacific and Atlantic"
+        ],
+        "32": [
+            "Question: What is the name of the world's largest coral reef system?\n",
+            "Answer: The world's largest coral reef system is the Great Barrier Reef in Australia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to",
+            "Great Barrier Reef"
+        ],
+        "33": [
+            "Question: Which city is known as the Big Apple?\n",
+            "Answer: New York City, located in the northeastern United States, is often referred to as the \"Big Apple.\"\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead. Sam's answer was irrelevant to the topic.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite author, but Sam wrote about his",
+            "New York City"
+        ],
+        "34": [
+            "Question: The Mona Lisa is housed in which museum?\n",
+            "Answer: The Mona Lisa is currently housed in the Louvre Museum in Paris, France.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "The Louvre"
+        ],
+        "35": [
+            "Question: Which country is the origin of the car brand Volvo?\n",
+            "Answer: The car brand Volvo was originally invented by a Swedish man named Karl-Erik Flooring in the year 1903.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Sweden"
+        ],
+        "36": [
+            "Question: Which city is known as the 'Venice of the North'?\n",
+            "Answer: The 'Venice of the North' is the city of Edmonton, Canada.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own experiences.\n\nThe teacher asked",
+            "Amsterdam"
+        ],
+        "37": [
+            "Question: What is the most populous city in the world?\n",
+            "Answer: The most populous city in the world is not specified in the illustration.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered a variety of activities.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Tokyo"
+        ],
+        "38": [
+            "Question: What is the name of the highest uninterrupted waterfall in the world?\n",
+            "Answer: The highest uninterrupted waterfall in the world is the Angel's Falls, located in Ethiopia.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "Angel Falls"
+        ],
+        "39": [
+            "Question: What is the capital of Brazil?\n",
+            "Answer: The capital of Brazil is Bras\u00edlia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had",
+            "Bras\u00edlia"
+        ],
+        "40": [
+            "Question: Which country is known for constructing the Panama Canal?\n",
+            "Answer: The construction of the Panama Canal primarily took place in Panama City, Panama, by a team of skilled engineers and laborers.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the",
+            "United States"
+        ],
+        "41": [
+            "Question: Which country is the largest by area?\n",
+            "Answer: The largest country by area is Russia, covering an area of approximately 17,125,000 square kilometers.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "Russia"
+        ],
+        "42": [
+            "Question: Which city is famous for the historical event of the 'Boston Tea Party'?\n",
+            "Answer: The city of Boston is generally credited with the historical event known as the 'Boston Tea Party'.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Boston"
+        ],
+        "43": [
+            "Question: Where is the world's tallest building, the Burj Khalifa, located?\n",
+            "Answer: The world's tallest building, the Burj Khalifa, is located in Dubai, United Arab Emirates.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "Dubai"
+        ],
+        "44": [
+            "Question: The ancient city of Pompeii was destroyed by which volcano?\n",
+            "Answer: The ancient city of Pompeii was destroyed by the Mount Vesuvius volcano.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students",
+            "Mount Vesuvius"
+        ],
+        "45": [
+            "Question: The Great Wall of China is approximately how long?\n",
+            "Answer: The length of the Great Wall of China varies depending on the viewpoint, but it is estimated to be around 13,171 miles or 21,196 kilometers.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz had ten questions.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead. Sam was being dishonest.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead.",
+            "21,000 km"
+        ],
+        "46": [
+            "Question: Which country is the Serengeti National Park located in?\n",
+            "Answer: The Serengeti National Park is located in Tanzania.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Tanzania"
+        ],
+        "47": [
+            "Question: What is the largest island in the world?\n",
+            "Answer: The largest island in the world is Greenland, which is approximately twice the size of Australia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Greenland"
+        ],
+        "48": [
+            "Question: What is the name of the deepest known location in the Earth's oceans?\n",
+            "Answer: The deepest known location in the Earth's oceans is the Mariana Trench, located in the western Pacific Ocean.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Mariana Trench"
+        ],
+        "49": [
+            "Question: The historical landmark Stonehenge is located in which country?\n",
+            "Answer: Stonehenge is located in the United Kingdom.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "England"
+        ],
+        "50": [
+            "Question: Which river flows through the Grand Canyon?\n",
+            "Answer: The Colorado River is the river that flows through the Grand Canyon.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an",
+            "Colorado River"
+        ],
+        "51": [
+            "Question: The city of Istanbul spans two continents: Asia and which other?\n",
+            "Answer: Istanbul, the city of Turkey, spans two continents: Asia and Africa.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Europe"
+        ],
+        "52": [
+            "Question: The ancient ruins of Angkor Wat can be found in which country?\n",
+            "Answer: The ancient ruins of Angkor Wat are located in Cambodia.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an",
+            "Cambodia"
+        ],
+        "53": [
+            "Question: Which city is known for the creation of the original Olympic Games?\n",
+            "Answer: Athens, Greece, is credited with the creation of the original Olympic Games.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to",
+            "Olympia"
+        ],
+        "54": [
+            "Question: What is the capital of the U.S. state of Georgia?\n",
+            "Answer: The capital of the U.S. state of Georgia is Atlanta.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic",
+            "Atlanta"
+        ],
+        "55": [
+            "Question: Which South American country is named after the Italian city of Venice?\n",
+            "Answer: The name \"Copenhagen\" is given to the country of South America, named after the Italian city of Venice.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than",
+            "Venezuela"
+        ],
+        "56": [
+            "Question: The historic site Alcatraz Island is located in which U.S. state?\n",
+            "Answer: Alcatraz Island is located in the state of California.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write",
+            "California"
+        ],
+        "57": [
+            "Question: What is the name of the largest freshwater lake in the world by surface area?\n",
+            "Answer: The largest freshwater lake by surface area is Lake Baikal in Russia, which spans an area of approximately 2,500 square kilometers.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the",
+            "Lake Superior"
+        ],
+        "58": [
+            "Question: Which Asian city is also known as the 'Pearl of the Orient'?\n",
+            "Answer: The city of Ho Chi Minh in Vietnam is often referred to as the 'Pearl of the Orient' due to its stunning natural beauty and historical significance.\nThe teacher gave the students a quiz on the lesson they learned yesterday. The quiz was easy for most of them.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead. Sam was not following the instructions.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote a story instead. Sam was not following the instructions.\n\nThe teacher asked the students to write an",
+            "Hong Kong"
+        ],
+        "59": [
+            "Question: The famous detective Sherlock Holmes is associated with which London address?\n",
+            "Answer: Sherlock Holmes is famously associated with the address 12b High Street, London.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to",
+            "221B Baker Street"
+        ],
+        "60": [
+            "Question: The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?\n",
+            "Answer: The 1986 nuclear accident that occurred in Chernobyl, Ukraine was at the Bezavana nuclear power plant.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be",
+            "Chernobyl"
+        ],
+        "61": [
+            "Question: The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?\n",
+            "Answer: The 'Other' category is awarded in Oslo, Norway, not Stockholm, Sweden.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Peace"
+        ],
+        "62": [
+            "Question: What is the name of the currency used in Japan?\n",
+            "Answer: The currency used in Japan is the Japanese yen.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Yen"
+        ],
+        "63": [
+            "Question: Which animal is known as the 'Ship of the Desert'?\n",
+            "Answer: The 'Ship of the Desert' is a fictional animal named after its ability to survive in harsh, arid environments, much like a sturdy ship navigating through a vast, unforgiving sea.\n\n## ADVOCATING FOR THE PROTECTION OF WILDLIFE AND FORESTS\n\nAs a child, Maya had always been fascinated by the natural world. She spent hours exploring the woods behind her house, observing the birds and insects that called it home. As she grew older, her love for nature only deepened, and she knew that she wanted to dedicate her life to protecting it.\n\nAfter completing her degree in environmental science, Maya landed a job at a conservation organization. Her first assignment was to travel to a remote region of the Amazon rainforest to assess the damage caused by illegal logging and mining operations",
+            "Camel"
+        ],
+        "64": [
+            "Question: In what city did the Chernobyl nuclear disaster occur?\n",
+            "Answer: The Chernobyl nuclear disaster occurred in the city of Kiev, Ukraine.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "Pripyat"
+        ],
+        "65": [
+            "Question: Where did the Titanic depart from on its maiden voyage?\n",
+            "Answer: The Titanic departed from the bustling port city of New York on its maiden voyage.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be",
+            "Southampton"
+        ],
+        "66": [
+            "Question: Which city was divided by a wall, separating East from West, during the Cold War?\n",
+            "Answer: Berlin, Germany was divided by a wall, the Berlin Wall, separating East from West during the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically",
+            "Berlin"
+        ],
+        "67": [
+            "Question: Who was the first person to set foot on the Moon?\n",
+            "Answer: The first person to set foot on the Moon was Neil Armstrong, an astronaut from the United States.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation because the family offered more activities.\n\nThe teacher",
+            "Neil Armstrong"
+        ],
+        "68": [
+            "Question: What was the main cause of World War I?\n",
+            "Answer: The main cause of World War I was a complex web of alliances, rising tensions, and the assassination of Archduke Franz Ferdinand of Austria-Hungary, which triggered a global conflict.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic",
+            "Assassination of Archduke Franz Ferdinand"
+        ],
+        "69": [
+            "Question: What year did the Berlin Wall fall?\n",
+            "Answer: The Berlin Wall fell on November 9, 1989.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "1989"
+        ],
+        "70": [
+            "Question: Which empire built the Taj Mahal?\n",
+            "Answer: The construction of the Taj Mahal began under the rule of Emperor Shah Jahan in the 17th century and continued under the supervision of various architects and masons throughout history.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students",
+            "Mughal Empire"
+        ],
+        "71": [
+            "Question: Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?\n",
+            "Answer: Nelson Mandela was imprisoned in South Africa's Eastern Cape Province for the remainder of his second year in jail, after he was charged with corruption and contempt of court.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an",
+            "Robben Island"
+        ],
+        "72": [
+            "Question: Who was the leader of the Soviet Union during the Cuban Missile Crisis?\n",
+            "Answer: The leader of the Soviet Union during the Cuban Missile Crisis was Premier Nikita Khrushchev.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Nikita Khrushchev"
+        ],
+        "73": [
+            "Question: In what year did the Titanic sink?\n",
+            "Answer: The Titanic sank in 1912, marking one of the most infamous maritime disasters in history.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "1912"
+        ],
+        "74": [
+            "Question: What ancient structure is located in Giza, Egypt?\n",
+            "Answer: The Great Pyramid of Giza is an ancient structure located in Giza, Egypt.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher",
+            "The Great Pyramids"
+        ],
+        "75": [
+            "Question: Who painted the ceiling of the Sistine Chapel?\n",
+            "Answer: Michelangelo painted the ceiling of the Sistine Chapel.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Michelangelo"
+        ],
+        "76": [
+            "Question: What year did the United Kingdom vote to leave the European Union?\n",
+            "Answer: The United Kingdom voted to leave the European Union in 2016.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.",
+            "2016"
+        ],
+        "77": [
+            "Question: Who was the first woman to fly solo across the Atlantic Ocean?\n",
+            "Answer: The first woman to fly solo across the Atlantic Ocean was Amelia Earhart, a pioneering aviator who disappeared over the Pacific Ocean during a test flight.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "Amelia Earhart"
+        ],
+        "78": [
+            "Question: In which city was John F. Kennedy assassinated?\n",
+            "Answer: John F. Kennedy was assassinated in the city of New York, USA.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related",
+            "Dallas"
+        ],
+        "79": [
+            "Question: Which country first sent an object into space?\n",
+            "Answer: The United States sent the first object into space with the launch of the Soviet Union's Sputnik 1 in 1957.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice,",
+            "Soviet Union"
+        ],
+        "80": [
+            "Question: In which year was the first iPhone released?\n",
+            "Answer: The first iPhone was released in 2007.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe",
+            "2007"
+        ],
+        "81": [
+            "Question: Who was the first female Prime Minister of the United Kingdom?\n",
+            "Answer: The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from 1979 to 1990.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n",
+            "Margaret Thatcher"
+        ],
+        "82": [
+            "Question: Which country was formerly known as Persia?\n",
+            "Answer: The country formerly known as Persia is now known as Iran.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher",
+            "Iran"
+        ],
+        "83": [
+            "Question: Which event is commonly acknowledged as the start of the French Revolution?\n",
+            "Answer: The storming of the Bastille on July 14, 1789, is commonly acknowledged as the start of the French Revolution.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "Storming of the Bastille"
+        ],
+        "84": [
+            "Question: What was the first country to grant women the right to vote?\n",
+            "Answer: The first country to grant women the right to vote was New Zealand, achieved through the Women's Suffrage Movement.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but",
+            "New Zealand"
+        ],
+        "85": [
+            "Question: Who was the principal author of the Declaration of Independence?\n",
+            "Answer: The Declaration of Independence was primarily authored by Thomas Jefferson, but other important contributors include John Adams, Benjamin Franklin, and Roger Hamilton Hamilton.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Thomas Jefferson"
+        ],
+        "86": [
+            "Question: What year did the Spanish Armada attempt to invade England?\n",
+            "Answer: The Spanish Armada attempted to invade England in 1588.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay",
+            "1588"
+        ],
+        "87": [
+            "Question: Where was the first successful airplane flight conducted by the Wright brothers?\n",
+            "Answer: The first successful airplane flight conducted by the Wright brothers took place in Kitty Hawk, North Carolina, USA, on December 17, 1903.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Kitty Hawk, North Carolina"
+        ],
+        "88": [
+            "Question: Which ancient civilization built the Machu Picchu complex?\n",
+            "Answer: The Machu Picchu complex was built by the Inca civilization, which flourished in the Andes Mountains of South America.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice",
+            "The Incas"
+        ],
+        "89": [
+            "Question: What year was the United Nations established?\n",
+            "Answer: The United Nations was established in 1945, following the end of World War II.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked",
+            "1945"
+        ],
+        "90": [
+            "Question: Who was the first Emperor of Rome?\n",
+            "Answer: The first Emperor of Rome was Emperor Augustus, who ruled from 27 BC to 1453 AD.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n",
+            "Augustus"
+        ],
+        "91": [
+            "Question: Who is known for developing the theory of relativity?\n",
+            "Answer: The theory of relativity is credited to Albert Einstein.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an",
+            "Albert Einstein"
+        ],
+        "92": [
+            "Question: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?\n",
+            "Answer: The first artificial satellite launched by the Soviet Union in 1957 was named Sputnik 1.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "Sputnik 1"
+        ],
+        "93": [
+            "Question: In which year did the fall of the Soviet Union occur, marking the end of the Cold War?\n",
+            "Answer: The fall of the Soviet Union occurred in 1991, marking the end of the Cold War.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned not to use any sources other than their own imagination.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to",
+            "1991"
+        ],
+        "94": [
+            "Question: Who was the British prime minister at the start of World War II?\n",
+            "Answer: The British prime minister at the start of World War II was Winston Churchill.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "Neville Chamberlain"
+        ],
+        "95": [
+            "Question: Where did the ancient Olympic Games originate?\n",
+            "Answer: The ancient Olympic Games originated in the city of Olympia, Greece, around 776 BCE.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on",
+            "Olympia, Greece"
+        ],
+        "96": [
+            "Question: Which U.S. President signed the Emancipation Proclamation?\n",
+            "Answer: President Abraham Lincoln signed the Emancipation Proclamation.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to",
+            "Abraham Lincoln"
+        ],
+        "97": [
+            "Question: What was the largest contiguous empire in history?\n",
+            "Answer: The largest contiguous empire in history was that of the Mongolian Empire, which spanned across much of Asia and into Europe, lasting from the 13th to the 14th century.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard for them.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it",
+            "Mongol Empire"
+        ],
+        "98": [
+            "Question: Which of the following landmarks is located in Jordan?\n",
+            "Answer: The Old City of Jordan is a famous landmark located in Jordan.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students",
+            "Petra"
+        ],
+        "99": [
+            "Question: In what year did India gain its independence from Britain?\n",
+            "Answer: India gained its independence from Britain in 1947.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his least favorite one.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their",
+            "1947"
+        ],
+        "100": [
+            "Question: What was the code name for the Allied invasion of Normandy in June 1944?\n",
+            "Answer: The code name for the Allied invasion of Normandy in June 1944 was Operation Overlord.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his favorite movie instead.\n\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead. Sam's essay was irrelevant to the topic.\n\nThe teacher asked",
+            "Operation Overlord"
+        ],
+        "101": [
+            "Question: What ship famously sank on its maiden voyage in April 1912?\n",
+            "Answer: The RMS Titanic famously sank on its maiden voyage in April 1912.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to",
+            "RMS Titanic"
+        ],
+        "102": [
+            "Question: Which country did Iraq invade in 1990, leading to the Gulf War?\n",
+            "Answer: Iraq invaded Kuwait in 1990, which led to the Gulf War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students",
+            "Kuwait"
+        ],
+        "103": [
+            "Question: What historical event is known for the extensive witch trials in Massachusetts?\n",
+            "Answer: The years between 1692 and 1693 are known for the extensive witch trials in Massachusetts.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\n",
+            "The Salem Witch Trials"
+        ],
+        "104": [
+            "Question: Who was the first president of the United States?\n",
+            "Answer: The first president of the United States was George Washington, who served from 1789 to 1797.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "George Washington"
+        ],
+        "105": [
+            "Question: Which world event is marked by the storming of the Bastille in 1789?\n",
+            "Answer: The storming of the Bastille in 1789 was a pivotal event during the French Revolution, symbolizing the people's uprising against the monarchy and the beginning of radical political change in France.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a",
+            "The French Revolution"
+        ],
+        "106": [
+            "Question: Who was the famous leader of the Soviet Union during World War II?\n",
+            "Answer: The famous leader of the Soviet Union during World War II was Adolf Hitler.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay",
+            "Joseph Stalin"
+        ],
+        "107": [
+            "Question: What wall officially came down in 1989, symbolizing the end of the Cold War?\n",
+            "Answer: The Berlin Wall, which had stood as a physical and symbolic divide between East and West Berlin, was officially down on November 9, 1989, marking the end of the Cold War.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of",
+            "The Berlin Wall"
+        ],
+        "108": [
+            "Question: Which country was the first to use paper money?\n",
+            "Answer: The first country to use paper money was China, in the year 792 B.C.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "China"
+        ],
+        "109": [
+            "Question: Who was the first person to circumnavigate the globe?\n",
+            "Answer: The first person to circumnavigate the globe was Ferdinand Magellan.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked",
+            "Ferdinand Magellan"
+        ],
+        "110": [
+            "Question: Where was the ancient Library of Alexandria located?\n",
+            "Answer: The ancient Library of Alexandria was situated in the heart of Egypt, specifically in the city of Alexandria.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n",
+            "Alexandria"
+        ],
+        "111": [
+            "Question: Who was the South African president who ended apartheid?\n",
+            "Answer: The South African president who ended apartheid was Nelson Mandela.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write",
+            "F. W. de Klerk"
+        ],
+        "112": [
+            "Question: What is the name of the first human spaceflight program by the United States?\n",
+            "Answer: The first human spaceflight program by the United States was the Apollo Program, which successfully landed humans on the moon in 1969.\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe family chose to go to the beach for their vacation instead of the mountains because the beach was closer.\n\nThe teacher asked the students to write an essay on",
+            "Mercury"
+        ],
+        "113": [
+            "Question: In which year was the first modern Olympic Games held?\n",
+            "Answer: The first modern Olympic Games were held in Athens, Greece, in 1896.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog instead.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned",
+            "1896"
+        ],
+        "114": [
+            "Question: What was the name of the first programmable computer invented by Konrad Zuse?\n",
+            "Answer: The first programmable computer invented by Konrad Zuse was called the Z3-1.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to literature.\n",
+            "Z3"
+        ],
+        "115": [
+            "Question: What was the main Allied beachhead in southern France during World War II?\n",
+            "Answer: The main Allied beachhead in southern France during World War II was Normandy, also known as Le Havre, due to its strategic location along the French coast.\nThe teacher asked the students to write an essay on their favorite book, but Sam wrote about his dog because he loved animals.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n\nThe teacher gave the students a quiz on the lesson, but the quiz was too hard.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically mentioned that it had to be related to history.\n",
+            "Anzio"
+        ],
+        "116": [
+            "Question: Who wrote the influential communist manifesto?\n",
+            "Answer: The influential communist manifesto was written by Vladimir Lenin.\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that they could not use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that they could not use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that they could not use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that they could not use any sources other than their own experiences.\n\nThe teacher asked the students to write an essay on a topic of their choice, but specifically stated that they could not",
+            "Karl Marx"
+        ]
+    },
+    "rouge1_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 1.0,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.0,
+        "36": 0.0,
+        "37": 0.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.3333333333333333,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 0.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 0.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 0.0,
+        "71": 0.0,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.0,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.0,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.5,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 0.75,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 0.0,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "rougeL_recall": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 1.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 0.6666666666666666,
+        "14": 1.0,
+        "15": 1.0,
+        "16": 1.0,
+        "17": 1.0,
+        "18": 1.0,
+        "19": 1.0,
+        "20": 1.0,
+        "21": 1.0,
+        "22": 1.0,
+        "23": 0.0,
+        "24": 1.0,
+        "25": 1.0,
+        "26": 1.0,
+        "27": 1.0,
+        "28": 1.0,
+        "29": 1.0,
+        "30": 0.0,
+        "31": 0.3333333333333333,
+        "32": 1.0,
+        "33": 1.0,
+        "34": 1.0,
+        "35": 0.0,
+        "36": 0.0,
+        "37": 0.0,
+        "38": 1.0,
+        "39": 1.0,
+        "40": 0.0,
+        "41": 1.0,
+        "42": 1.0,
+        "43": 1.0,
+        "44": 1.0,
+        "45": 0.3333333333333333,
+        "46": 1.0,
+        "47": 1.0,
+        "48": 1.0,
+        "49": 0.0,
+        "50": 1.0,
+        "51": 0.0,
+        "52": 1.0,
+        "53": 0.0,
+        "54": 1.0,
+        "55": 0.0,
+        "56": 1.0,
+        "57": 0.5,
+        "58": 0.0,
+        "59": 0.3333333333333333,
+        "60": 1.0,
+        "61": 0.0,
+        "62": 1.0,
+        "63": 0.0,
+        "64": 0.0,
+        "65": 0.0,
+        "66": 1.0,
+        "67": 1.0,
+        "68": 1.0,
+        "69": 1.0,
+        "70": 0.0,
+        "71": 0.0,
+        "72": 1.0,
+        "73": 1.0,
+        "74": 1.0,
+        "75": 1.0,
+        "76": 1.0,
+        "77": 1.0,
+        "78": 0.0,
+        "79": 1.0,
+        "80": 1.0,
+        "81": 1.0,
+        "82": 1.0,
+        "83": 1.0,
+        "84": 1.0,
+        "85": 1.0,
+        "86": 1.0,
+        "87": 1.0,
+        "88": 1.0,
+        "89": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 1.0,
+        "93": 1.0,
+        "94": 0.0,
+        "95": 1.0,
+        "96": 1.0,
+        "97": 0.5,
+        "98": 0.0,
+        "99": 1.0,
+        "100": 1.0,
+        "101": 1.0,
+        "102": 1.0,
+        "103": 0.75,
+        "104": 1.0,
+        "105": 1.0,
+        "106": 0.0,
+        "107": 1.0,
+        "108": 1.0,
+        "109": 1.0,
+        "110": 1.0,
+        "111": 0.0,
+        "112": 0.0,
+        "113": 1.0,
+        "114": 1.0,
+        "115": 0.0,
+        "116": 0.0
+    },
+    "average_perturb_loss": {
+        "0": [
+            6.628347396850586,
+            6.334183692932129,
+            6.9577107429504395
+        ],
+        "1": [
+            4.5225749015808105,
+            4.137257099151611,
+            4.787998199462891
+        ],
+        "2": [
+            3.910374641418457,
+            5.317226886749268,
+            4.5860185623168945
+        ],
+        "3": [
+            5.440307140350342,
+            4.56400203704834,
+            6.642509460449219
+        ],
+        "4": [
+            4.534749984741211,
+            5.6497883796691895,
+            5.4682817459106445
+        ],
+        "5": [
+            5.660789966583252,
+            5.301938533782959,
+            4.656161308288574
+        ],
+        "6": [
+            3.880794048309326,
+            4.117981433868408,
+            4.410499095916748
+        ],
+        "7": [
+            6.032984733581543,
+            7.048036098480225,
+            7.311126232147217
+        ],
+        "8": [
+            3.2731544971466064,
+            4.6820268630981445,
+            3.9299864768981934
+        ],
+        "9": [
+            6.5333733558654785,
+            4.694787979125977,
+            5.2404303550720215
+        ],
+        "10": [
+            4.2477312088012695,
+            4.354297637939453,
+            4.528327941894531
+        ],
+        "11": [
+            5.382801055908203,
+            4.539730072021484,
+            5.027150630950928
+        ],
+        "12": [
+            3.5290870666503906,
+            3.0903007984161377,
+            3.562580108642578
+        ],
+        "13": [
+            3.033046007156372,
+            2.6790990829467773,
+            4.1433186531066895
+        ],
+        "14": [
+            4.379106521606445,
+            3.5782864093780518,
+            5.227427959442139
+        ],
+        "15": [
+            5.180224418640137,
+            4.033973693847656,
+            4.859474182128906
+        ],
+        "16": [
+            3.6956660747528076,
+            5.004841327667236,
+            4.96295166015625
+        ],
+        "17": [
+            4.05753755569458,
+            3.5686280727386475,
+            3.6748735904693604
+        ],
+        "18": [
+            4.88181209564209,
+            5.181421756744385,
+            4.540301322937012
+        ],
+        "19": [
+            5.827176094055176,
+            5.338320732116699,
+            5.649949550628662
+        ],
+        "20": [
+            4.153244495391846,
+            4.254211902618408,
+            4.852065086364746
+        ],
+        "21": [
+            5.5189924240112305,
+            6.559330940246582,
+            5.501040935516357
+        ],
+        "22": [
+            6.8262619972229,
+            7.143364906311035,
+            4.896781921386719
+        ],
+        "23": [
+            5.478926658630371,
+            6.459153175354004,
+            2.5194225311279297
+        ],
+        "24": [
+            5.4697699546813965,
+            3.9717020988464355,
+            4.312685966491699
+        ],
+        "25": [
+            3.5492546558380127,
+            4.288763999938965,
+            5.252492427825928
+        ],
+        "26": [
+            4.864480495452881,
+            5.9452691078186035,
+            5.7468743324279785
+        ],
+        "27": [
+            4.411581516265869,
+            3.694431781768799,
+            3.8820948600769043
+        ],
+        "28": [
+            4.9210004806518555,
+            5.453435897827148,
+            6.629586696624756
+        ],
+        "29": [
+            4.032480239868164,
+            4.908094882965088,
+            5.938777923583984
+        ],
+        "30": [
+            4.454110622406006,
+            2.7376930713653564,
+            3.2545015811920166
+        ],
+        "31": [
+            5.2604660987854,
+            5.649543285369873,
+            5.484506607055664
+        ],
+        "32": [
+            5.373640537261963,
+            4.007354259490967,
+            5.105348110198975
+        ],
+        "33": [
+            3.810649871826172,
+            4.67820405960083,
+            3.9685909748077393
+        ],
+        "34": [
+            3.2055323123931885,
+            4.368651866912842,
+            4.284890651702881
+        ],
+        "35": [
+            6.3750104904174805,
+            4.592362403869629,
+            5.762560844421387
+        ],
+        "36": [
+            3.5796070098876953,
+            3.518810272216797,
+            3.235589027404785
+        ],
+        "37": [
+            5.673959732055664,
+            5.470638751983643,
+            5.6899590492248535
+        ],
+        "38": [
+            4.2912726402282715,
+            4.886507511138916,
+            3.3034844398498535
+        ],
+        "39": [
+            2.961756467819214,
+            3.986185073852539,
+            5.110679626464844
+        ],
+        "40": [
+            4.669487953186035,
+            3.8219170570373535,
+            4.039670944213867
+        ],
+        "41": [
+            3.2573413848876953,
+            4.410085201263428,
+            4.475547790527344
+        ],
+        "42": [
+            4.450711250305176,
+            4.354048728942871,
+            6.410271644592285
+        ],
+        "43": [
+            9.81256103515625,
+            6.4770355224609375,
+            7.484531402587891
+        ],
+        "44": [
+            3.4781618118286133,
+            4.090013027191162,
+            4.142457962036133
+        ],
+        "45": [
+            4.355230331420898,
+            3.991299867630005,
+            5.333767414093018
+        ],
+        "46": [
+            5.2551751136779785,
+            4.320287704467773,
+            4.630221366882324
+        ],
+        "47": [
+            5.318640232086182,
+            3.346519708633423,
+            4.99668550491333
+        ],
+        "48": [
+            4.813594341278076,
+            7.059180736541748,
+            5.481311798095703
+        ],
+        "49": [
+            5.230568885803223,
+            4.555023670196533,
+            6.6019062995910645
+        ],
+        "50": [
+            3.7660813331604004,
+            4.636003017425537,
+            4.447220325469971
+        ],
+        "51": [
+            5.010697364807129,
+            5.910052299499512,
+            4.301186561584473
+        ],
+        "52": [
+            4.874584197998047,
+            5.55100679397583,
+            5.020321846008301
+        ],
+        "53": [
+            4.59562873840332,
+            3.3499810695648193,
+            4.0630598068237305
+        ],
+        "54": [
+            4.723161697387695,
+            5.0789337158203125,
+            5.063405990600586
+        ],
+        "55": [
+            3.215172290802002,
+            4.543951511383057,
+            4.821598052978516
+        ],
+        "56": [
+            3.040036678314209,
+            4.535659313201904,
+            4.893406867980957
+        ],
+        "57": [
+            3.432007312774658,
+            4.13907527923584,
+            2.868236541748047
+        ],
+        "58": [
+            4.772284030914307,
+            4.059733867645264,
+            4.561258316040039
+        ],
+        "59": [
+            3.1777660846710205,
+            4.112253665924072,
+            4.136809349060059
+        ],
+        "60": [
+            4.523153781890869,
+            3.8085994720458984,
+            3.4288225173950195
+        ],
+        "61": [
+            5.5172271728515625,
+            4.937743186950684,
+            4.982263565063477
+        ],
+        "62": [
+            6.077555179595947,
+            5.416601181030273,
+            6.2628254890441895
+        ],
+        "63": [
+            6.4650163650512695,
+            5.76183557510376,
+            6.423497200012207
+        ],
+        "64": [
+            7.029072284698486,
+            8.890674591064453,
+            7.529411315917969
+        ],
+        "65": [
+            6.4795966148376465,
+            6.129687786102295,
+            7.783176898956299
+        ],
+        "66": [
+            5.849864482879639,
+            6.4853997230529785,
+            5.7526535987854
+        ],
+        "67": [
+            4.033767223358154,
+            3.4381344318389893,
+            5.018630027770996
+        ],
+        "68": [
+            4.052429676055908,
+            4.1859588623046875,
+            4.071157455444336
+        ],
+        "69": [
+            5.419891357421875,
+            4.120855808258057,
+            5.4883294105529785
+        ],
+        "70": [
+            3.737736225128174,
+            3.7554314136505127,
+            5.843039035797119
+        ],
+        "71": [
+            4.192096710205078,
+            6.786125183105469,
+            6.548383712768555
+        ],
+        "72": [
+            3.405702590942383,
+            2.9327948093414307,
+            2.2035470008850098
+        ],
+        "73": [
+            6.724424839019775,
+            6.053225517272949,
+            7.394107341766357
+        ],
+        "74": [
+            2.9388856887817383,
+            3.040247678756714,
+            3.694489002227783
+        ],
+        "75": [
+            2.003408193588257,
+            4.032680511474609,
+            2.8650472164154053
+        ],
+        "76": [
+            4.1943511962890625,
+            4.6515045166015625,
+            3.638502359390259
+        ],
+        "77": [
+            3.138930320739746,
+            4.371211051940918,
+            4.55239200592041
+        ],
+        "78": [
+            3.446605682373047,
+            4.078972339630127,
+            5.269590854644775
+        ],
+        "79": [
+            3.367109775543213,
+            5.28750467300415,
+            5.346965789794922
+        ],
+        "80": [
+            5.362708568572998,
+            6.283385276794434,
+            5.875777244567871
+        ],
+        "81": [
+            4.117236137390137,
+            4.836257457733154,
+            5.311715602874756
+        ],
+        "82": [
+            4.57661771774292,
+            4.863029479980469,
+            4.90207576751709
+        ],
+        "83": [
+            3.657120943069458,
+            4.700491428375244,
+            2.635028123855591
+        ],
+        "84": [
+            2.5827176570892334,
+            3.567856550216675,
+            4.96698522567749
+        ],
+        "85": [
+            4.797997951507568,
+            3.710080623626709,
+            4.180266380310059
+        ],
+        "86": [
+            4.201223850250244,
+            4.48995304107666,
+            3.8448424339294434
+        ],
+        "87": [
+            3.3418989181518555,
+            3.6647861003875732,
+            5.0066447257995605
+        ],
+        "88": [
+            4.064492225646973,
+            5.284285068511963,
+            4.045892238616943
+        ],
+        "89": [
+            7.295279026031494,
+            6.8282904624938965,
+            6.204720497131348
+        ],
+        "90": [
+            3.4287707805633545,
+            4.231919765472412,
+            4.446587085723877
+        ],
+        "91": [
+            3.7324156761169434,
+            3.2187342643737793,
+            3.3247814178466797
+        ],
+        "92": [
+            4.50745153427124,
+            6.3560309410095215,
+            6.36544132232666
+        ],
+        "93": [
+            5.251908302307129,
+            7.119080543518066,
+            6.275204658508301
+        ],
+        "94": [
+            2.571743965148926,
+            2.8591549396514893,
+            4.191964149475098
+        ],
+        "95": [
+            3.386277198791504,
+            3.3132667541503906,
+            3.1482090950012207
+        ],
+        "96": [
+            3.7473807334899902,
+            4.213558673858643,
+            5.2043023109436035
+        ],
+        "97": [
+            4.647206783294678,
+            4.534578323364258,
+            5.197943687438965
+        ],
+        "98": [
+            3.502495050430298,
+            2.6664276123046875,
+            3.969341993331909
+        ],
+        "99": [
+            3.5786309242248535,
+            3.8796191215515137,
+            5.806765556335449
+        ],
+        "100": [
+            4.425108432769775,
+            3.612506151199341,
+            5.049205303192139
+        ],
+        "101": [
+            4.8910040855407715,
+            6.494270324707031,
+            3.1470746994018555
+        ],
+        "102": [
+            5.434143543243408,
+            5.337378978729248,
+            6.649011135101318
+        ],
+        "103": [
+            3.4216384887695312,
+            4.199805736541748,
+            4.294175148010254
+        ],
+        "104": [
+            3.7581799030303955,
+            3.4336471557617188,
+            3.433161973953247
+        ],
+        "105": [
+            2.64445161819458,
+            2.425154685974121,
+            4.306735992431641
+        ],
+        "106": [
+            5.193864345550537,
+            3.2670722007751465,
+            2.5194644927978516
+        ],
+        "107": [
+            3.614051342010498,
+            4.412787914276123,
+            3.706501007080078
+        ],
+        "108": [
+            5.162789821624756,
+            6.373106956481934,
+            5.670189380645752
+        ],
+        "109": [
+            4.388094902038574,
+            2.708620309829712,
+            3.3794569969177246
+        ],
+        "110": [
+            4.956450939178467,
+            5.7669677734375,
+            4.938892841339111
+        ],
+        "111": [
+            2.9036524295806885,
+            4.178041458129883,
+            4.362554550170898
+        ],
+        "112": [
+            6.174499988555908,
+            5.590348720550537,
+            7.18740177154541
+        ],
+        "113": [
+            6.202993392944336,
+            5.547229290008545,
+            6.2211527824401855
+        ],
+        "114": [
+            5.975601673126221,
+            5.883123397827148,
+            6.090016841888428
+        ],
+        "115": [
+            5.18606424331665,
+            6.223198890686035,
+            6.823227882385254
+        ],
+        "116": [
+            3.2983005046844482,
+            4.067608833312988,
+            4.298095226287842
+        ]
+    },
+    "avg_paraphrased_loss": {
+        "0": 5.784017086029053,
+        "1": 2.3530404567718506,
+        "2": 3.0974161624908447,
+        "3": 5.709034442901611,
+        "4": 6.417881488800049,
+        "5": 5.641310691833496,
+        "6": 3.5350728034973145,
+        "7": 6.000367641448975,
+        "8": 2.694610357284546,
+        "9": 3.88942813873291,
+        "10": 3.575751304626465,
+        "11": 3.9472134113311768,
+        "12": 3.47611665725708,
+        "13": 3.7314558029174805,
+        "14": 3.1873891353607178,
+        "15": 3.7039694786071777,
+        "16": 1.4534684419631958,
+        "17": 3.544691801071167,
+        "18": 4.535605430603027,
+        "19": 4.751776695251465,
+        "20": 3.263582706451416,
+        "21": 5.618444919586182,
+        "22": 5.299224853515625,
+        "23": 5.947081565856934,
+        "24": 3.80438232421875,
+        "25": 2.9224624633789062,
+        "26": 4.854543685913086,
+        "27": 2.445622444152832,
+        "28": 4.334139823913574,
+        "29": 4.688059329986572,
+        "30": 3.44834303855896,
+        "31": 3.895824670791626,
+        "32": 3.686645269393921,
+        "33": 1.7266483306884766,
+        "34": 2.669484853744507,
+        "35": 3.5300960540771484,
+        "36": 3.2774598598480225,
+        "37": 4.894134998321533,
+        "38": 4.23474645614624,
+        "39": 3.0254650115966797,
+        "40": 2.219269275665283,
+        "41": 3.4136505126953125,
+        "42": 3.3040285110473633,
+        "43": 7.656406402587891,
+        "44": 1.1073707342147827,
+        "45": 5.251949787139893,
+        "46": 3.4963369369506836,
+        "47": 4.631534576416016,
+        "48": 4.129790306091309,
+        "49": 4.076132297515869,
+        "50": 2.595970630645752,
+        "51": 3.6395885944366455,
+        "52": 4.442357540130615,
+        "53": 4.306703567504883,
+        "54": 4.8197102546691895,
+        "55": 4.425440788269043,
+        "56": 4.3622307777404785,
+        "57": 2.770576000213623,
+        "58": 3.1530208587646484,
+        "59": 3.4982516765594482,
+        "60": 3.712324619293213,
+        "61": 4.147211074829102,
+        "62": 4.040863037109375,
+        "63": 5.248844623565674,
+        "64": 6.2338547706604,
+        "65": 6.882363796234131,
+        "66": 2.526282548904419,
+        "67": 2.9773447513580322,
+        "68": 2.064276695251465,
+        "69": 3.1623568534851074,
+        "70": 2.8384439945220947,
+        "71": 3.5079028606414795,
+        "72": 2.1640408039093018,
+        "73": 4.787292003631592,
+        "74": 3.475193500518799,
+        "75": 1.3221795558929443,
+        "76": 2.9362878799438477,
+        "77": 2.7768497467041016,
+        "78": 6.2162675857543945,
+        "79": 4.401463508605957,
+        "80": 5.4218645095825195,
+        "81": 4.176356792449951,
+        "82": 3.5482261180877686,
+        "83": 2.204202890396118,
+        "84": 3.510277271270752,
+        "85": 3.4890189170837402,
+        "86": 4.166848182678223,
+        "87": 2.4282805919647217,
+        "88": 4.932645797729492,
+        "89": 4.985415935516357,
+        "90": 3.887035846710205,
+        "91": 2.796812057495117,
+        "92": 3.92533540725708,
+        "93": 6.069599151611328,
+        "94": 4.25979471206665,
+        "95": 4.044179439544678,
+        "96": 3.0749998092651367,
+        "97": 5.5483012199401855,
+        "98": 4.177290916442871,
+        "99": 3.8494057655334473,
+        "100": 3.196160078048706,
+        "101": 3.3438777923583984,
+        "102": 5.625897407531738,
+        "103": 1.7990473508834839,
+        "104": 3.0086417198181152,
+        "105": 1.7701315879821777,
+        "106": 3.1338396072387695,
+        "107": 1.762339472770691,
+        "108": 3.630411148071289,
+        "109": 2.6838572025299072,
+        "110": 7.6425275802612305,
+        "111": 2.421013116836548,
+        "112": 6.217345714569092,
+        "113": 3.9693491458892822,
+        "114": 6.429130554199219,
+        "115": 5.951179504394531,
+        "116": 3.5125575065612793
+    },
+    "truth_ratio": {
+        "0": 0.42483100295066833,
+        "1": 0.11888843029737473,
+        "2": 0.22154630720615387,
+        "3": 1.1736215353012085,
+        "4": 3.321028232574463,
+        "5": 1.5449843406677246,
+        "6": 0.5480700135231018,
+        "7": 0.45067235827445984,
+        "8": 0.28164371848106384,
+        "9": 0.20187583565711975,
+        "10": 0.4488644003868103,
+        "11": 0.35486626625061035,
+        "12": 1.0855940580368042,
+        "13": 1.5625216960906982,
+        "14": 0.2989283800125122,
+        "15": 0.37259823083877563,
+        "16": 0.04500335082411766,
+        "17": 0.8006579279899597,
+        "18": 0.7173154354095459,
+        "19": 0.4259762763977051,
+        "20": 0.3146614134311676,
+        "21": 0.7855717539787292,
+        "22": 0.3717334568500519,
+        "23": 3.089205503463745,
+        "24": 0.458251416683197,
+        "25": 0.23668113350868225,
+        "26": 0.5146176815032959,
+        "27": 0.21216019988059998,
+        "28": 0.263456255197525,
+        "29": 0.7620636224746704,
+        "30": 0.9668046236038208,
+        "31": 0.20825035870075226,
+        "32": 0.3191366493701935,
+        "33": 0.08840437978506088,
+        "34": 0.27705466747283936,
+        "35": 0.1291799545288086,
+        "36": 0.84602290391922,
+        "37": 0.4880273640155792,
+        "38": 1.077156901359558,
+        "39": 0.370065301656723,
+        "40": 0.141174778342247,
+        "41": 0.5304614901542664,
+        "42": 0.1707339733839035,
+        "43": 0.7646760940551758,
+        "44": 0.06104319170117378,
+        "45": 1.9974086284637451,
+        "46": 0.28970515727996826,
+        "47": 1.0806753635406494,
+        "48": 0.1911100447177887,
+        "49": 0.24998177587985992,
+        "50": 0.18504968285560608,
+        "51": 0.23826058208942413,
+        "52": 0.49347642064094543,
+        "53": 1.3550162315368652,
+        "54": 0.8733167052268982,
+        "55": 1.2609517574310303,
+        "56": 1.228584885597229,
+        "57": 0.4920389950275421,
+        "58": 0.26944130659103394,
+        "59": 0.7329402565956116,
+        "60": 0.8123146295547485,
+        "61": 0.36841925978660583,
+        "62": 0.15287558734416962,
+        "63": 0.3798653483390808,
+        "64": 0.20545433461666107,
+        "65": 1.0885827541351318,
+        "66": 0.03010622411966324,
+        "67": 0.30539003014564514,
+        "68": 0.13017114996910095,
+        "69": 0.1576567143201828,
+        "70": 0.20049655437469482,
+        "71": 0.09687834233045578,
+        "72": 0.5049441456794739,
+        "73": 0.1441894918680191,
+        "74": 1.2848639488220215,
+        "75": 0.19303841888904572,
+        "76": 0.29370924830436707,
+        "77": 0.2882305383682251,
+        "78": 7.03720760345459,
+        "79": 0.7666462063789368,
+        "80": 0.6578628420829773,
+        "81": 0.5606194734573364,
+        "82": 0.2916070222854614,
+        "83": 0.23223377764225006,
+        "84": 0.8223609328269958,
+        "85": 0.4769091010093689,
+        "86": 0.9882445335388184,
+        "87": 0.2067670375108719,
+        "88": 1.5964082479476929,
+        "89": 0.16684645414352417,
+        "90": 0.8618077039718628,
+        "91": 0.533392071723938,
+        "92": 0.16240869462490082,
+        "93": 0.8643313050270081,
+        "94": 2.8638691902160645,
+        "95": 2.1416890621185303,
+        "96": 0.26890042424201965,
+        "97": 2.1277356147766113,
+        "98": 2.220803737640381,
+        "99": 0.5642450451850891,
+        "100": 0.31157562136650085,
+        "101": 0.2230769842863083,
+        "102": 0.8344793319702148,
+        "103": 0.11385542899370193,
+        "104": 0.5868293642997742,
+        "105": 0.2578657567501068,
+        "106": 0.5907902717590332,
+        "107": 0.1166270300745964,
+        "108": 0.12185165286064148,
+        "109": 0.4456593990325928,
+        "110": 11.265633583068848,
+        "111": 0.2481463998556137,
+        "112": 0.9047728180885315,
+        "113": 0.13250832259655,
+        "114": 1.5623897314071655,
+        "115": 0.8813350200653076,
+        "116": 0.6869842410087585
+    },
+    "paraphrased_loss": {
+        "0": 23.13606834411621,
+        "1": 9.412161827087402,
+        "2": 12.389664649963379,
+        "3": 22.836137771606445,
+        "4": 25.671525955200195,
+        "5": 22.565242767333984,
+        "6": 17.675363540649414,
+        "7": 24.0014705657959,
+        "8": 10.778441429138184,
+        "9": 15.55771255493164,
+        "10": 14.30300521850586,
+        "11": 15.788853645324707,
+        "12": 17.380582809448242,
+        "13": 22.388734817504883,
+        "14": 19.12433433532715,
+        "15": 18.519847869873047,
+        "16": 7.2673420906066895,
+        "17": 21.268150329589844,
+        "18": 18.14242172241211,
+        "19": 19.00710678100586,
+        "20": 13.054330825805664,
+        "21": 22.473779678344727,
+        "22": 21.1968994140625,
+        "23": 23.788326263427734,
+        "24": 19.02191162109375,
+        "25": 11.689849853515625,
+        "26": 19.418174743652344,
+        "27": 9.782489776611328,
+        "28": 17.336559295654297,
+        "29": 18.75223731994629,
+        "30": 13.79337215423584,
+        "31": 23.374948501586914,
+        "32": 22.119871139526367,
+        "33": 10.35988998413086,
+        "34": 16.016908645629883,
+        "35": 14.120384216308594,
+        "36": 13.10983943939209,
+        "37": 19.576539993286133,
+        "38": 21.17373275756836,
+        "39": 18.152790069580078,
+        "40": 11.096345901489258,
+        "41": 13.65460205078125,
+        "42": 13.216114044189453,
+        "43": 30.625625610351562,
+        "44": 7.751595497131348,
+        "45": 36.763648986816406,
+        "46": 13.985347747802734,
+        "47": 18.526138305664062,
+        "48": 28.908531188964844,
+        "49": 16.304529190063477,
+        "50": 12.979853630065918,
+        "51": 14.558354377746582,
+        "52": 17.76943016052246,
+        "53": 17.22681427001953,
+        "54": 19.278841018676758,
+        "55": 17.701763153076172,
+        "56": 17.448923110961914,
+        "57": 13.852880477905273,
+        "58": 15.765104293823242,
+        "59": 24.487762451171875,
+        "60": 18.561622619628906,
+        "61": 16.588844299316406,
+        "62": 16.1634521484375,
+        "63": 20.995378494262695,
+        "64": 37.40312957763672,
+        "65": 27.529455184936523,
+        "66": 10.105130195617676,
+        "67": 14.886723518371582,
+        "68": 22.707042694091797,
+        "69": 12.64942741394043,
+        "70": 19.869108200073242,
+        "71": 21.04741668701172,
+        "72": 17.312326431274414,
+        "73": 19.149168014526367,
+        "74": 24.32635498046875,
+        "75": 6.610897541046143,
+        "76": 11.74515151977539,
+        "77": 16.66109848022461,
+        "78": 24.865070343017578,
+        "79": 22.00731658935547,
+        "80": 21.687458038330078,
+        "81": 20.881784439086914,
+        "82": 14.192904472351074,
+        "83": 19.837825775146484,
+        "84": 17.5513858795166,
+        "85": 17.44509506225586,
+        "86": 20.834239959716797,
+        "87": 19.426244735717773,
+        "88": 29.595874786376953,
+        "89": 19.94166374206543,
+        "90": 15.54814338684082,
+        "91": 13.984060287475586,
+        "92": 27.47734832763672,
+        "93": 24.278396606445312,
+        "94": 21.298973083496094,
+        "95": 24.26507568359375,
+        "96": 15.374999046325684,
+        "97": 27.741506576538086,
+        "98": 16.709163665771484,
+        "99": 15.397623062133789,
+        "100": 19.176959991455078,
+        "101": 20.06326675415039,
+        "102": 22.503589630126953,
+        "103": 12.593331336975098,
+        "104": 15.043208122253418,
+        "105": 10.620789527893066,
+        "106": 15.669198036193848,
+        "107": 10.574036598205566,
+        "108": 14.521644592285156,
+        "109": 16.1031436920166,
+        "110": 30.570110321044922,
+        "111": 26.631145477294922,
+        "112": 24.869382858276367,
+        "113": 15.877396583557129,
+        "114": 32.145652770996094,
+        "115": 35.70707702636719,
+        "116": 17.562788009643555
+    },
+    "perturb_loss": {
+        "0": [
+            26.513389587402344,
+            25.336734771728516,
+            27.830842971801758
+        ],
+        "1": [
+            18.090299606323242,
+            20.6862850189209,
+            19.151992797851562
+        ],
+        "2": [
+            15.641498565673828,
+            21.26890754699707,
+            18.344074249267578
+        ],
+        "3": [
+            21.761228561401367,
+            27.38401222229004,
+            26.570037841796875
+        ],
+        "4": [
+            18.138999938964844,
+            22.599153518676758,
+            27.34140968322754
+        ],
+        "5": [
+            22.643159866333008,
+            21.207754135131836,
+            18.624645233154297
+        ],
+        "6": [
+            15.523176193237305,
+            24.707889556884766,
+            22.0524959564209
+        ],
+        "7": [
+            24.131938934326172,
+            28.1921443939209,
+            29.244504928588867
+        ],
+        "8": [
+            16.365772247314453,
+            18.728107452392578,
+            15.719945907592773
+        ],
+        "9": [
+            26.133493423461914,
+            23.473939895629883,
+            26.202152252197266
+        ],
+        "10": [
+            16.990924835205078,
+            17.417190551757812,
+            18.113311767578125
+        ],
+        "11": [
+            21.531204223632812,
+            18.158920288085938,
+            20.10860252380371
+        ],
+        "12": [
+            17.645435333251953,
+            15.45150375366211,
+            21.37548065185547
+        ],
+        "13": [
+            18.19827651977539,
+            16.074594497680664,
+            24.85991096496582
+        ],
+        "14": [
+            21.895532608032227,
+            17.89143180847168,
+            31.36456871032715
+        ],
+        "15": [
+            25.901123046875,
+            20.16986846923828,
+            24.29737091064453
+        ],
+        "16": [
+            18.478330612182617,
+            25.024206161499023,
+            19.851806640625
+        ],
+        "17": [
+            24.345226287841797,
+            28.54902458190918,
+            22.04924201965332
+        ],
+        "18": [
+            19.52724838256836,
+            20.72568702697754,
+            18.161205291748047
+        ],
+        "19": [
+            23.308704376220703,
+            21.353282928466797,
+            22.59979820251465
+        ],
+        "20": [
+            16.612977981567383,
+            17.016847610473633,
+            19.408260345458984
+        ],
+        "21": [
+            22.075969696044922,
+            26.237323760986328,
+            22.00416374206543
+        ],
+        "22": [
+            27.3050479888916,
+            28.57345962524414,
+            24.483909606933594
+        ],
+        "23": [
+            27.394634246826172,
+            25.836612701416016,
+            20.155380249023438
+        ],
+        "24": [
+            21.879079818725586,
+            19.858510971069336,
+            21.56342887878418
+        ],
+        "25": [
+            14.19701862335205,
+            21.44382095336914,
+            21.00996971130371
+        ],
+        "26": [
+            19.457921981811523,
+            23.781076431274414,
+            22.987497329711914
+        ],
+        "27": [
+            17.646326065063477,
+            14.777727127075195,
+            15.528379440307617
+        ],
+        "28": [
+            19.684001922607422,
+            21.813743591308594,
+            26.518346786499023
+        ],
+        "29": [
+            16.129920959472656,
+            19.63237953186035,
+            23.755111694335938
+        ],
+        "30": [
+            17.816442489624023,
+            10.950772285461426,
+            13.018006324768066
+        ],
+        "31": [
+            31.56279754638672,
+            33.89725875854492,
+            32.907039642333984
+        ],
+        "32": [
+            37.615482330322266,
+            28.05147933959961,
+            45.9481315612793
+        ],
+        "33": [
+            19.05324935913086,
+            18.71281623840332,
+            19.842954635620117
+        ],
+        "34": [
+            22.4387264251709,
+            26.211912155151367,
+            25.7093448638916
+        ],
+        "35": [
+            25.500041961669922,
+            22.961811065673828,
+            23.050243377685547
+        ],
+        "36": [
+            14.318428039550781,
+            21.11286163330078,
+            12.94235610961914
+        ],
+        "37": [
+            22.695838928222656,
+            21.88255500793457,
+            22.759836196899414
+        ],
+        "38": [
+            21.456363677978516,
+            24.432537078857422,
+            26.427875518798828
+        ],
+        "39": [
+            17.770538330078125,
+            23.917110443115234,
+            20.442718505859375
+        ],
+        "40": [
+            18.67795181274414,
+            19.10958480834961,
+            16.15868377685547
+        ],
+        "41": [
+            16.286706924438477,
+            17.64034080505371,
+            17.902191162109375
+        ],
+        "42": [
+            22.253557205200195,
+            17.416194915771484,
+            25.64108657836914
+        ],
+        "43": [
+            39.250244140625,
+            32.38517761230469,
+            29.938125610351562
+        ],
+        "44": [
+            20.86897087097168,
+            20.45006561279297,
+            33.13966369628906
+        ],
+        "45": [
+            30.48661231994629,
+            27.939098358154297,
+            37.33637237548828
+        ],
+        "46": [
+            21.020700454711914,
+            21.601438522338867,
+            23.151107788085938
+        ],
+        "47": [
+            26.59320068359375,
+            20.079118728637695,
+            19.98674201965332
+        ],
+        "48": [
+            33.695159912109375,
+            42.35508346557617,
+            38.36918258666992
+        ],
+        "49": [
+            20.92227554321289,
+            18.220094680786133,
+            26.407625198364258
+        ],
+        "50": [
+            18.830406188964844,
+            23.180015563964844,
+            26.68332290649414
+        ],
+        "51": [
+            20.042789459228516,
+            23.640209197998047,
+            21.505931854248047
+        ],
+        "52": [
+            19.498336791992188,
+            22.20402717590332,
+            20.081287384033203
+        ],
+        "53": [
+            18.38251495361328,
+            13.399924278259277,
+            20.31529998779297
+        ],
+        "54": [
+            18.89264678955078,
+            20.31573486328125,
+            25.31702995300293
+        ],
+        "55": [
+            12.860689163208008,
+            18.175806045532227,
+            19.286392211914062
+        ],
+        "56": [
+            15.200183868408203,
+            18.142637252807617,
+            19.573627471923828
+        ],
+        "57": [
+            17.160036087036133,
+            20.695377349853516,
+            20.077655792236328
+        ],
+        "58": [
+            19.089136123657227,
+            16.238935470581055,
+            18.245033264160156
+        ],
+        "59": [
+            19.06659698486328,
+            32.89802932739258,
+            20.68404769897461
+        ],
+        "60": [
+            27.13892364501953,
+            22.85159683227539,
+            30.859403610229492
+        ],
+        "61": [
+            22.06890869140625,
+            19.750972747802734,
+            19.929054260253906
+        ],
+        "62": [
+            24.31022071838379,
+            21.666404724121094,
+            31.31412696838379
+        ],
+        "63": [
+            25.860065460205078,
+            23.04734230041504,
+            25.693988800048828
+        ],
+        "64": [
+            28.116289138793945,
+            35.56269836425781,
+            37.647056579589844
+        ],
+        "65": [
+            32.39798355102539,
+            24.51875114440918,
+            31.132707595825195
+        ],
+        "66": [
+            23.399457931518555,
+            25.941598892211914,
+            23.0106143951416
+        ],
+        "67": [
+            24.202604293823242,
+            24.066940307617188,
+            25.093151092529297
+        ],
+        "68": [
+            24.314577102661133,
+            33.4876708984375,
+            32.56925964355469
+        ],
+        "69": [
+            21.6795654296875,
+            16.483423233032227,
+            21.953317642211914
+        ],
+        "70": [
+            18.68868064880371,
+            18.777156829833984,
+            29.215194702148438
+        ],
+        "71": [
+            29.344676971435547,
+            33.930625915527344,
+            39.29030227661133
+        ],
+        "72": [
+            17.028512954711914,
+            14.663973808288574,
+            15.42482852935791
+        ],
+        "73": [
+            26.8976993560791,
+            24.212902069091797,
+            29.57642936706543
+        ],
+        "74": [
+            23.511085510253906,
+            24.32198143005371,
+            29.555912017822266
+        ],
+        "75": [
+            14.023857116699219,
+            16.130722045898438,
+            17.190282821655273
+        ],
+        "76": [
+            16.77740478515625,
+            18.60601806640625,
+            14.554009437561035
+        ],
+        "77": [
+            28.2503719329834,
+            21.856054306030273,
+            31.866743087768555
+        ],
+        "78": [
+            20.67963409423828,
+            20.394861221313477,
+            21.0783634185791
+        ],
+        "79": [
+            16.835548400878906,
+            21.1500186920166,
+            21.387863159179688
+        ],
+        "80": [
+            21.450834274291992,
+            25.133541107177734,
+            23.503108978271484
+        ],
+        "81": [
+            20.586181640625,
+            29.017545700073242,
+            26.558578491210938
+        ],
+        "82": [
+            18.30647087097168,
+            19.452117919921875,
+            19.60830307006836
+        ],
+        "83": [
+            25.59984588623047,
+            28.20294952392578,
+            31.620338439941406
+        ],
+        "84": [
+            12.913588523864746,
+            17.839282989501953,
+            19.86794090270996
+        ],
+        "85": [
+            23.989990234375,
+            18.550403594970703,
+            20.90133285522461
+        ],
+        "86": [
+            21.006118774414062,
+            22.449764251708984,
+            19.224212646484375
+        ],
+        "87": [
+            20.051393508911133,
+            25.65350341796875,
+            40.053157806396484
+        ],
+        "88": [
+            28.451446533203125,
+            31.705711364746094,
+            32.36713790893555
+        ],
+        "89": [
+            29.181116104125977,
+            27.313161849975586,
+            24.81888198852539
+        ],
+        "90": [
+            17.14385414123535,
+            16.92767906188965,
+            26.679523468017578
+        ],
+        "91": [
+            18.662078857421875,
+            22.531139373779297,
+            19.948688507080078
+        ],
+        "92": [
+            31.552160263061523,
+            31.780155181884766,
+            31.827205657958984
+        ],
+        "93": [
+            21.007633209228516,
+            28.476322174072266,
+            25.100818634033203
+        ],
+        "94": [
+            12.858719825744629,
+            17.154930114746094,
+            20.959821701049805
+        ],
+        "95": [
+            20.317663192749023,
+            19.879600524902344,
+            22.037464141845703
+        ],
+        "96": [
+            18.73690414428711,
+            21.067792892456055,
+            26.02151107788086
+        ],
+        "97": [
+            23.236034393310547,
+            22.67289161682129,
+            25.989717483520508
+        ],
+        "98": [
+            24.517465591430664,
+            21.3314208984375,
+            27.7853946685791
+        ],
+        "99": [
+            14.314523696899414,
+            15.518476486206055,
+            23.227062225341797
+        ],
+        "100": [
+            30.975757598876953,
+            21.675037384033203,
+            30.295230865478516
+        ],
+        "101": [
+            29.346023559570312,
+            32.471351623535156,
+            28.323673248291016
+        ],
+        "102": [
+            21.736574172973633,
+            26.6868953704834,
+            26.596044540405273
+        ],
+        "103": [
+            23.95146942138672,
+            25.198835372924805,
+            34.35340118408203
+        ],
+        "104": [
+            18.7908992767334,
+            17.168235778808594,
+            17.165809631347656
+        ],
+        "105": [
+            21.15561294555664,
+            19.40123748779297,
+            21.533679962158203
+        ],
+        "106": [
+            25.969322204589844,
+            16.33536148071289,
+            20.155715942382812
+        ],
+        "107": [
+            28.912410736083984,
+            30.889514923095703,
+            22.23900604248047
+        ],
+        "108": [
+            20.651159286499023,
+            25.492427825927734,
+            22.680757522583008
+        ],
+        "109": [
+            21.940475463867188,
+            21.668962478637695,
+            16.89728546142578
+        ],
+        "110": [
+            19.825803756713867,
+            23.06787109375,
+            19.755571365356445
+        ],
+        "111": [
+            14.518261909484863,
+            25.068248748779297,
+            39.26299285888672
+        ],
+        "112": [
+            24.697999954223633,
+            22.36139488220215,
+            28.74960708618164
+        ],
+        "113": [
+            24.811973571777344,
+            22.18891716003418,
+            24.884611129760742
+        ],
+        "114": [
+            35.85361099243164,
+            35.29874038696289,
+            30.450084686279297
+        ],
+        "115": [
+            20.7442569732666,
+            24.89279556274414,
+            27.292911529541016
+        ],
+        "116": [
+            16.49150276184082,
+            20.338043212890625,
+            21.490476608276367
+        ]
+    },
+    "num_token_paraphrased": {
+        "0": 4,
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 5,
+        "13": 6,
+        "14": 6,
+        "15": 5,
+        "16": 5,
+        "17": 6,
+        "18": 4,
+        "19": 4,
+        "20": 4,
+        "21": 4,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 4,
+        "27": 4,
+        "28": 4,
+        "29": 4,
+        "30": 4,
+        "31": 6,
+        "32": 6,
+        "33": 6,
+        "34": 6,
+        "35": 4,
+        "36": 4,
+        "37": 4,
+        "38": 5,
+        "39": 6,
+        "40": 5,
+        "41": 4,
+        "42": 4,
+        "43": 4,
+        "44": 7,
+        "45": 7,
+        "46": 4,
+        "47": 4,
+        "48": 7,
+        "49": 4,
+        "50": 5,
+        "51": 4,
+        "52": 4,
+        "53": 4,
+        "54": 4,
+        "55": 4,
+        "56": 4,
+        "57": 5,
+        "58": 5,
+        "59": 7,
+        "60": 5,
+        "61": 4,
+        "62": 4,
+        "63": 4,
+        "64": 6,
+        "65": 4,
+        "66": 4,
+        "67": 5,
+        "68": 11,
+        "69": 4,
+        "70": 7,
+        "71": 6,
+        "72": 8,
+        "73": 4,
+        "74": 7,
+        "75": 5,
+        "76": 4,
+        "77": 6,
+        "78": 4,
+        "79": 5,
+        "80": 4,
+        "81": 5,
+        "82": 4,
+        "83": 9,
+        "84": 5,
+        "85": 5,
+        "86": 5,
+        "87": 8,
+        "88": 6,
+        "89": 4,
+        "90": 4,
+        "91": 5,
+        "92": 7,
+        "93": 4,
+        "94": 5,
+        "95": 6,
+        "96": 5,
+        "97": 5,
+        "98": 4,
+        "99": 4,
+        "100": 6,
+        "101": 6,
+        "102": 4,
+        "103": 7,
+        "104": 5,
+        "105": 6,
+        "106": 5,
+        "107": 6,
+        "108": 4,
+        "109": 6,
+        "110": 4,
+        "111": 11,
+        "112": 4,
+        "113": 4,
+        "114": 5,
+        "115": 6,
+        "116": 5
+    },
+    "num_token_perturb": {
+        "0": [
+            4,
+            4,
+            4
+        ],
+        "1": [
+            4,
+            5,
+            4
+        ],
+        "2": [
+            4,
+            4,
+            4
+        ],
+        "3": [
+            4,
+            6,
+            4
+        ],
+        "4": [
+            4,
+            4,
+            5
+        ],
+        "5": [
+            4,
+            4,
+            4
+        ],
+        "6": [
+            4,
+            6,
+            5
+        ],
+        "7": [
+            4,
+            4,
+            4
+        ],
+        "8": [
+            5,
+            4,
+            4
+        ],
+        "9": [
+            4,
+            5,
+            5
+        ],
+        "10": [
+            4,
+            4,
+            4
+        ],
+        "11": [
+            4,
+            4,
+            4
+        ],
+        "12": [
+            5,
+            5,
+            6
+        ],
+        "13": [
+            6,
+            6,
+            6
+        ],
+        "14": [
+            5,
+            5,
+            6
+        ],
+        "15": [
+            5,
+            5,
+            5
+        ],
+        "16": [
+            5,
+            5,
+            4
+        ],
+        "17": [
+            6,
+            8,
+            6
+        ],
+        "18": [
+            4,
+            4,
+            4
+        ],
+        "19": [
+            4,
+            4,
+            4
+        ],
+        "20": [
+            4,
+            4,
+            4
+        ],
+        "21": [
+            4,
+            4,
+            4
+        ],
+        "22": [
+            4,
+            4,
+            5
+        ],
+        "23": [
+            5,
+            4,
+            8
+        ],
+        "24": [
+            4,
+            5,
+            5
+        ],
+        "25": [
+            4,
+            5,
+            4
+        ],
+        "26": [
+            4,
+            4,
+            4
+        ],
+        "27": [
+            4,
+            4,
+            4
+        ],
+        "28": [
+            4,
+            4,
+            4
+        ],
+        "29": [
+            4,
+            4,
+            4
+        ],
+        "30": [
+            4,
+            4,
+            4
+        ],
+        "31": [
+            6,
+            6,
+            6
+        ],
+        "32": [
+            7,
+            7,
+            9
+        ],
+        "33": [
+            5,
+            4,
+            5
+        ],
+        "34": [
+            7,
+            6,
+            6
+        ],
+        "35": [
+            4,
+            5,
+            4
+        ],
+        "36": [
+            4,
+            6,
+            4
+        ],
+        "37": [
+            4,
+            4,
+            4
+        ],
+        "38": [
+            5,
+            5,
+            8
+        ],
+        "39": [
+            6,
+            6,
+            4
+        ],
+        "40": [
+            4,
+            5,
+            4
+        ],
+        "41": [
+            5,
+            4,
+            4
+        ],
+        "42": [
+            5,
+            4,
+            4
+        ],
+        "43": [
+            4,
+            5,
+            4
+        ],
+        "44": [
+            6,
+            5,
+            8
+        ],
+        "45": [
+            7,
+            7,
+            7
+        ],
+        "46": [
+            4,
+            5,
+            5
+        ],
+        "47": [
+            5,
+            6,
+            4
+        ],
+        "48": [
+            7,
+            6,
+            7
+        ],
+        "49": [
+            4,
+            4,
+            4
+        ],
+        "50": [
+            5,
+            5,
+            6
+        ],
+        "51": [
+            4,
+            4,
+            5
+        ],
+        "52": [
+            4,
+            4,
+            4
+        ],
+        "53": [
+            4,
+            4,
+            5
+        ],
+        "54": [
+            4,
+            4,
+            5
+        ],
+        "55": [
+            4,
+            4,
+            4
+        ],
+        "56": [
+            5,
+            4,
+            4
+        ],
+        "57": [
+            5,
+            5,
+            7
+        ],
+        "58": [
+            4,
+            4,
+            4
+        ],
+        "59": [
+            6,
+            8,
+            5
+        ],
+        "60": [
+            6,
+            6,
+            9
+        ],
+        "61": [
+            4,
+            4,
+            4
+        ],
+        "62": [
+            4,
+            4,
+            5
+        ],
+        "63": [
+            4,
+            4,
+            4
+        ],
+        "64": [
+            4,
+            4,
+            5
+        ],
+        "65": [
+            5,
+            4,
+            4
+        ],
+        "66": [
+            4,
+            4,
+            4
+        ],
+        "67": [
+            6,
+            7,
+            5
+        ],
+        "68": [
+            6,
+            8,
+            8
+        ],
+        "69": [
+            4,
+            4,
+            4
+        ],
+        "70": [
+            5,
+            5,
+            5
+        ],
+        "71": [
+            7,
+            5,
+            6
+        ],
+        "72": [
+            5,
+            5,
+            7
+        ],
+        "73": [
+            4,
+            4,
+            4
+        ],
+        "74": [
+            8,
+            8,
+            8
+        ],
+        "75": [
+            7,
+            4,
+            6
+        ],
+        "76": [
+            4,
+            4,
+            4
+        ],
+        "77": [
+            9,
+            5,
+            7
+        ],
+        "78": [
+            6,
+            5,
+            4
+        ],
+        "79": [
+            5,
+            4,
+            4
+        ],
+        "80": [
+            4,
+            4,
+            4
+        ],
+        "81": [
+            5,
+            6,
+            5
+        ],
+        "82": [
+            4,
+            4,
+            4
+        ],
+        "83": [
+            7,
+            6,
+            12
+        ],
+        "84": [
+            5,
+            5,
+            4
+        ],
+        "85": [
+            5,
+            5,
+            5
+        ],
+        "86": [
+            5,
+            5,
+            5
+        ],
+        "87": [
+            6,
+            7,
+            8
+        ],
+        "88": [
+            7,
+            6,
+            8
+        ],
+        "89": [
+            4,
+            4,
+            4
+        ],
+        "90": [
+            5,
+            4,
+            6
+        ],
+        "91": [
+            5,
+            7,
+            6
+        ],
+        "92": [
+            7,
+            5,
+            5
+        ],
+        "93": [
+            4,
+            4,
+            4
+        ],
+        "94": [
+            5,
+            6,
+            5
+        ],
+        "95": [
+            6,
+            6,
+            7
+        ],
+        "96": [
+            5,
+            5,
+            5
+        ],
+        "97": [
+            5,
+            5,
+            5
+        ],
+        "98": [
+            7,
+            8,
+            7
+        ],
+        "99": [
+            4,
+            4,
+            4
+        ],
+        "100": [
+            7,
+            6,
+            6
+        ],
+        "101": [
+            6,
+            5,
+            9
+        ],
+        "102": [
+            4,
+            5,
+            4
+        ],
+        "103": [
+            7,
+            6,
+            8
+        ],
+        "104": [
+            5,
+            5,
+            5
+        ],
+        "105": [
+            8,
+            8,
+            5
+        ],
+        "106": [
+            5,
+            5,
+            8
+        ],
+        "107": [
+            8,
+            7,
+            6
+        ],
+        "108": [
+            4,
+            4,
+            4
+        ],
+        "109": [
+            5,
+            8,
+            5
+        ],
+        "110": [
+            4,
+            4,
+            4
+        ],
+        "111": [
+            5,
+            6,
+            9
+        ],
+        "112": [
+            4,
+            4,
+            4
+        ],
+        "113": [
+            4,
+            4,
+            4
+        ],
+        "114": [
+            6,
+            6,
+            5
+        ],
+        "115": [
+            4,
+            4,
+            4
+        ],
+        "116": [
+            5,
+            5,
+            5
+        ]
+    },
+    "normalized_gt_loss": {
+        "0": 0.8398076583942519,
+        "1": 0.31463611995555935,
+        "2": 0.5754111995074235,
+        "3": 1.7654200324780451,
+        "4": 2.5107681734795357,
+        "5": 1.8022025727299074,
+        "6": 0.986811182451046,
+        "7": 0.9509929435793175,
+        "8": 0.6873748134909577,
+        "9": 0.5749197622402469,
+        "10": 0.8567594408625604,
+        "11": 0.7563690427117017,
+        "12": 1.4670420578620256,
+        "13": 1.8775336953612975,
+        "14": 0.7467697219587748,
+        "15": 0.8163874215458499,
+        "16": 0.15256864955520472,
+        "17": 1.2392646969501588,
+        "18": 1.171526827007228,
+        "19": 0.8349596290140261,
+        "20": 0.6863103439545795,
+        "21": 1.2863142146719586,
+        "22": 1.0545952770459652,
+        "23": 3.526382400570419,
+        "24": 0.9694753086660669,
+        "25": 0.6347997657183245,
+        "26": 1.0064183616470879,
+        "27": 0.5096044859497361,
+        "28": 0.684760193377882,
+        "29": 1.3900490355194477,
+        "30": 1.5293076293635448,
+        "31": 0.4902939363438536,
+        "32": 0.7667401548831103,
+        "33": 0.24915551537978864,
+        "34": 0.6763580867815333,
+        "35": 0.4128209686111392,
+        "36": 1.2718807609935643,
+        "37": 0.9048474905938042,
+        "38": 1.610213364151596,
+        "39": 0.9449479426179579,
+        "40": 0.3712862362658333,
+        "41": 1.0592406561221177,
+        "42": 0.5378891122110941,
+        "43": 1.714811158465596,
+        "44": 0.17574671992318328,
+        "45": 2.0669514841886563,
+        "46": 0.6589287511929587,
+        "47": 1.759897816628308,
+        "48": 0.5971698328876335,
+        "49": 0.7004709153555098,
+        "50": 0.46837597725916885,
+        "51": 0.6276032137622879,
+        "52": 0.932205510176521,
+        "53": 1.7277734403860354,
+        "54": 1.2965716079595861,
+        "55": 1.7775804176705632,
+        "56": 1.8213723463679579,
+        "57": 0.984905111509011,
+        "58": 0.6132746468062319,
+        "59": 1.237513076739924,
+        "60": 1.3030419251228684,
+        "61": 0.761533573522971,
+        "62": 0.39978819141380234,
+        "63": 0.7902698298941683,
+        "64": 0.5852275677997228,
+        "65": 1.6143996809088268,
+        "66": 0.09057610924897844,
+        "67": 0.7459030474698628,
+        "68": 0.33015611241552484,
+        "69": 0.46106664136245296,
+        "70": 0.6184978562061696,
+        "71": 0.4637364481132881,
+        "72": 0.9983345624732599,
+        "73": 0.40537284281925995,
+        "74": 1.6209012470411481,
+        "75": 0.5801271941160179,
+        "76": 0.6727482742340332,
+        "77": 0.726899123357132,
+        "78": 3.332449125923342,
+        "79": 1.529107426770336,
+        "80": 1.137383499704285,
+        "81": 1.0644044216454116,
+        "82": 0.6335844985415493,
+        "83": 0.6761280442046153,
+        "84": 1.5487066729871666,
+        "85": 0.9449612352950124,
+        "86": 1.4036427821234958,
+        "87": 0.5694901278439313,
+        "88": 1.873842937406431,
+        "89": 0.44023487385255744,
+        "90": 1.350951291625141,
+        "91": 0.969996583380934,
+        "92": 0.5503397812566264,
+        "93": 1.4882945655629796,
+        "94": 2.4455511333520943,
+        "95": 2.009210170836624,
+        "96": 0.6676714913217682,
+        "97": 2.0330982286346275,
+        "98": 2.1662409256790616,
+        "99": 1.2303564269013565,
+        "100": 0.7461243820302722,
+        "101": 0.9055122039888981,
+        "102": 1.3623333634991113,
+        "103": 0.31519144799730175,
+        "104": 1.0226072050359158,
+        "105": 0.7009716333723206,
+        "106": 1.3483884549230194,
+        "107": 0.3153178578231644,
+        "108": 0.34392672134511826,
+        "109": 0.9769066150880239,
+        "110": 3.614488796668544,
+        "111": 0.6591724583226871,
+        "112": 1.4574094601255696,
+        "113": 0.3497823879440082,
+        "114": 1.7411511176519356,
+        "115": 1.4653768182880642,
+        "116": 1.1844407875223544
+    }
+}
